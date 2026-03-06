@@ -21,6 +21,7 @@ from html import escape
 SRC_JSON = sys.argv[1] if len(sys.argv) > 1 else "ppu_archive.json"
 DIST = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dist")
 STATIC = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static")
+DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 
 SUBSPECIALTIES = [
     "Mood Disorders", "Psychotic Disorders", "Anxiety & Trauma", "Addiction",
@@ -50,6 +51,42 @@ def slugify(text):
     s = re.sub(r"[^a-z0-9\-]+", "-", s)
     s = re.sub(r"-+", "-", s).strip("-")
     return s
+
+
+MONTH_ABBREVS = {
+    "jan": "january", "feb": "february", "mar": "march", "apr": "april",
+    "jun": "june", "jul": "july", "aug": "august", "sep": "september",
+    "sept": "september", "oct": "october", "nov": "november", "dec": "december",
+}
+MONTH_FULL = set(MONTH_ABBREVS.values()) | {"may"}
+
+STOP_WORDS = {"practice", "updates", "psychiatric", "docx", "pdf", "draft", "ppu"}
+
+
+def tokenize_normalized(text):
+    """Tokenize and expand month abbreviations to full names."""
+    tokens = re.sub(r"[^a-z0-9]+", " ", text.lower()).strip().split()
+    return {MONTH_ABBREVS.get(t, t) for t in tokens} - STOP_WORDS
+
+
+def find_doc_for_edition(edition_name, doc_files):
+    """Find the best matching doc file for an edition name.
+    Scores month-name matches higher than year matches."""
+    ed_tokens = tokenize_normalized(edition_name)
+    best = None
+    best_score = (0, 0)  # (month_matches, total_matches)
+    for fname in doc_files:
+        f_tokens = tokenize_normalized(os.path.splitext(fname)[0])
+        overlap = ed_tokens & f_tokens
+        month_hits = len(overlap & MONTH_FULL)
+        score = (month_hits, len(overlap))
+        if score > best_score:
+            best = fname
+            best_score = score
+        elif score == best_score and best is not None:
+            if len(fname) < len(best):
+                best = fname
+    return best if best_score > (0, 0) else None
 
 
 def pubmed_url(pmid):
@@ -333,6 +370,20 @@ def build_issue_page(edition, editions, index):
     else:
         next_link = '<span class="disabled">Newer &rarr;</span>'
 
+    # Download button for original Word doc
+    download_html = ""
+    # Prefer explicit doc_file field, fall back to filename field, then fuzzy match
+    doc_name = edition.get("doc_file", "")
+    if not doc_name:
+        fn = edition.get("filename", "")
+        if fn and os.path.isfile(os.path.join(DOCS, fn)):
+            doc_name = fn
+    if not doc_name:
+        doc_files = os.listdir(DOCS) if os.path.isdir(DOCS) else []
+        doc_name = find_doc_for_edition(edition["edition"], doc_files) or ""
+    if doc_name and os.path.isfile(os.path.join(DOCS, doc_name)):
+        download_html = f'<a class="btn btn-download" href="../docs/{e(doc_name)}" download>&#8681; Download original document</a>'
+
     cards_html = "\n".join(render_article_card(a, show_edition=False) for a in edition["articles"])
 
     return (
@@ -343,6 +394,7 @@ def build_issue_page(edition, editions, index):
   <div class="page-header">
     <h1>{e(edition["edition"])}</h1>
     <p>{edition["article_count"]} articles</p>
+    {download_html}
   </div>
 
   <nav class="issue-nav">
@@ -390,6 +442,15 @@ def main():
         if os.path.isfile(src):
             shutil.copy2(src, dst)
             print(f"  Copied {fname}")
+
+    # Copy Word docs if the docs/ directory exists
+    if os.path.isdir(DOCS):
+        docs_dist = os.path.join(DIST, "docs")
+        os.makedirs(docs_dist, exist_ok=True)
+        for fname in os.listdir(DOCS):
+            if fname.lower().endswith((".docx", ".doc", ".pdf")):
+                shutil.copy2(os.path.join(DOCS, fname), os.path.join(docs_dist, fname))
+                print(f"  Copied docs/{fname}")
 
     # Build pages
     with open(os.path.join(DIST, "index.html"), "w", encoding="utf-8") as f:
