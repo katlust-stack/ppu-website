@@ -307,6 +307,26 @@ def build_index(editions):
   </a>
 </div>""")
 
+    journals = [
+        "Frontiers of Psychiatry", "Neuropsychopharmacology",
+        "PLOS Mental Health and Psychiatry", "Depression and Anxiety",
+        "Journal of the American Academy of Child and Adolescent Psychiatry",
+        "American Journal of Geriatric Psychiatry",
+        "Journal of the Academy of Consult-Liaison Psychiatry",
+        "Journal of Child Psychology and Psychiatry and Allied Disciplines",
+        "Psychotherapy and Psychosomatics",
+        "Journal of Neurology Neurosurgery and Psychiatry",
+        "British Journal of Psychiatry", "Molecular Psychiatry",
+        "JAMA Psychiatry", "JAMA", "Translational Psychiatry",
+        "American Journal of Psychiatry", "Journal of Clinical Psychiatry",
+        "Journal of Clinical Psychopharmacology", "World Psychiatry",
+        "Psychological Medicine", "Acta Psychiatrica Scandinavica",
+        "Biological Psychiatry", "Schizophrenia Bulletin",
+        "The Lancet Psychiatry", "Bipolar Disorders",
+        "International Journal of Bipolar Disorders",
+    ]
+    journals_html = "".join(f"<li>{e(j)}</li>" for j in sorted(journals))
+
     return (
         html_head("Home")
         + html_header("home")
@@ -314,9 +334,28 @@ def build_index(editions):
 <main class="container">
   <section class="hero">
     <h1>{SITE_TITLE}</h1>
-    <p>A monthly digest of curated psychiatry journal articles, summarized for busy clinicians.
-       Each issue highlights key findings across subspecialties with plain-language bottom lines,
-       evidence quality ratings, and clinical caveats.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>About</h2>
+    <p>Psychiatric Practice Updates is a free monthly digest of curated psychiatry journal articles.
+       Our team conducts reviews of over 20 peer-reviewed journals each month with the goal of
+       selecting articles that are interesting, impactful, and clinically relevant. Through our
+       reviews, we may also highlight articles that advance our scientific understanding of mental
+       illness or service delivery.</p>
+    <p>This digest was founded by <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11837292/" target="_blank" rel="noopener">Dr.&nbsp;Joel&nbsp;Yager</a>
+       who, for years, compiled and distributed monthly issues of articles that &ldquo;caught his
+       eye&rdquo; to psychiatrists across the world and the lifelong learning continuum. With his
+       retirement, he passed the project to the Psychiatric Practice Updates Committee. We are deeply
+       grateful for Dr.&nbsp;Yager&rsquo;s generosity, his love of learning, and his enduring influence on
+       psychiatric education. He is greatly missed.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>Committee</h2>
+    <p><strong>Chairs:</strong> Katrina DeBonis, MD and Jane Eisen, MD</p>
+    <p><strong>Members:</strong> Michael Fiori, MD, David Fogelson, MD, Michael Gitlin, MD,
+       Raphaela Gold, MD MSc, Kevin Kennedy, MD, Stephen Marder, MD, Collin Price, MD</p>
   </section>
 
   <section class="latest-issue">
@@ -330,6 +369,13 @@ def build_index(editions):
     <div class="issue-grid">
       {"".join(issue_cards)}
     </div>
+  </section>
+
+  <section class="about-section journals-section">
+    <h2>Journals Reviewed Each Month</h2>
+    <ul class="journal-list">
+      {journals_html}
+    </ul>
   </section>
 </main>
 """

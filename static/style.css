@@ -110,6 +110,42 @@ a:hover { text-decoration: underline; }
   line-height: 1.7;
 }
 
+/* === About / Committee / Journals sections === */
+.about-section {
+  margin: 2rem 0;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--gray-200);
+}
+.about-section h2 {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: var(--navy);
+  margin-bottom: 0.75rem;
+}
+.about-section p {
+  font-size: 0.98rem;
+  color: var(--gray-700);
+  line-height: 1.7;
+  max-width: 720px;
+  margin-bottom: 0.75rem;
+}
+.about-section p:last-child { margin-bottom: 0; }
+.journal-list {
+  columns: 2;
+  column-gap: 2rem;
+  list-style: none;
+  padding: 0;
+}
+.journal-list li {
+  font-size: 0.9rem;
+  color: var(--gray-700);
+  padding: 0.25rem 0;
+  break-inside: avoid;
+}
+@media (max-width: 640px) {
+  .journal-list { columns: 1; }
+}
+
 .latest-issue {
   margin: 2rem 0;
   padding: 1.5rem;
