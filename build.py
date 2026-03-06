@@ -448,6 +448,21 @@ def build_archive(editions):
     )
 
 
+PODCAST_LINKS = {
+    "December/January 2025-2026": "https://notebooklm.google.com/notebook/be4ea3af-b4f1-42a4-8fcc-278941f0e267?artifactId=9449899e-5ec4-478d-a376-ca8ff776dc0f",
+    "November 2025": "https://notebooklm.google.com/notebook/4c01cd47-e6a6-48dd-bfbe-57f88e19a510?artifactId=3a7ef740-5c05-4f9c-9f58-2e560abc6c5d",
+    "October 2025": "https://notebooklm.google.com/notebook/2b5cd164-f44d-414e-bec6-a900ed32c111?artifactId=6c336fba-80c6-40be-b496-79c0a61cf258",
+    "September 2025": "https://notebooklm.google.com/notebook/d8a6ec3f-5cef-4b23-9c2c-4a6993f12f23?artifactId=1e9737a8-22ea-4910-9648-f5bcca706584",
+    "July/August 2025": "https://notebooklm.google.com/notebook/24df422b-7200-4f5b-9f6e-eea24eced4d5?artifactId=23030539-9299-4770-848e-5d9a2f6973e6",
+    "June 2025": "https://notebooklm.google.com/notebook/ec3eda99-578e-481d-a999-594630877c0b?artifactId=57d20454-33d0-432d-9be5-5c577e3fbb99",
+    "May 2025": "https://notebooklm.google.com/notebook/d1ff65e2-daba-4189-8e65-27cf64072dad?artifactId=c6c1a3ba-d391-408f-b56d-94004b75021b",
+    "April 2025": "https://notebooklm.google.com/notebook/7719f25b-49d4-491a-a91d-12c964cec058?artifactId=3efedb21-3ba2-4e75-a8b8-c9994f3138ca",
+    "March 2025": "https://notebooklm.google.com/notebook/3821bf4c-e37b-4621-9e4f-151d22815c85?artifactId=df8b45ec-fdad-40a7-96ac-4fbbb405967b",
+    "February 2025": "https://notebooklm.google.com/notebook/6bbfc904-bfaf-4de7-a919-7fc8ce0ef944?artifactId=e31be70b-ab1c-47b9-b595-5a953b1a5186",
+    "December/January 2024-2025": "https://notebooklm.google.com/notebook/560f7f82-02d3-4983-93ac-0cf46ec396d6?artifactId=3d7d29c9-9326-41ec-9462-274c055db565",
+}
+
+
 def build_issue_page(edition, editions, index):
     """Generate a single issue page."""
     prev_link = ""
@@ -480,6 +495,16 @@ def build_issue_page(edition, editions, index):
     if doc_name and os.path.isfile(os.path.join(DOCS, doc_name)):
         download_html = f'<a class="btn btn-download" href="../docs/{e(doc_name)}" download>&#8681; Download original document</a>'
 
+    # Podcast section
+    podcast_html = ""
+    podcast_url = PODCAST_LINKS.get(edition["edition"], "")
+    if podcast_url:
+        podcast_html = f"""<section class="podcast-section">
+    <h2>\U0001f399\ufe0f AI Podcast &mdash; Listen to this issue</h2>
+    <p>AI-generated audio overview of this issue&rsquo;s key findings, powered by NotebookLM.</p>
+    <a class="btn btn-podcast" href="{e(podcast_url)}" target="_blank" rel="noopener">\u25b6\ufe0f Listen on NotebookLM</a>
+  </section>"""
+
     cards_html = "\n".join(render_article_open(a) for a in edition["articles"])
 
     return (
@@ -492,6 +517,8 @@ def build_issue_page(edition, editions, index):
     <p>{edition["article_count"]} articles</p>
     {download_html}
   </div>
+
+  {podcast_html}
 
   <nav class="issue-nav">
     {prev_link}
