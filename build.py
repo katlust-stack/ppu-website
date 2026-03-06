@@ -277,13 +277,13 @@ def render_article_open(article):
     return f"""<div class="article-card article-card-open">
   <div class="article-card-body" style="padding:1.25rem">
     <div class="article-card-title">{e(article.get("title",""))}</div>
-    {bottom_line_html}
-    {caveat_html}
-    {tags_div}
-    {why_html}
     <div class="article-citation">{e(citation_text)}</div>
     {link_html}
     <div class="article-abstract">{e(abstract_text)}</div>
+    {bottom_line_html}
+    {why_html}
+    {caveat_html}
+    {tags_div}
   </div>
 </div>
 """
