@@ -241,6 +241,54 @@ def render_article_card(article, show_edition=True):
 """
 
 
+def render_article_open(article):
+    """Render an article card for issue pages with all content always visible."""
+    card = article.get("clinical_card") or {}
+    bottom_line = card.get("bottom_line", "")
+    caveats = card.get("caveats", "")
+    why = card.get("why_it_matters", "")
+
+    bottom_line_html = ""
+    if bottom_line:
+        bottom_line_html = f'<div class="article-bottom-line"><strong>Bottom line:</strong> {e(bottom_line)}</div>'
+
+    caveat_html = ""
+    if caveats:
+        caveat_html = f'<div class="article-caveat">\u26a0 {e(caveats)}</div>'
+
+    tags_html = render_tags_html(article)
+    tags_div = f'<div class="article-tags">{tags_html}</div>' if tags_html else ""
+
+    why_html = ""
+    if why:
+        why_html = f'<div class="article-bottom-line"><strong>Why it matters:</strong> {e(why)}</div>'
+
+    pmid = article.get("pmid", "")
+    doi = article.get("doi", "")
+    link_html = ""
+    if pmid:
+        link_html = f'<a class="pubmed-link" href="https://pubmed.ncbi.nlm.nih.gov/{e(pmid)}/" target="_blank" rel="noopener">View on PubMed \u2197</a>'
+    elif doi:
+        link_html = f'<a class="pubmed-link" href="https://doi.org/{e(doi)}" target="_blank" rel="noopener">View on DOI \u2197</a>'
+
+    abstract_text = article.get("abstract", "")
+    citation_text = article.get("citation", "")
+
+    return f"""<div class="article-card article-card-open">
+  <div class="article-card-body" style="padding:1.25rem">
+    <div class="article-card-title">{e(article.get("title",""))}</div>
+    {bottom_line_html}
+    {caveat_html}
+    {tags_div}
+    {why_html}
+    <div class="article-citation">{e(citation_text)}</div>
+    {link_html}
+    <div class="article-abstract">{e(abstract_text)}</div>
+  </div>
+</div>
+"""
+
+
 # ---------------------------------------------------------------------------
 # Page generators
 # ---------------------------------------------------------------------------
@@ -384,7 +432,7 @@ def build_issue_page(edition, editions, index):
     if doc_name and os.path.isfile(os.path.join(DOCS, doc_name)):
         download_html = f'<a class="btn btn-download" href="../docs/{e(doc_name)}" download>&#8681; Download original document</a>'
 
-    cards_html = "\n".join(render_article_card(a, show_edition=False) for a in edition["articles"])
+    cards_html = "\n".join(render_article_open(a) for a in edition["articles"])
 
     return (
         html_head(edition["edition"], extra_path="../")
