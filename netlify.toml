@@ -1,0 +1,20 @@
+[build]
+  command = "python3 build.py"
+  publish = "dist"
+
+# Cache headers for static assets
+[[headers]]
+  for = "/style.css"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/app.js"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# Custom 404
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+#   status = 404
