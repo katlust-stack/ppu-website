@@ -155,10 +155,11 @@ def html_header(active="home", extra_path=""):
 """
 
 
-def html_footer():
-    return """<footer class="site-footer">
+def html_footer(extra_path=""):
+    return f"""<footer class="site-footer">
 <div class="container">
   <p>&copy; Psychiatric Practice Updates. For educational purposes only. Not a substitute for clinical judgment.</p>
+  <p><a href="{extra_path}disclaimer.html">Disclaimer</a></p>
 </div>
 </footer>
 </body>
@@ -236,6 +237,7 @@ def render_article_card(article, show_edition=True):
     <div class="article-abstract">{e(abstract_text)}</div>
     <div class="article-citation">{e(citation_text)}</div>
     {link_html}
+    <div class="ai-badge">AI-assisted, committee-reviewed</div>
   </div>
 </div>
 """
@@ -284,6 +286,7 @@ def render_article_open(article):
     {why_html}
     {caveat_html}
     {tags_div}
+    <div class="ai-badge">AI-assisted, committee-reviewed</div>
   </div>
 </div>
 """
@@ -535,6 +538,29 @@ def build_issue_page(edition, editions, index):
   </nav>
 </main>
 """
+        + html_footer(extra_path="../")
+    )
+
+
+def build_disclaimer():
+    """Generate the disclaimer page."""
+    return (
+        html_head("Disclaimer")
+        + html_header("disclaimer")
+        + """
+<main class="container">
+  <div class="page-header">
+    <h1>Disclaimer</h1>
+  </div>
+  <div class="about-section" style="border-bottom:none">
+    <p>The content on this site is intended for educational purposes only and is not a substitute
+       for professional clinical judgment. Article summaries and clinical cards are generated with
+       AI assistance and reviewed by the Psychiatric Practice Updates Committee.</p>
+    <p>This site does not provide medical advice, diagnosis, or treatment recommendations.
+       Always apply your own clinical expertise and judgment when caring for patients.</p>
+  </div>
+</main>
+"""
         + html_footer()
     )
 
@@ -583,6 +609,10 @@ def main():
     with open(os.path.join(DIST, "archive.html"), "w", encoding="utf-8") as f:
         f.write(build_archive(editions))
     print("  Built archive.html")
+
+    with open(os.path.join(DIST, "disclaimer.html"), "w", encoding="utf-8") as f:
+        f.write(build_disclaimer())
+    print("  Built disclaimer.html")
 
     for i, ed in enumerate(editions):
         slug = slugify(ed["edition"])

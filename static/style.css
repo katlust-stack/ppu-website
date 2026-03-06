@@ -456,6 +456,17 @@ a:hover { text-decoration: underline; }
 }
 .pubmed-link:hover { text-decoration: underline; }
 
+.ai-badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  color: var(--gray-400);
+  border: 1px solid var(--gray-200);
+  border-radius: 4px;
+  padding: 0.15rem 0.5rem;
+  margin-top: 0.75rem;
+  letter-spacing: 0.02em;
+}
+
 /* === Issue Page === */
 .issue-nav {
   display: flex;
