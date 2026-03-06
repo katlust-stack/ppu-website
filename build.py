@@ -352,7 +352,9 @@ def build_archive(editions):
 
     ev_options = ['<option value="">All evidence types</option>']
     for ev in EVIDENCE_TAGS:
-        ev_options.append(f'<option value="{e(ev.lower())}">{e(ev)}</option>')
+        # Strip emoji prefix for the value to match data-evidence attributes
+        ev_plain = ev.split(" ", 1)[1] if " " in ev else ev
+        ev_options.append(f'<option value="{e(ev_plain.lower())}">{e(ev)}</option>')
 
     cards_html = "\n".join(render_article_card(a, show_edition=True) for a in all_articles)
 
