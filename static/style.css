@@ -64,12 +64,10 @@ a:hover { text-decoration: underline; }
 }
 .site-title a { color: #fff; }
 .site-title a:hover { text-decoration: none; opacity: 0.9; }
-.site-subtitle {
-  font-size: 0.8rem;
-  color: #93c5fd;
-  font-weight: 400;
+.site-logo {
+  height: 48px;
+  width: auto;
   display: block;
-  margin-top: 0.15rem;
 }
 .site-nav { display: flex; gap: 1.5rem; }
 .site-nav a {

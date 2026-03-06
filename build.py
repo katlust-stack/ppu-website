@@ -143,8 +143,7 @@ def html_header(active="home", extra_path=""):
         return ' class="active"' if active == name else ""
     return f"""<header class="site-header">
 <div class="container">
-  <div class="site-title"><a href="{extra_path}index.html">{SITE_TITLE}</a>
-    <span class="site-subtitle">{SITE_SUBTITLE}</span>
+  <div class="site-title"><a href="{extra_path}index.html"><img src="{extra_path}ppu-logo.svg" alt="Psychiatric Practice Updates" class="site-logo"></a>
   </div>
   <nav class="site-nav">
     <a href="{extra_path}index.html"{cls("home")}>Home</a>
