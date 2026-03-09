@@ -380,6 +380,14 @@ def build_index(editions):
     </ul>
   </section>
 </main>
+
+<section class="newsletter-section">
+  <div class="container" style="text-align:center">
+    <h2>Stay Current</h2>
+    <p>New issues delivered to your inbox each month. Free for clinicians.</p>
+    <a class="btn btn-newsletter" href="https://forms.gle/YLq6GLwnCkmU7mUJ9" target="_blank" rel="noopener">Subscribe to Updates</a>
+  </div>
+</section>
 """
         + html_footer()
     )

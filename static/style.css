@@ -79,6 +79,36 @@ a:hover { text-decoration: underline; }
 .site-nav a:hover { color: #fff; text-decoration: none; }
 .site-nav a.active { color: #fff; border-bottom: 2px solid var(--blue-accent); padding-bottom: 2px; }
 
+/* === Newsletter === */
+.newsletter-section {
+  background: var(--navy);
+  color: #fff;
+  padding: 3rem 0;
+  margin-top: 3rem;
+}
+.newsletter-section h2 {
+  color: #fff;
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+}
+.newsletter-section p {
+  color: rgba(255,255,255,0.85);
+  margin-bottom: 1.5rem;
+}
+.btn-newsletter {
+  background: #fff;
+  color: var(--navy);
+  padding: 0.75rem 2rem;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.2s;
+}
+.btn-newsletter:hover {
+  background: var(--gray-200);
+}
+
 /* === Footer === */
 .site-footer {
   background: var(--gray-50);
