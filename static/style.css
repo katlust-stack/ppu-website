@@ -175,6 +175,27 @@ a:hover { text-decoration: underline; }
 }
 .btn-podcast:hover { background: var(--navy-light); text-decoration: none; }
 
+/* === Subscribe Section === */
+.subscribe-section {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--gray-50);
+  border: 1px solid var(--gray-200);
+  border-radius: 8px;
+  text-align: center;
+}
+.subscribe-section h2 {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+.subscribe-section p {
+  font-size: 0.95rem;
+  color: var(--gray-600);
+  margin-bottom: 1rem;
+}
+
 .latest-issue {
   margin: 2rem 0;
   padding: 1.5rem;

@@ -360,6 +360,12 @@ def build_index(editions):
        Raphaela Gold, MD MSc, Kevin Kennedy, MD, Stephen Marder, MD, Collin Price, MD</p>
   </section>
 
+  <section class="subscribe-section">
+    <h2>Subscribe</h2>
+    <p>Get new issues delivered to your inbox each month.</p>
+    <script async data-uid="4fc08ad112" src="https://psychiatric-practice-updates.kit.com/4fc08ad112/index.js"></script>
+  </section>
+
   <section class="latest-issue">
     <h2>Latest Issue: {e(latest["edition"])}</h2>
     <div class="meta">{latest["article_count"]} article summaries</div>
