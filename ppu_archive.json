@@ -8150,5 +8150,582 @@
       }
     ],
     "doc_file": "PPU  Dec Jan  2026.docx"
+  },
+  {
+    "edition": "February 2026",
+    "filename": "PPU February 2026.docx",
+    "article_count": 18,
+    "articles": [
+      {
+        "title": "Psychotic symptoms during pharmacological treatment of ADHD: clinical considerations and research needs",
+        "citation": "Cortese S, Garcia-Argibay M, Oliver D, Chang Z, Farhat LC, Bloch MH, et al. Psychotic symptoms during pharmacological treatment of ADHD: clinical considerations and research needs. Lancet Psychiatry. 2025:S2215-0366(25)00248-2. doi: 10.1016/S2215-0366(25)00248-2 PMID: 41115444.",
+        "authors": "",
+        "pmid": "41115444",
+        "doi": "10.1016/S2215-0366(25)00248-2",
+        "abstract": "In this Personal View, we address key questions to support evidence-based prevention and management of psychotic symptoms that might occur during ADHD pharmacotherapy. We begin by examining evidence showing a significantly increased occurrence of psychotic disorders in individuals with ADHD, independent of ADHD medications (pooled relative risk, odds ratio, or hazard ratio=4·74, 95% CI 4·11-5·46). We then examine whether ADHD medications play a causal role, noting that current evidence does not support such a causal link, at least for methylphenidate. We explore how vulnerability to psychosis varies across individuals with ADHD. Regarding the different steps involved in prescribing ADHD medications, we discuss the importance of balancing potential risks-such as emergence of psychotic symptoms-against the demonstrated benefits of pharmacological treatment for ADHD. Next, we present strategies for screening individuals for vulnerability to psychosis before initiating ADHD medication. We then offer guidance on the clinical management of psychotic symptoms that might arise during ADHD pharmacotherapy, including considerations of dosage and medication type. Finally, we identify key research priorities in this area. Overall, this paper provides an empirical framework, grounded in evidence and clinical practice, to guide the next steps in the field.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "ADHD itself confers a nearly 5-fold increased risk of psychotic disorders independent of medication, and current evidence does not support a causal link between methylphenidate and psychosis, though screening for psychosis vulnerability before starting stimulants is recommended.",
+          "why_it_matters": "Clinicians often face anxiety about prescribing stimulants to patients with psychosis risk factors. This review provides a framework for balancing ADHD treatment benefits against psychosis risk and offers practical screening and management strategies.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Psychopharmacology",
+            "Psychotic Disorders",
+            "Child & Adolescent"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychopharmacology",
+            "Psychotic Disorders",
+            "Child & Adolescent"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Efficacy and Safety of Micronutrient Treatment for Irritability in Teenagers: 8-Week Double-Blinded Randomized Placebo-Controlled Trial (BEAM)",
+        "citation": "Rucklidge JJ, Sherwin AH, Mulder RT, Manna L, Boden JM. Efficacy and Safety of Micronutrient Treatment for Irritability in Teenagers: 8-Week Double-Blinded Randomized Placebo-Controlled Trial (BEAM). J Am Acad Child Adolesc Psychiatry. 2026 Feb 3:S0890-8567(26)00021-3. doi: 10.1016/j.jaac.2026.01.013 PMID: 41643810.",
+        "authors": "",
+        "pmid": "41643810",
+        "doi": "10.1016/j.jaac.2026.01.013",
+        "abstract": "Objective: Irritability is a transdiagnostic dimension characterized by affective and behavioral components. The Balancing Emotions of Adolescents with Micronutrients (BEAM) study investigated broad-spectrum micronutrient (vitamins and minerals) efficacy and safety for teenagers with moderate-to-severe irritability symptoms.\nMethod: A total of 132 unmedicated teenagers (12-17 years of age) were randomized to micronutrients (n = 67) or active placebo (n = 65) for 8 weeks and monitored remotely with weekly parent/teen questionnaires and monthly online meetings with a registered psychologist. Primary outcome measures were the Clinical Global Impression-Improvement (CGI-I), Emotion Dysregulation Inventory (EDI)-Reactivity subscale, and Clinician Affective Reactivity Index (CL-ARI-Total).\nResults: Micronutrients outperformed placebo across key clinical measures including irritability, emotional reactivity and overall improvement. The strongest effects were seen in teenagers with Disruptive Mood Dysregulation Disorder (DMDD), with 64% responding to micronutrients compared to 12.5% on placebo. Teenagers from lower socioeconomic backgrounds showed enhanced treatment response. Significant reductions in suicidal ideation were observed in the micronutrient group.\nConclusion: This RCT provides preliminary evidence that micronutrients may be an effective and safe treatment for teen irritability, with a reassuring reduction in suicidal ideation and, if findings are replicated, may transform outcomes for teens.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Broad-spectrum micronutrients showed efficacy over placebo for teen irritability in an 8-week RCT, with particularly strong effects in teens with DMDD (64% vs 12.5% response rate).",
+          "why_it_matters": "Irritability is common and difficult to treat in adolescents, and current pharmacological options carry significant side effect profiles. If replicated, micronutrients could offer a well-tolerated treatment alternative, especially for teens with DMDD.",
+          "caveats": "Small sample size (N=132), remote monitoring rather than in-person assessment, and unmedicated participants limit generalizability to real-world clinical populations.",
+          "subspecialty_tags": [
+            "Child & Adolescent",
+            "Psychopharmacology",
+            "Mood Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Child & Adolescent",
+            "Psychopharmacology",
+            "Mood Disorders"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Adolescents' Relationships With Their Parents and Peers as Mediators Between Economic Circumstances and Emotional Symptoms: A Multicountry Longitudinal Analysis",
+        "citation": "Steare T, Rose-Clarke K, Araya M, Cueto S, Dang HH, Ellanki R, Evans-Lacko S, Hammerton G, Lewis G, Yadete W, Patalay P. Adolescents' Relationships With Their Parents and Peers as Mediators Between Economic Circumstances and Emotional Symptoms: A Multicountry Longitudinal Analysis. J Am Acad Child Adolesc Psychiatry. 2026 Jan 29:S0890-8567(26)00018-3. doi: 10.1016/j.jaac.2026.01.010. Epub ahead of print PMID: 41619963.",
+        "authors": "",
+        "pmid": "41619963",
+        "doi": "10.1016/j.jaac.2026.01.010",
+        "abstract": "Abstract not yet available in PubMed or publisher website for this Epub ahead of print article. The article was published online January 29, 2026 and may not be fully indexed yet.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Parent and peer relationships mediate the link between economic disadvantage and adolescent emotional symptoms across multiple countries, suggesting these relationships are key intervention targets.",
+          "why_it_matters": "Understanding the pathways between poverty and adolescent mental health can help clinicians identify modifiable factors and guide family-based interventions for economically disadvantaged youth.",
+          "caveats": "Full abstract not yet available; conclusions drawn from title and limited description only.",
+          "subspecialty_tags": [
+            "Child & Adolescent",
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Child & Adolescent",
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Pharmacotherapy of major depressive disorder in older adults: from an evidence-informed stepwise algorithm to precision medicine",
+        "citation": "Lenze EJ, Karp JF, Gebara MA, Nicol GE, Mulsant BH, et al. Pharmacotherapy of major depressive disorder in older adults: from an evidence-informed stepwise algorithm to precision medicine. Neuropsychopharmacology. 2026. doi: 10.1038/s41386-026-02338-w DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1038/s41386-026-02338-w",
+        "abstract": "The pharmacotherapy of late-life depression (LLD) is characterized by clinical complexity. Older adults are living longer with multimorbidity, frailty and polypharmacy, and are taking more CNS-active medications and substances. These add to the risk and complexity of adding or changing depression treatment. At the same time, there are more medication options for depression and the use of many of them entails balancing potentials risks and benefits. As a result, the pharmacotherapy of LLD should be guided by tools such as algorithms or decision trees to maximize effectiveness and minimize risks of depression treatment. We propose an evidence-informed stepwise algorithm, based on three decades of clinical trials. With this algorithm, treatment starts with serotonin-selective reuptake inhibitors because of their safety and ease of use. If the patient does not respond, the next step is switching to serotonin-norepinephrine reuptake inhibitors, followed by augmentation with aripiprazole as the preferred agent. For older patients who do not tolerate or do not respond to traditional pharmacotherapy, treatment options include transcranial magnetic stimulation, ketamine, or electroconvulsive therapy. Psychotherapy can be used in combination with antidepressants at any point in this algorithm. We also discuss the need for precision medicine research to improve treatment outcomes in LLD, presenting two approaches. The first is a lock and key approach, in which some patients need a specific medication to treat their depression, which requires biotyping to predict.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "A stepwise algorithm for late-life depression recommends starting with SSRIs, switching to SNRIs if ineffective, then augmenting with aripiprazole, with TMS, ketamine, or ECT as later options.",
+          "why_it_matters": "Late-life depression is complicated by multimorbidity, polypharmacy, and frailty. This evidence-based algorithm gives clinicians a practical, sequenced approach to navigate treatment decisions in this vulnerable population.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Geriatric Psychiatry",
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Geriatric Psychiatry",
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "A short-acting psychedelic intervention for major depressive disorder: a phase IIa randomized placebo-controlled trial",
+        "citation": "Erritzoe D, Barba T, Benway T, Joel Z, Good M, Layzell M, et al. A short-acting psychedelic intervention for major depressive disorder: a phase IIa randomized placebo-controlled trial. Nat Med. 2026;32(2):591-598. doi: 10.1038/s41591-025-04154-z. PMID: Not yet assigned DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1038/s41591-025-04154-z",
+        "abstract": "Major depressive disorder (MDD) is a leading cause of disability worldwide, yet many patients have inadequate responses to current treatments. Dimethyltryptamine (DMT), a serotonergic psychedelic with rapid onset and short duration, shows promise as a potential antidepressant (AD), although clinical evidence in MDD remains limited. We conducted a phase IIa, double-blind, placebo-controlled, randomized clinical trial to evaluate the efficacy and safety of intravenous DMT (SPL026; DMT fumarate) in adults with moderate-to-severe MDD. Participants received a single 21.5-mg dose of DMT or placebo infused over 10 min, along with supportive psychotherapeutic support, followed by a 2-week assessment. A subsequent open-label phase offered all participants a second DMT dose. A single intravenous dose of the psychedelic dimethyltryptamine, combined with psychological support, produces rapid and lasting reductions in depressive symptoms in adults with major depressive disorder.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "A single intravenous dose of the short-acting psychedelic DMT, combined with psychological support, produced rapid and sustained reductions in depressive symptoms over 2 weeks in a phase IIa trial for moderate-to-severe MDD.",
+          "why_it_matters": "Unlike psilocybin (which requires 6-8 hours of supervision), DMT's 10-minute infusion with short duration of effects could make psychedelic-assisted therapy more practical and scalable in clinical settings.",
+          "caveats": "Phase IIa trial with small sample size; functional unblinding is a concern with psychedelic trials, and longer-term durability data are needed.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label"
+          ]
+        }
+      },
+      {
+        "title": "A Decision-Support System to Personalize Antidepressant Treatment in Major Depressive Disorder: A Randomized Clinical Trial",
+        "citation": "Cipriani A, Fernandes KBP, Mulsant BH, et al. A Decision-Support System to Personalize Antidepressant Treatment in Major Depressive Disorder: A Randomized Clinical Trial. JAMA. 2026:e261327. doi: 10.1001/jama.2026.1327 PMID: 41779422.",
+        "authors": "",
+        "pmid": "41779422",
+        "doi": "10.1001/jama.2026.1327",
+        "abstract": "Importance: Antidepressants for moderate to severe major depressive disorder may be discontinued prematurely because the prescribed antidepressant is not always the most appropriate medication for an individual. Guidelines have recommended more precise targeting of antidepressant treatment.\nObjective: To evaluate the efficacy of a web-based tool to personalize antidepressant treatment.\nDesign, Setting, and Participants: This multicenter, randomized clinical trial included persons between the ages of 18 and 74 years with major depressive disorder. The trial was conducted at 47 sites in 3 countries (Brazil, Canada, and the UK). The first participant was screened on November 29, 2022, and the last follow-up visit occurred on January 15, 2025.\nIntervention: A total of 540 participants were randomized (1:1) to an evidence-based clinical decision-support system (PETRUSHKA tool; n = 271) or usual care (n = 269).\nMain Outcomes and Measures: The primary outcome was treatment discontinuation due to any cause at 8 weeks. The secondary outcomes included treatment discontinuation up to 24 weeks due to adverse events and changes in depressive symptoms (measured with the 9-item Patient Health Questionnaire [PHQ-9]; range, 0-27; higher scores indicate more severe depression) and anxiety symptoms (measured with the 7-item Generalized Anxiety Disorder [GAD-7] questionnaire; range, 0-21; higher scores indicate more severe symptoms).\nResults: Of the 520 eligible participants, 493 were included in the primary analysis (median age, 35 years; 58% female). Discontinuation at 8 weeks occurred in 41 of 241 (17%) in the PETRUSHKA group compared with 69 of 252 (27%) in the usual care group. Those in the PETRUSHKA group reported greater improvements in depressive and anxiety symptoms at 24 weeks.\nConclusions: and Relevance: Compared with usual care, use of the PETRUSHKA tool increased the number of patients still taking their antidepressant at 8 weeks and improved depressive and anxiety symptoms at 24 weeks. However, lack of a double-blind design and the large amount of missing data limit the validity of these results.\nTrial Registration: ClinicalTrials.gov Identifier: NCT05608330.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "The PETRUSHKA decision-support tool reduced antidepressant discontinuation at 8 weeks (17% vs 27%) and improved depression and anxiety outcomes at 24 weeks compared to usual care.",
+          "why_it_matters": "Premature antidepressant discontinuation is a major clinical problem. This multicenter RCT suggests that evidence-based decision-support tools can help clinicians personalize antidepressant selection and improve adherence and outcomes.",
+          "caveats": "Open-label design and substantial missing data limit the strength of conclusions; blinding was not possible given the nature of the intervention.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "Brief intermittent intense exercise as interoceptive exposure for panic disorder: a randomized controlled clinical trial",
+        "citation": "Muotri RW, Luciano AC, Garrudo Guirado A, Lotufo Neto F, Bernik M. Brief intermittent intense exercise as interoceptive exposure for panic disorder: a randomized controlled clinical trial. Front Psychiatry. 2026;16:1739639. doi: 10.3389/fpsyt.2025.1739639 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.3389/fpsyt.2025.1739639",
+        "abstract": "Background: Interoceptive exposure (IE) to feared bodily sensations is a core component of cognitive-behavioral therapy for panic disorder (PD), but standard office-based IE can be perceived as aversive and tedious, potentially limiting engagement. Vigorous physical exercise may provide a more acceptable and health-promoting way to elicit interoceptive cues. Objective: To examine the feasibility and efficacy of a brief intermittent intense exercise (BIE) program, used as an IE strategy, compared with Jacobson's relaxation training (RT) in treatment-free patients with PD. Methods: In this prospective, parallel-group, randomized, assessor-blinded clinical trial, 72 sedentary adults with PD (34 men; mean age 33.3 ± 7.7 years), free of pharmacological treatment for ≥12 weeks, were allocated to either a 12-week BIE program (n = 37) or RT (n = 35). BIE consisted of supervised walking interspersed with repeated 30-s high-intensity sprints, while RT followed a standardized progressive muscular relaxation protocol. All participants received identical placebo medication. The primary outcome was Panic Agoraphobia Scale (PAS) score, assessed by a blinded rater at baseline and weeks 6, 12, and 24 (follow-up). Secondary outcomes included frequency and intensity of panic attacks, Hamilton Anxiety Rating Scale (HAM-A), and Hamilton Depression Rating Scale (HAM-D) scores. Results: Both groups improved over time, but a significant group × time interaction favored BIE on PAS scores (F = 56.1, p < 0.001, η² = 0.46). At week 12, PAS scores were lower in the BIE group than in RT (14.9 ± 5.3 vs. 23.1 ± 9.4; t = −4.72, p < 0.001), and this difference was maintained at week 24 (14.2 ± 5.5 vs. 24.7 ± 8.5; t = −6.07, p < 0.001). At follow-up, BIE also yielded fewer panic attacks (0.7 ± 0.6 vs. 1.5 ± 1.0; t = 3.79, p = 0.003) and lower HAM-D scores (13.3 ± 4.7 vs. 16.4 ± 5.6; t = −2.55, p = 0.013). Conclusion: A 12-week BIE program used as interoceptive exposure was feasible and more effective than relaxation training in reducing panic symptom severity and panic attack frequency, with effects sustained for at least 24 weeks. These findings support the incorporation of structured exercise-based IE into PD treatment programs as a low-cost and engaging option.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Brief intermittent intense exercise was significantly more effective than relaxation training as interoceptive exposure for panic disorder, with large effect sizes sustained at 24-week follow-up.",
+          "why_it_matters": "Standard interoceptive exposure exercises can feel aversive and limit patient engagement. High-intensity interval exercise offers a more acceptable, health-promoting alternative that may improve CBT adherence for panic disorder.",
+          "caveats": "Small sample (N=72), sedentary and unmedicated participants, and lack of comparison with standard CBT-based interoceptive exposure limit generalizability.",
+          "subspecialty_tags": [
+            "Anxiety & Trauma",
+            "Psychotherapy"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Anxiety & Trauma",
+            "Psychotherapy"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Real-world effectiveness and safety of xanomeline and trospium for treatment-resistant schizophrenia in a state hospital system",
+        "citation": "Vadiei N, Crismon ML. Real-world effectiveness and safety of xanomeline and trospium for treatment-resistant schizophrenia in a state hospital system. Front Psychiatry. 2026 Jan 30;16:1736922. doi: 10.3389/fpsyt.2025.1736922 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.3389/fpsyt.2025.1736922",
+        "abstract": "Background: Xanomeline and trospium (XT) is a novel medication for schizophrenia that was approved by the United States (U.S.) Food and Drug Administration (FDA) in September 2024. The purpose of this study is to evaluate the effectiveness and safety of using XT in the Texas state hospital setting. Methods: Data were analyzed retrospectively from five hospitals within the Texas Health and Human Services Commission state hospital system. Adults aged ≥18 years administered XT between October 2024 and October 2025 were included. A chart extracted Clinical Global Impression (CGI) of Severity of Illness/Improvement was used to determine XT effectiveness. Patient demographics, clinical characteristics and documented adverse effects are reported. Results: All patients (N = 20) had treatment-resistant schizophrenia and were classified as markedly or severely ill prior to XT initiation. Gastrointestinal adverse-effects were most common, specifically, vomiting (n=9; 45%), dyspepsia (n=5; 25%), and sialorrhea (n=5; 25%). Constipation was less commonly reported (n=2; 10%). The incidence of cholinergic side-effects was common in patients prescribed concomitant anticholinergic DRBAs (10 of 15; 67%) and non-anticholinergic DRBAs (3 of 4; 75%). Conclusions: This study represents the first FDA approved medication for treating schizophrenia that does not work by functionally blocking dopamine receptors. No studies have evaluated the efficacy/safety of using XT in patients with treatment-resistant schizophrenia (TRS). Safe and effective treatments for TRS are urgently needed as 20-50% of patients with schizophrenia do not respond adequately to DRBAs.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "First real-world data on xanomeline/trospium in treatment-resistant schizophrenia shows high rates of GI side effects (45% vomiting) and frequent cholinergic adverse effects when combined with anticholinergic antipsychotics.",
+          "why_it_matters": "XT was not studied in treatment-resistant populations during approval trials. This early real-world experience in state hospital patients with TRS provides critical safety and tolerability data for clinicians considering XT in their most challenging patients.",
+          "caveats": "Very small retrospective sample (N=20) without a control group from a single state hospital system limits conclusions about effectiveness.",
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Risk of neutropenia-related hospitalisation among clozapine initiators",
+        "citation": "Sarpatwari A, Mahesri M, Lii J, Lee SB, Zakoul H, Toyserkani GA, Zhou EH, Lacivita C, Dal Pan GJ, Bykov K, Moran L, Avorn J, Kesselheim AS, Huybrechts KF. Risk of neutropenia-related hospitalisation among clozapine initiators. BMJ Ment Health. 2026 Feb 6;29(1):e302122. doi: 10.1136/bmjment-2025-302122 PMID: 41651559.",
+        "authors": "",
+        "pmid": "41651559",
+        "doi": "10.1136/bmjment-2025-302122",
+        "abstract": "Background: Clozapine is highly effective for treatment-resistant schizophrenia but has been associated with an increased risk of agranulocytosis. As a result, until 2025, the Food and Drug Administration required patients receiving clozapine to undergo regular blood testing to monitor for neutropenia as part of a Risk Evaluation and Mitigation Strategy (REMS) programme. Objective: This study sought to compare the risk of neutropenia-related hospitalisations between clozapine and olanzapine initiators. Methods: The study cohort was nested in claims data from Medicaid and two commercial health insurance databases and consisted of adults initiating clozapine or olanzapine who had a recorded diagnosis of schizophrenia or schizoaffective disorder and ≥1 dispensing of a different antipsychotic in the 6 months before initiation. Propensity score matching (1:1) was used to mitigate confounding. The primary outcome was hospitalisation with a neutropenia diagnosis in the primary position. Both as-treated and intention-to-treat analyses were implemented. Findings: After propensity score matching, there were 16 873 initiators in each group. At 6 months postinitiation, there were 12 neutropenia-related hospitalisations among the clozapine cohort (incidence rate: 2.21 per 1000 person-years; 95% CI 1.25 to 3.89) and <11 among the olanzapine cohort (0.18; 95% CI 0.03 to 1.29), corresponding to an incidence rate ratio (IRR) of 12.18 (95% CI 1.58 to 93.71). The IRRs were 5.77 (95% CI 1.29 to 25.76) at 1 year, 5.50 (95% CI 1.23 to 24.55) at 2 years and 5.40 (95% CI 1.21 to 24.13) at 3 years postinitiation. Associations remained but were attenuated in intention-to-treat analyses. Conclusions: Clozapine initiators had an elevated risk of neutropenia-related hospitalisation, especially during the first 6 months of treatment, although the absolute risk was low. Clinical implications: Despite removal of the REMS programme, it is important for prescribers to monitor patients for neutropenia after initiating clozapine.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Clozapine carries a 12-fold higher risk of neutropenia-related hospitalization versus olanzapine in the first 6 months, though the absolute risk remains low (2.2 per 1000 person-years), reinforcing the need for monitoring even after REMS removal.",
+          "why_it_matters": "With the FDA removing the clozapine REMS program in 2025, clinicians need data to guide their own monitoring decisions. This large propensity-matched study confirms elevated but low absolute neutropenia risk, supporting continued blood monitoring especially in the first 6 months.",
+          "caveats": "Claims-based study may underestimate neutropenia events not requiring hospitalization; wide confidence intervals reflect the rarity of the outcome.",
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Efficacy and Tolerability of Seven Antipsychotic Drugs in Acutely Ill Patients With Schizophrenia: A Randomized, Multicenter, Assessor-Blinded Trial",
+        "citation": "Zhao G, Sun Y, Zhang Y, Lu T, Lu Z, Kang Z, et al. Efficacy and Tolerability of Seven Antipsychotic Drugs in Acutely Ill Patients With Schizophrenia: A Randomized, Multicenter, Assessor-Blinded Trial. Am J Psychiatry. 2026;183(2):112-123. doi: 10.1176/appi.ajp.20250111 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1176/appi.ajp.20250111",
+        "abstract": "Objective: The aim of this trial was to compare seven antipsychotics in acutely ill patients with schizophrenia. Methods: The authors performed a multicenter (32 hospitals), industry-independent, parallel, assessor-blinded, flexible-dosage randomized trial (Schizophrenia in Non-Occidental Participants). Eligible inpatients 18–45 years of age with schizophrenia experiencing acute exacerbation were recruited and randomized to 6 weeks of monotherapy with one of seven antipsychotic drugs: olanzapine, risperidone, quetiapine, aripiprazole, ziprasidone, perphenazine, and haloperidol. Results: A total of 3,067 patients were randomized, of whom 82% completed follow-up. The mixed model indicated significant differences in the primary outcome percentage change in Positive and Negative Syndrome Scale (PANSS) score between the antipsychotics. At week 6, olanzapine and risperidone showed a significantly higher percentage change in PANSS score than aripiprazole, ziprasidone, and quetiapine (mean differences: 5.52–7.93) but not haloperidol or perphenazine. Aripiprazole was associated with lower risk of hyperprolactinemia than all the other drugs (relative risks: 0.11–0.21). Ziprasidone and aripiprazole were associated with lower risks of weight gain and metabolic side effects. Haloperidol was associated with a higher risk of extrapyramidal symptoms than all other drugs (relative risks: 0.13–0.61). Aripiprazole was least sedating (relative risks: 0.30–0.39). Olanzapine and risperidone showed lower all-cause discontinuation rates than ziprasidone and haloperidol (hazard ratios: 0.61–0.73). Conclusions: This trial fills important knowledge gaps in acute antipsychotic treatment of schizophrenia. It confirms hierarchies in efficacy and side effects of antipsychotics from related evidence.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "In over 3,000 acutely ill schizophrenia patients, olanzapine and risperidone were most effective, aripiprazole had the best metabolic and sedation profile, and haloperidol had the most EPS — confirming known antipsychotic hierarchies in a large industry-independent trial.",
+          "why_it_matters": "This is one of the largest industry-independent head-to-head antipsychotic comparisons ever conducted, providing robust data to guide first-line antipsychotic selection in acute schizophrenia while balancing efficacy against specific side effect profiles.",
+          "caveats": "Conducted exclusively in Chinese inpatients aged 18-45, which may limit generalizability to older, non-Asian, or outpatient populations.",
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Doxycycline Use in Adolescent Psychiatric Patients and Risk of Schizophrenia: An Emulated Target Trial",
+        "citation": "Lång U, Metsälä J, Ramsay H, Boland F, Heikkilä K, Pulakka A, Lawlor A, O'Connor K, Veijola J, Kajantie E, Healy C, Kelleher I. Doxycycline Use in Adolescent Psychiatric Patients and Risk of Schizophrenia: An Emulated Target Trial. Am J Psychiatry. 2026 Feb 1;183(2):124-33. doi: 10.1176/appi.ajp.20240958 PMID: 41190738.",
+        "authors": "",
+        "pmid": "41190738",
+        "doi": "10.1176/appi.ajp.20240958",
+        "abstract": "Objective: As many as half of individuals who develop psychosis had attended child and adolescent psychiatric services at some stage in childhood, highlighting substantial opportunities for prevention within these services if an effective preventive intervention were identified. The authors hypothesized that adolescent psychiatric patients exposed to doxycycline, an antibiotic with putative neuroprotective properties, would have a lower risk of developing schizophrenia. Methods: This was an emulated target trial using nationwide Finnish health register data on all individuals born between 1987 and 1997 who attended adolescent psychiatric services between ages 13 and 18 and had used any antibiotics. Individuals were followed from first dispensed antibiotic prescription up to age 30. The main outcome was recorded schizophrenia diagnosis. The g-formula was used to estimate schizophrenia risk across doxycycline exposure levels (cumulative dose doxycycline use: no doxycycline use; low use, <1,499 mg; medium use, 1,500-2,999 mg; high use, ≥3,000 mg) during different follow-up periods. Results: A total of 56,395 individuals had attended adolescent psychiatric services and had used antibiotics; of these, 16,189 (28.7%) had used doxycycline. The risk of schizophrenia after 10 years of follow-up was 2.1% (95% CI=1.9, 2.3) for individuals who had used non-doxycycline antibiotics. In comparison, the risk of schizophrenia at 10 years was significantly lower in adolescent psychiatric patients treated with doxycycline (low cumulative dose: 1.4%, risk ratio=0.70, 95% CI=0.48, 0.85; medium cumulative dose: 1.4%, risk ratio=0.65, 95% CI=0.25, 1.04; high cumulative dose: 1.5%, risk ratio=0.70, 95% CI=0.43, 0.97). Conclusions: These findings raise the tentative but exciting possibility that doxycycline treatment may reduce schizophrenia risk in adolescent psychiatric patients.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Doxycycline exposure in adolescent psychiatric patients was associated with a 30% lower risk of developing schizophrenia over 10 years compared to other antibiotics, suggesting potential neuroprotective effects.",
+          "why_it_matters": "If confirmed in prospective trials, doxycycline could become one of the first pharmacological prevention strategies for schizophrenia in high-risk youth — an area with enormous unmet need. The drug is cheap, widely available, and well-tolerated.",
+          "caveats": "Observational design using register data cannot establish causation; indication bias (reasons for doxycycline prescription) may confound results, and findings are limited to a Finnish population.",
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Child & Adolescent",
+            "Neuroscience"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Child & Adolescent",
+            "Neuroscience"
+          ],
+          "evidence_quality": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Gestational Exposure to Antidepressants and Neurodevelopmental Disorders in Offspring",
+        "citation": "Andrade C. Gestational Exposure to Antidepressants and Neurodevelopmental Disorders in Offspring. J Clin Psychiatry. 2026;87(1):25f16226. doi: 10.4088/JCP.25f16226 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.4088/JCP.25f16226",
+        "abstract": "Untreated depression may adversely affect pregnancy and offspring outcomes through several mechanisms; on the flip side, antidepressants used to treat depression may cross the placenta and affect the developing fetus and its brain. This article examines the research literature on gestational exposure to antidepressants and the risk of neurodevelopmental disorders (NDDs) in offspring. Two recent meta-analyses and 3 subsequently published observational studies, including 1 Asian study, are reviewed with especial focus on autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD). Despite limitations of the literature, some conclusions can reasonably be drawn. In unadjusted analyses, which assist an understanding of real world risks, gestational exposure to antidepressant drugs is associated with an up to doubled risk of ASD and ADHD.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Unadjusted analyses suggest gestational antidepressant exposure may double the risk of ASD and ADHD in offspring, though confounding by maternal depression severity remains a major limitation.",
+          "why_it_matters": "Clinicians frequently face decisions about continuing antidepressants during pregnancy. This review synthesizes the latest evidence on neurodevelopmental risks, helping inform risk-benefit discussions with patients.",
+          "caveats": "Unadjusted risk estimates do not account for confounding by indication — maternal depression itself may drive the observed associations rather than medication exposure.",
+          "subspecialty_tags": [
+            "Women's Mental Health",
+            "Psychopharmacology",
+            "Child & Adolescent"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Women's Mental Health",
+            "Psychopharmacology",
+            "Child & Adolescent"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "A Randomized Controlled Trial of the Safety and Efficacy of Dronabinol for Agitation in Alzheimer's Disease",
+        "citation": "Rosenberg PB, Amjad H, Burhanullah H, Nowrangi M, Vandrey R, Jn Pierre M, et al. A Randomized Controlled Trial of the Safety and Efficacy of Dronabinol for Agitation in Alzheimer's Disease. Am J Geriatr Psychiatry. 2026;34(2):167-179. doi: 10.1016/j.jagp.2025.10.011 PMID: 41350162.",
+        "authors": "",
+        "pmid": "41350162",
+        "doi": "10.1016/j.jagp.2025.10.011",
+        "abstract": "Importance: Agitation in Alzheimer's disease (AD) is a great source of distress for patients and caregivers and a major public health burden. Current treatments are only modestly effective and many have safety issues including mortality risk. Novel therapeutic options are needed. There is preliminary evidence for the safety and efficacy of dronabinol (tetrahydrocannabinol, THC) for agitation in AD.\nObjective: Assess the safety and efficacy of dronabinol (THC) to decrease agitation in AD.\nDesign: THC-AD was a 3-week randomized parallel double-blind placebo-controlled clinical trial, conducted between 2017 and 2024.\nSetting: 5 inpatient and outpatient academic clinical research centers in the Eastern U.S.\nParticipants: Volunteer sample of 75 participants meeting inclusion criteria for agitation of AD (International Psychogeriatric Association Provision Criteria) with Neuropsychiatric Inventory Clinician Version Agitation or Aggression (NPI-C A/A) domains total score of 4 or greater.\nInterventions: 3 weeks dronabinol vs. placebo titrated up to target dose of 10 mg daily in divided twice-daily.\nMain outcomes and measures: Prespecified co-primary agitation outcomes were the Pittsburgh Agitation Scale (PAS) and NPI-C A/A total score.\nResults: The majority of participants were female and were taking concomitant psychotropic medications (antidepressants and antipsychotics) at baseline. Study participants were moderately agitated at baseline, were diverse in ethnic background (9% Black, 11% Hispanic/Latina/Latino), and had severe cognitive impairment evidenced by MMSE or SIB-8. 84% completed the 3-week trial. Dronabinol decreased agitation on both primary outcomes greater than placebo to a clinically relevant extent. The fitted between-arm difference in PAS decline/week was -0.74 (SE 0.3, p = 0.015, effect size = 0.53) and for NPI-C A/A the decline was not significant at -1.26 (SE 0.67, p = 0.094, effect size = 0.36).\nConclusions: and relevance: Adjunctive dronabinol treatment was safe and effective for treating agitation in AD.\nClinical trials registration: NCT02792257.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Dronabinol (THC) up to 10 mg/day was safe and reduced agitation in Alzheimer's disease on one of two co-primary outcomes (PAS, p=0.015) over 3 weeks compared to placebo.",
+          "why_it_matters": "Agitation in AD has limited treatment options, and antipsychotics carry significant mortality risk. Dronabinol offers a novel mechanism and was well-tolerated, though mixed results on co-primary endpoints warrant caution.",
+          "caveats": "Small sample (N=75), short duration (3 weeks), and only one of two co-primary endpoints reached significance; most participants were on concomitant psychotropics.",
+          "subspecialty_tags": [
+            "Geriatric Psychiatry",
+            "Neurocognitive",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Geriatric Psychiatry",
+            "Neurocognitive",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label"
+          ]
+        }
+      },
+      {
+        "title": "Antibiomania: A Systematic Review of Clarithromycin-Associated Manic Episodes",
+        "citation": "Marković T, Todorović A, Stojković M, Popović S, Baskić D, Matić S. Antibiomania: A Systematic Review of Clarithromycin-Associated Manic Episodes. J Clin Psychopharmacol. 2026;46(1):82-92. doi: 10.1097/JCP.0000000000002089 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1097/JCP.0000000000002089",
+        "abstract": "Purpose: Antibiomania, a rare adverse reaction, refers to antibiotic-induced mania, with clarithromycin most frequently implicated. Symptoms include mood elevation, hyperactivity, and hallucinations, typically resolving after discontinuation of the drug. This review examines reported cases to better characterize clinical patterns and guide clinical recognition and management. Methods: A systematic review was conducted following PRISMA guidelines and registered with PROSPERO. Literature searches were performed in PubMed/MEDLINE, Web of Science, Scopus, and EMBASE using keywords related to clarithromycin, mania, and psychosis. Studies were included regardless of language or publication date. Data extraction focused on demographic details, clinical presentation, treatment, and causality assessment. The quality of case reports was assessed using standardized criteria. FAERS and EudraVigilance databases were queried to identify spontaneously reported psychiatric adverse events associated with clarithromycin. Results: A total of 32 studies involving 34 patients were included. Most patients were under 65 years old, with a nearly equal distribution of genders. Manic episodes often included psychotic symptoms and emerged ~4 days after the initiation of clarithromycin, lasting about 3 days. The most common dosage was 500mg taken twice daily. Rechallenge in 5 cases consistently reproduced the symptoms. Causality assessment using the Naranjo and WHO-UMC score suggested a probable association in most cases. All patients fully recovered after discontinuation. Conclusions: Clarithromycin may trigger secondary mania, emphasizing the need for clinician awareness of this rare psychiatric side effect. Timely recognition and appropriate management can enhance patient outcomes and prevent unnecessary psychiatric interventions.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Clarithromycin can trigger manic episodes (often with psychotic features) typically within 4 days of initiation, resolving within 3 days of discontinuation — a rare but important adverse effect to recognize.",
+          "why_it_matters": "Psychiatrists consulted for new-onset mania should consider medication-induced causes. Recognizing clarithromycin-associated mania can prevent misdiagnosis of primary bipolar disorder and unnecessary long-term psychiatric treatment.",
+          "caveats": "Evidence limited to 34 case reports; the true incidence of clarithromycin-associated mania cannot be estimated from case series data alone.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology",
+            "Medical Psychiatry"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint",
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology",
+            "Medical Psychiatry"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint",
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Spirituality and Harmful or Hazardous Alcohol and Other Drug Use: A Meta-Analysis of Longitudinal Studies",
+        "citation": "Koh HK, Frederick DE, Balboni TA, O'Reilly SM, Kelly JF, Humphreys K, et al. Spirituality and Harmful or Hazardous Alcohol and Other Drug Use: A Meta-Analysis of Longitudinal Studies. JAMA Psychiatry. 2026 Feb 18:e254816. doi: 10.1001/jamapsychiatry.2025.4816. Epub ahead of print. ; PMCID: PMC12917744 PMID: 41706493.",
+        "authors": "",
+        "pmid": "41706493",
+        "doi": "10.1001/jamapsychiatry.2025.4816",
+        "abstract": "This meta-analysis synthesized data from 55 published longitudinal studies (encompassing 540,712 participants) examining the association between spirituality and harmful or hazardous alcohol and other drug use. The researchers reviewed over 20,000 studies on spirituality and health published between 2000 and 2022, identifying 55 high-quality longitudinal studies. Broad spiritual practices, including spiritual and religious community involvement, attending religious services, meditation, and prayer, reduced individuals' risk of dangerous alcohol and drug use by 13%. Among individuals attending religious services at least once per week, the risk reduction was 18%. Results were consistent across all drug categories studied (alcohol, tobacco, marijuana, and illicit drugs). The findings have implications for clinicians and communities regarding future strategies for alcohol and other drug use prevention and recovery.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Spiritual practices are associated with a 13% reduced risk of harmful substance use (18% for weekly religious service attendance), consistent across alcohol, tobacco, marijuana, and illicit drugs.",
+          "why_it_matters": "This large meta-analysis of longitudinal data strengthens the evidence for incorporating spirituality and community-based spiritual practices as protective factors in substance use prevention and recovery planning.",
+          "caveats": "Observational data cannot establish causation; spiritual engagement may be a marker for other protective social and behavioral factors rather than an independent cause of reduced substance use.",
+          "subspecialty_tags": [
+            "Addiction",
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Addiction",
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "Efficacy and Safety of Lithium for Behavioral and Cognitive Symptoms in Alzheimer's Disease Dementia: A Systematic Review With Frequentist and Bayesian Meta-Analysis",
+        "citation": "Pereira da Silva AM, de Deus O, Ribeiro FV, Tudella GC, Cabeça LS, Silva LL, et al. Efficacy and Safety of Lithium for Behavioral and Cognitive Symptoms in Alzheimer's Disease Dementia: A Systematic Review With Frequentist and Bayesian Meta-Analysis. Am J Geriatr Psychiatry. 2025 Oct 4:S1064-7481(25)00496-8. doi: 10.1016/j.jagp.2025.10.001 PMID: 41177743.",
+        "authors": "",
+        "pmid": "41177743",
+        "doi": "10.1016/j.jagp.2025.10.001",
+        "abstract": "Objective:\nDoes lithium treatment provide cognitive, functional, neuropsychiatric, or biomarker benefits in patients with Alzheimer's disease dementia?\nBackground:\nAlzheimer's disease (AD) dementia is the leading cause of cognitive decline in late life, yet treatment options remain limited.\nMethods:\nThis systematic review and meta-analysis was prospectively registered in PROSPERO and conducted following PRISMA guidelines. We searched PubMed, Embase, and Cochrane Library through April 2025 for randomized controlled trials (RCTs) comparing lithium with placebo or standard therapy in patients with AD dementia or amnestic mild cognitive impairment. Outcomes included cognition (MMSE, ADAS-Cog, memory tasks), function (CDR-SB, conversion to AD), neuropsychiatric symptoms (NPI), CSF biomarkers, and safety (adverse events [AEs], serious AEs [SAEs]). Random-effects meta-analyses were complemented by Bayesian methods and trial sequential analyses.\nResults:\nSix RCTs involving 394 participants (196 lithium, 198 placebo) met inclusion criteria. Lithium did not significantly improve global cognition (MMSE: MD -1.61, 95% CI -4.11 to 0.88; ADAS-Cog: MD -1.82, -3.05 to -0.60; both with high heterogeneity).\nConclusions:\nLithium did not demonstrate consistent benefits on cognition, function, neuropsychiatric symptoms, or CSF biomarkers. Current evidence suggests lithium is generally well tolerated, but its therapeutic role in Alzheimer's disease dementia remains unproven. Larger, well-designed RCTs are required before it can be considered for clinical application.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "A meta-analysis of 6 RCTs (N=394) found no consistent evidence that lithium improves cognition, function, or neuropsychiatric symptoms in Alzheimer's disease, though it was generally well tolerated.",
+          "why_it_matters": "Despite preclinical promise for lithium's neuroprotective effects via GSK-3 inhibition, this rigorous meta-analysis suggests lithium should not be prescribed for cognitive or behavioral benefits in AD outside of research settings.",
+          "caveats": "Only 6 small RCTs were available, with high heterogeneity and variable lithium dosing and duration across studies.",
+          "subspecialty_tags": [
+            "Geriatric Psychiatry",
+            "Neurocognitive",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Geriatric Psychiatry",
+            "Neurocognitive",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "Recognizing Grief in Neurodivergent Minds",
+        "citation": "Munir KM. Recognizing Grief in Neurodivergent Minds. JAMA Psychiatry. 2026;83(2):116-117. doi: 10.1001/jamapsychiatry.2025.4225 PMID: 41432942.",
+        "authors": "",
+        "pmid": "41432942",
+        "doi": "10.1001/jamapsychiatry.2025.4225",
+        "abstract": "This Viewpoint discusses the trajectories of grief in neurodivergent individuals and how clinicians must assess changes from baseline rather than applying criteria without context and distinguish between grief-related functional decline and loss of adaptive support after a caregiver's death.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "Grief in neurodivergent individuals requires assessing functional changes from their individual baseline rather than applying standard grief criteria, and clinicians must distinguish between grief itself and loss of adaptive support systems.",
+          "why_it_matters": "Neurodivergent patients are often overlooked in grief assessment. Misinterpreting loss of caregiver support as psychiatric decompensation can lead to inappropriate treatment, while missing genuine grief reactions leaves patients unsupported.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Neurocognitive",
+            "Child & Adolescent"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Neurocognitive",
+            "Child & Adolescent"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Dopamine-Blocking Antipsychotics-Time for a New Conversation With Patients?",
+        "citation": "Marder SR, Ostlund S. Dopamine-Blocking Antipsychotics-Time for a New Conversation With Patients? JAMA Psychiatry. 2026;83(2):111-112. doi: 10.1001/jamapsychiatry.2025.3572 PMID: 41296326.",
+        "authors": "",
+        "pmid": "41296326",
+        "doi": "10.1001/jamapsychiatry.2025.3572",
+        "abstract": "No abstract available. This Viewpoint discusses what the role of dopamine blockers and non–dopamine-blocking antipsychotics may have in psychiatric practice.",
+        "edition": "February 2026",
+        "clinical_card": {
+          "bottom_line": "With non-dopamine-blocking antipsychotics now available, clinicians should reconsider how they discuss antipsychotic options with patients, including the possibility of treatments without traditional dopamine-related side effects.",
+          "why_it_matters": "The arrival of xanomeline/trospium changes the antipsychotic landscape for the first time in decades. This viewpoint challenges clinicians to update their shared decision-making conversations to include non-dopaminergic options.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      }
+    ]
   }
 ]
