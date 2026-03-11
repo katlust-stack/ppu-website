@@ -206,6 +206,11 @@ a:hover { text-decoration: underline; }
   transition: background 0.15s;
 }
 .btn-podcast:hover { background: var(--navy-light); text-decoration: none; }
+.audio-player {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+}
 
 .latest-issue {
   margin: 2rem 0;

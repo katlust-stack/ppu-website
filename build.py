@@ -456,6 +456,10 @@ def build_archive(editions):
     )
 
 
+AUDIO_FILES = {
+    "February 2026": "audio/ppu-february-2026.m4a",
+}
+
 PODCAST_LINKS = {
     "December/January 2025-2026": "https://notebooklm.google.com/notebook/be4ea3af-b4f1-42a4-8fcc-278941f0e267?artifactId=9449899e-5ec4-478d-a376-ca8ff776dc0f",
     "November 2025": "https://notebooklm.google.com/notebook/4c01cd47-e6a6-48dd-bfbe-57f88e19a510?artifactId=3a7ef740-5c05-4f9c-9f58-2e560abc6c5d",
@@ -505,8 +509,18 @@ def build_issue_page(edition, editions, index):
 
     # Podcast section
     podcast_html = ""
+    audio_file = AUDIO_FILES.get(edition["edition"], "")
     podcast_url = PODCAST_LINKS.get(edition["edition"], "")
-    if podcast_url:
+    if audio_file:
+        podcast_html = f"""<section class="podcast-section">
+    <h2>\U0001f399\ufe0f Audio Overview &mdash; Listen to this issue</h2>
+    <p>AI-generated audio overview of this issue&rsquo;s key findings.</p>
+    <audio class="audio-player" controls preload="metadata">
+      <source src="../{e(audio_file)}" type="audio/mp4">
+      Your browser does not support the audio element.
+    </audio>
+  </section>"""
+    elif podcast_url:
         podcast_html = f"""<section class="podcast-section">
     <h2>\U0001f399\ufe0f AI Podcast &mdash; Listen to this issue</h2>
     <p>AI-generated audio overview of this issue&rsquo;s key findings, powered by NotebookLM.</p>
@@ -596,6 +610,16 @@ def main():
         if os.path.isfile(src):
             shutil.copy2(src, dst)
             print(f"  Copied {fname}")
+
+    # Copy audio files if the static/audio/ directory exists
+    audio_src = os.path.join(STATIC, "audio")
+    if os.path.isdir(audio_src):
+        audio_dist = os.path.join(DIST, "audio")
+        os.makedirs(audio_dist, exist_ok=True)
+        for fname in os.listdir(audio_src):
+            if os.path.isfile(os.path.join(audio_src, fname)):
+                shutil.copy2(os.path.join(audio_src, fname), os.path.join(audio_dist, fname))
+                print(f"  Copied audio/{fname}")
 
     # Copy Word docs if the docs/ directory exists
     if os.path.isdir(DOCS):
