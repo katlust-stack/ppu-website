@@ -461,6 +461,8 @@ AUDIO_FILES = {
 }
 
 PODCAST_LINKS = {
+    "March 2026": "https://notebooklm.google.com/notebook/915a8845-d941-45d6-a4ba-83eae7f8fe7c?artifactId=78463847-7172-4556-b81c-7bc824c0ddd6",
+    "February 2026": "https://notebooklm.google.com/notebook/6501a487-6a9d-47fb-b5a0-9395160fa62f?artifactId=ab2a89c8-bd3b-42fb-98d3-e02f57544bed",
     "December/January 2025-2026": "https://notebooklm.google.com/notebook/be4ea3af-b4f1-42a4-8fcc-278941f0e267?artifactId=9449899e-5ec4-478d-a376-ca8ff776dc0f",
     "November 2025": "https://notebooklm.google.com/notebook/4c01cd47-e6a6-48dd-bfbe-57f88e19a510?artifactId=3a7ef740-5c05-4f9c-9f58-2e560abc6c5d",
     "October 2025": "https://notebooklm.google.com/notebook/2b5cd164-f44d-414e-bec6-a900ed32c111?artifactId=6c336fba-80c6-40be-b496-79c0a61cf258",
