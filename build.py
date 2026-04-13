@@ -457,6 +457,7 @@ def build_archive(editions):
 
 
 AUDIO_FILES = {
+    "March 2026": "audio/ppu-march-2026.m4a",
     "February 2026": "audio/ppu-february-2026.m4a",
 }
 
