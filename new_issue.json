@@ -1,0 +1,571 @@
+{
+  "edition": "March 2026",
+  "filename": "PPU March 2026.docx",
+  "article_count": 18,
+  "articles": [
+    {
+      "title": "Childhood Maltreatment and Deviations from Normative Brain Structure: A Mega-Analysis of 3,711 Individuals from the ENIGMA MDD and ENIGMA PTSD Working Groups",
+      "citation": "Wang HR, Liu ZQ, Pozzi E, Hussain A, Sigar P, Abdallah C, et al. Childhood Maltreatment and Deviations from Normative Brain Structure: A Mega-Analysis of 3,711 Individuals from the ENIGMA MDD and ENIGMA PTSD Working Groups. Biol Psychiatry. 2026;S0006-3223(26)00093-4. doi: 10.1016/j.biopsych.2026.02.016 PMID: 41791639.",
+      "authors": "",
+      "pmid": "41791639",
+      "doi": "10.1016/j.biopsych.2026.02.016",
+      "abstract": "Background: Childhood maltreatment (CM), encompassing abuse and neglect, is highly prevalent and associated with elevated risk for Major Depressive Disorder (MDD), Posttraumatic Stress Disorder (PTSD), and other related conditions. The extent to which neuroanatomical alterations in MDD and PTSD are attributable to CM, however, is uncertain.\nMethods: Here, we analyzed CM and whole-brain MRI data from 3,711 participants in the ENIGMA MDD and PTSD Working Groups (25 sites; 33.3±13.0 years; 59.9% female). Normative modeling estimated deviation z-scores for 14 subcortical volumes (SV), 68 cortical thickness (CT), and 68 surface area (SA) measures. To identify transdiagnostic effects, associations between CM and brain deviation scores were evaluated across all participants (patients and healthy controls) stratified by sex and three age bins (pediatric, young adult, older adult).\nResults: In young adults (ages 18–35), abuse was associated with larger volumes in thalamus and pallidum, thinner isthmus cingulate and middle frontal regions, and thicker medial orbitofrontal cortex; there were no significant effects in pediatric (≤18 years) participants. The strongest associations were observed in older adult females, where neglect was correlated with smaller hippocampus and putamen volumes, thinner entorhinal cortex, and smaller surface area in widespread cortical regions. Effects were particularly pronounced in association cortices in young adult females.\nConclusions: Our findings of age- and sex-specific instantiations of CM on brain morphometry highlight the importance of developmental context in understanding how adverse experiences shape neurobiological vulnerability to MDD and PTSD.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Childhood maltreatment is associated with age- and sex-specific brain structural deviations, with the strongest effects in older adult females showing smaller hippocampal and putamen volumes and widespread cortical thinning.",
+        "why_it_matters": "These findings underscore that the neurobiological impact of childhood maltreatment varies by developmental stage and sex, which may help explain differential vulnerability to MDD and PTSD and inform targeted early intervention strategies.",
+        "caveats": "Cross-sectional design limits causal inference; normative modeling cannot establish whether brain deviations preceded or followed psychopathology onset.",
+        "subspecialty_tags": [
+          "Neuroscience",
+          "Anxiety & Trauma",
+          "Mood Disorders"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Neuroscience",
+          "Anxiety & Trauma",
+          "Mood Disorders"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis"
+        ]
+      }
+    },
+    {
+      "title": "Association between GLP-1 receptor agonist use and worsening mental illness in people with depression and anxiety in Sweden: a national cohort study",
+      "citation": "Taipale H, Taylor M, Lähteenvuo M, Mittendorfer-Rutz E, Tanskanen A, Tiihonen J. Association between GLP-1 receptor agonist use and worsening mental illness in people with depression and anxiety in Sweden: a national cohort study. Lancet Psychiatry. 2026;13(4):327-335. doi: 10.1016/S2215-0366(26)00014-3 PMID: 41862258.",
+      "authors": "",
+      "pmid": "41862258",
+      "doi": "10.1016/S2215-0366(26)00014-3",
+      "abstract": "Background: People with diabetes have an elevated risk of developing depression, anxiety, and suicide. GLP-1 receptor agonists are licensed to treat diabetes and obesity, but data on whether these medications alleviate or exacerbate anxiety, depression, and self-harm are mixed. We studied the risk of worsening mental illness in people already diagnosed with depression, anxiety, or both who were prescribed antidiabetic medications including GLP-1 receptor agonists.\nMethods: The study cohort, identified from national Swedish electronic health registers, included people with a diagnosis of depression or anxiety disorder who used any antidiabetic medication between the years 2009 and 2022. GLP-1 receptor agonists, individually and as a group, were compared with non-use of GLP-1 receptor agonists and directly with other second-line antidiabetic medications. A within-individual design was used for all comparisons to reduce confounding, comparing periods of use versus periods of non-use of a medication in the same individual. The primary outcome was worsening of mental illness, defined as a composite of psychiatric hospitalisation; sick leave from work for more than 14 days for psychiatric reasons; hospitalisation due to self-harm; or death by suicide. Secondary outcomes were worsening of depression or anxiety, analysed separately, worsening of substance use disorder, and self-harm. Within-individual stratified Cox models with adjusted hazard ratios (aHRs) and 95% CIs were used. A person with related lived experience was involved in the design and write-up of this study.\nFindings: The cohort included 95,490 people (56,976 women, 38,514 men) with a mean age of 51 years (SD 12.3). GLP-1 receptor agonists were used by 22,480 individuals during the follow-up period. Semaglutide was associated with a 42% decreased risk of worsening mental illness (aHR 0.58, 95% CI 0.51–0.65), and liraglutide with an 18% decreased risk (aHR 0.82, 0.76–0.89), compared with non-use of GLP-1 receptor agonists, whereas exenatide and dulaglutide were not associated with psychiatric risk reduction. Semaglutide was associated with a 44% decreased risk of worsening depression and a 38% decreased risk of worsening anxiety. GLP-1 receptor agonists as a group were associated with decreased risk of suicidal behaviour (aHR 0.56, 95% CI 0.34–0.92).\nInterpretation: Given how commonly anxiety and depression co-occur with diabetes and obesity, semaglutide and, to a lesser extent, liraglutide may be useful dually effective therapeutic options.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Semaglutide was associated with a 42% reduced risk of worsening mental illness in people with comorbid depression or anxiety and diabetes, while liraglutide showed an 18% reduction.",
+        "why_it_matters": "Given the high comorbidity of depression and anxiety with diabetes and obesity, semaglutide and liraglutide may offer dually effective therapeutic options, informing medication selection for patients with overlapping metabolic and psychiatric conditions.",
+        "caveats": "Within-individual design reduces but does not eliminate confounding; effects may not generalize beyond the Swedish population with diabetes or to patients without metabolic comorbidity.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Psychopharmacology",
+          "Medical Psychiatry"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Psychopharmacology",
+          "Medical Psychiatry"
+        ],
+        "evidence_quality": [
+          "Observational / Case series"
+        ]
+      }
+    },
+    {
+      "title": "The American Society of Clinical Psychopharmacology (ASCP) task force on the deprescribing of psychotropic medications for mood disorders: Delphi expert consensus",
+      "citation": "Goldberg JF, Swartz HA, McIntyre RS, Mago R, Malhi GS, Jha MK, et al. The American Society of Clinical Psychopharmacology (ASCP) task force on the deprescribing of psychotropic medications for mood disorders: Delphi expert consensus. Br J Psychiatry. 2026 Mar 25:1-9. doi: 10.1192/bjp.2026.10580 PMID: 41877318.",
+      "authors": "",
+      "pmid": "41877318",
+      "doi": "10.1192/bjp.2026.10580",
+      "abstract": "Background: The American Society of Clinical Psychopharmacology (ASCP) convened a 45-member international expert task force to identify circumstances supporting the deprescribing of core psychotropic medications for major depressive disorder (MDD) and bipolar disorders.\nMethods: Three Delphi survey rounds plus a selective literature review identified points of consensus (predefined as ≥75% agreement) about when antidepressant, antipsychotic, mood stabiliser, and sedative-hypnotic deprescribing is warranted.\nResults: Twenty out of 32 statements (63%) achieved consensus across seven thematic areas. In MDD, panellists favoured discontinuing antidepressants when mechanisms of action are duplicative, adequate trials produce ≤25% improvement, or loss of prior efficacy cannot be regained through dose increases or augmentations. Indefinite antidepressant maintenance in MDD was favoured after three or more lifetime episodes. In bipolar disorder, antidepressant deprescribing was favoured in the setting of rapid cycling, mixed features, or emerging mania/hypomania symptoms; and discouraged if prior antidepressant cessation led to relapse. In nonpsychotic mood disorders, panellists favoured deprescribing antipsychotics that caused significant weight gain or tardive dyskinesia over adding pharmacological antidotes. Deprescribing to achieve an eventual medication-free status was considered inappropriate in bipolar type I, but not necessarily bipolar type II disorder.\nConclusions: Although individualised circumstances necessarily inform psychopharmacology management, clinical presentations that misalign with existing pharmacotherapies may signal the desirability of cautious deprescribing.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "An expert Delphi consensus identifies specific clinical scenarios warranting deprescribing of antidepressants, antipsychotics, mood stabilizers, and sedative-hypnotics in mood disorders, including duplicative mechanisms and inadequate response.",
+        "why_it_matters": "Polypharmacy is common in mood disorders yet guidance on when to stop medications has been lacking; these consensus statements provide a practical framework for clinicians considering medication simplification.",
+        "caveats": "Only 63% of statements reached consensus, and Delphi methodology reflects expert opinion rather than randomized evidence.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Psychopharmacology"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Adverse Childhood Experiences and Treatment-Resistant Depression",
+      "citation": "Xiong Y, Lindersten P, Gong T, Magnusson PKE, Liu S, Lu Y. Adverse Childhood Experiences and Treatment-Resistant Depression. JAMA Netw Open. 2026;9(3):e260222. doi: 10.1001/jamanetworkopen.2026.0222 PMID: 41817529.",
+      "authors": "",
+      "pmid": "41817529",
+      "doi": "10.1001/jamanetworkopen.2026.0222",
+      "abstract": "Importance: Adverse childhood experiences (ACEs) are key risk factors for major depressive disorder (MDD), but their associations with treatment-resistant depression (TRD) remain unclear, particularly after accounting for unmeasured confounding, such as shared genetic and familial environmental factors.\nObjective: To examine the association between ACEs and TRD while accounting for unmeasured confounding within families.\nDesign, Setting, and Participants: This cohort study used a co-twin control design and was based on 2 Swedish Twin Registry cohorts: the Study of Twin Adults: Genes and Environment (STAGE) and the Young Adult Twins in Sweden Study (YATSS). The sample included twins born from 1959 to 1992 who completed surveys in 2005 to 2006 (for the STAGE cohort) or in 2013 to 2014 (for the YATSS cohort).\nMain Outcomes and Measures: Treatment-resistant depression, inferred from prescription patterns.\nResults: ACE exposure was associated with an increased risk of TRD even after accounting for unmeasured familial confounding.\nConclusions: and Relevance: In this cohort study, ACE exposure was associated with an increased risk of TRD even after accounting for unmeasured familial confounding. The findings highlight the importance of preventing ACEs and incorporating ACE history into clinical assessment and treatment planning for depression.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Adverse childhood experiences are associated with increased risk of treatment-resistant depression even after accounting for shared genetic and familial environmental factors using a co-twin control design.",
+        "why_it_matters": "This strengthens the case for routinely assessing ACE history in patients with depression, as ACE exposure may identify individuals at higher risk for treatment resistance who could benefit from earlier aggressive or multimodal treatment strategies.",
+        "caveats": "Treatment-resistant depression was inferred from prescription patterns rather than clinical assessment; the Swedish twin cohort may limit generalizability to other populations.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Psychotherapy"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Psychotherapy"
+        ],
+        "evidence_quality": [
+          "Observational / Case series",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Bipolar Disorder: An Update on Neurobiology and Treatment",
+      "citation": "Soliman MA, Khafif T, Sylvia L, Nierenberg AA. Bipolar Disorder: An Update on Neurobiology and Treatment. Am J Psychiatry. 2026;183(3):159-168. doi: 10.1176/appi.ajp.20260051 PMID: 41764059.",
+      "authors": "",
+      "pmid": "41764059",
+      "doi": "10.1176/appi.ajp.20260051",
+      "abstract": "Bipolar disorders are chronic psychiatric conditions characterized by recurrent episodes of mania and depression. Affecting over 1% of the global population, these disorders contribute significantly to disability and mortality, often due to suicide and cardiovascular disease. Diagnostic challenges arise from symptom overlap with unipolar depression, frequently leading to delays. Bipolar disorders are driven by complex genetic, neurobiological, and environmental factors and are commonly accompanied by psychiatric and medical comorbidities, further complicating diagnosis and treatment. Standard management strategies include mood stabilizers, antipsychotics, and selective use of antidepressants, complemented by psychosocial interventions like cognitive-behavioral therapy and psychoeducation, which are vital for relapse prevention. Despite recent advancements, the management of bipolar disorders remains challenging, constrained by clinical variability, an absence of specific biomarkers, and difficulties in long-term adherence. [Note: Full structured abstract not available in PubMed (record states 'No abstract available') or via open-access publisher page (subscription required). The above text is a partial abstract excerpt retrieved from an indexing source and may be incomplete.]",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "This review synthesizes current evidence on bipolar disorder neurobiology and treatment, emphasizing diagnostic challenges, the role of genetic and neurodevelopmental factors, and the importance of integrating pharmacological and psychosocial interventions.",
+        "why_it_matters": "Bipolar disorder remains frequently misdiagnosed and undertreated; an updated synthesis of neurobiology and treatment advances helps clinicians navigate evolving management strategies including mood stabilizers, antipsychotics, and adjunctive psychotherapy.",
+        "caveats": null,
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Psychopharmacology",
+          "Neuroscience"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Psychopharmacology",
+          "Neuroscience"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Sustained effectiveness and safety of esketamine for major depressive disorder: a target trial simulation of real-world data",
+      "citation": "Liu TH, Shen HS, Wu JY, et al. Sustained effectiveness and safety of esketamine for major depressive disorder: a target trial simulation of real-world data. Transl Psychiatry. 2026. doi: 10.1038/s41398-026-04032-3 DOI link.",
+      "authors": "",
+      "pmid": "",
+      "doi": "10.1038/s41398-026-04032-3",
+      "abstract": "Background: /Objective:\nThis study aimed to evaluate the long-term effectiveness and safety of esketamine in adults with major depressive disorder (MDD), focusing on suicide-related events, all-cause mortality, and major adverse cardiovascular events (MACEs).\nMethods:\nThis target-trial simulation used the TriNetX Global Collaborative Network. Adults (≥18 years) with MDD who received either esketamine or a conventional antidepressant during an inpatient episode were included. After propensity-score matching for demographic and clinical variables, matched pairs were analyzed with follow-up to 2 years. The primary outcome was a composite of suicide-related events. Hazard ratios (HRs) with 95% CIs were estimated across acute (days 1–14), intermediate (days 15–365), and long-term (days 15–730) periods.\nResults:\nAfter 1:1 matching, 3383 pairs were analyzed. Esketamine use was associated with lower suicide-related events at days 1–14 (0.77% vs 3.78%; HR, 0.19; 95% CI, 0.12–0.29; P < 0.001), days 15–365 (2.13% vs 2.63%; HR, 0.63; 95% CI [further data available in full text]), and the long-term follow-up period.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Esketamine was associated with significantly lower suicide-related events compared to conventional antidepressants in real-world hospitalized MDD patients, with benefits sustained over two years.",
+        "why_it_matters": "This real-world evidence extends beyond clinical trial data to suggest that esketamine may offer meaningful, sustained reductions in suicide-related events for hospitalized patients with MDD, informing treatment decisions in acute psychiatric settings.",
+        "caveats": "Observational target-trial simulation design cannot fully account for unmeasured confounders; results may reflect channeling bias toward esketamine in higher-acuity patients.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Psychopharmacology"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Observational / Case series"
+        ]
+      }
+    },
+    {
+      "title": "Primary Prevention of PTSD Symptoms in Combat-Deploying Soldiers Using Attention Bias Modification: A Randomized Controlled Trial",
+      "citation": "Gober Dykan CD, Levinstein Y, Tetse-Laur L, Ben-Yehuda A, Rotschield J, Pine DS, et al. Primary Prevention of PTSD Symptoms in Combat-Deploying Soldiers Using Attention Bias Modification: A Randomized Controlled Trial. Am J Psychiatry. 2026;183(3):204-213. doi: 10.1176/appi.ajp.20250160. Epub 2025 Nov 19 PMID: 41254848.",
+      "authors": "",
+      "pmid": "41254848",
+      "doi": "10.1176/appi.ajp.20250160",
+      "abstract": "Objective:\nEvidence suggests that attentional threat avoidance is associated with increased risk for posttraumatic stress disorder (PTSD). This study evaluated the efficacy of two attention bias modification (ABM) protocols designed to enhance attention toward threats as a primary prevention of PTSD.\nMethods:\nThe efficacy of the two ABM protocols was assessed using a three-arm randomized controlled trial in 501 male combat-bound soldiers. One protocol used response-time (RT)-based ABM to train attention toward threat over neutral stimuli (dot-probe task); the other used an eye-tracking-based ABM employing instrumental reward to enhance sustained attention to threat over neutral stimuli. The third arm served as a placebo control. Soldiers completed training prior to their first operational deployment in Judea and Samaria. PTSD symptoms were assessed upon return from deployment.\nResults:\nAmong soldiers in the placebo control group, 5.3% reported clinically significant post-traumatic symptoms following deployment. In the group that received RT-based ABM, the rate was approximately 1%, representing an approximately fivefold reduction in risk. The eye-tracking-based ABM protocol did not demonstrate significant efficacy relative to the control condition.\nConclusions:\nRT-based ABM, delivered prior to combat deployment, significantly reduced the risk of PTSD symptoms following combat exposure, replicating and extending prior trial findings. Eye-tracking-based ABM did not show comparable preventive effects. These results support the continued development and implementation of scalable, computerized attention training as a primary prevention strategy for combat-related PTSD.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Response-time-based attention bias modification training delivered before combat deployment reduced the rate of clinically significant PTSD symptoms approximately fivefold compared to placebo in soldiers.",
+        "why_it_matters": "This is one of the first demonstrations that a brief, scalable, computerized intervention can prevent PTSD in a high-risk population before trauma exposure, offering a potentially transformative approach to military mental health readiness.",
+        "caveats": "The sample was exclusively male Israeli soldiers deploying to a specific region; eye-tracking-based ABM did not show benefit, suggesting the active mechanism is specific to the RT-based protocol.",
+        "subspecialty_tags": [
+          "Anxiety & Trauma",
+          "Neuroscience"
+        ],
+        "evidence_quality_tags": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Anxiety & Trauma",
+          "Neuroscience"
+        ],
+        "evidence_quality": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Reframing schizophrenia as a neurodevelopmental syndrome: The scientific and social imperative",
+      "citation": "Nagendra A, Mesholam-Gately R, Shafrin J, Keshavan MS. Reframing schizophrenia as a neurodevelopmental syndrome: The scientific and social imperative. Schizophr Res. 2026;292:96-102. doi: 10.1016/j.schres.2026.03.001. Epub 2026 Mar 18 PMID: 41856023.",
+      "authors": "",
+      "pmid": "41856023",
+      "doi": "10.1016/j.schres.2026.03.001",
+      "abstract": "Schizophrenia is traditionally classified as a serious mental illness (SMI), emphasizing chronicity and disability. However, growing evidence supports that it also shows features of a neurodevelopmental syndrome, highlighting disruptions in early brain development and a diverse spectrum of trajectories. This paper proposes expanding the conceptualization of schizophrenia as both an SMI and a neurodevelopmental syndrome. We review biological, clinical, and epidemiological evidence supporting a neurodevelopmental model of schizophrenia. We then propose a three-pronged strategy to operationalize this reframing: (i) reclassification in the ICD-11 and DSM-5 as a neurodevelopmental syndrome; (ii) renaming to reflect established and evolving scientific evidence; and (iii) reshaping societal narratives so schizophrenia is understood as a developmental condition that remains modifiable. A neurodevelopmental framing may advance access, quality, and equity in schizophrenia care.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "The authors propose reframing schizophrenia as a neurodevelopmental syndrome—not just a serious mental illness—through diagnostic reclassification, renaming, and reshaping societal narratives to improve care access and equity.",
+        "why_it_matters": "Reconceptualizing schizophrenia as a neurodevelopmental condition could shift clinical focus toward earlier intervention, reduce stigma, and align research priorities with developmental trajectories rather than chronic disability models.",
+        "caveats": "This is a conceptual proposal rather than an empirical study; practical challenges of reclassification in DSM/ICD systems and potential consequences for insurance coverage or disability benefits are not fully addressed.",
+        "subspecialty_tags": [
+          "Psychotic Disorders",
+          "Neuroscience",
+          "Public Health & Policy"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Psychotic Disorders",
+          "Neuroscience",
+          "Public Health & Policy"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Age at First Attention-Deficit/Hyperactivity Disorder Diagnosis and Educational Outcomes",
+      "citation": "Volotinen L, Remes H, Martikainen P, Metsä-Simola N. Age at First Attention-Deficit/Hyperactivity Disorder Diagnosis and Educational Outcomes. JAMA Psychiatry. Published online April 8, 2026. doi:10.1001/jamapsychiatry.2026.0181 DOI link.",
+      "authors": "",
+      "pmid": "",
+      "doi": "10.1001/jamapsychiatry.2026.0181",
+      "abstract": "IMPORTANCE: Early diagnosis of attention-deficit/hyperactivity disorder (ADHD) is often recommended, but it is unknown whether age at diagnosis is associated with educational outcomes.\nOBJECTIVE: To estimate whether age at ADHD diagnosis is associated with school performance, completed degrees, educational enrollment, and school dropout.\nDESIGN, SETTING, AND PARTICIPANTS: This population-based cohort study used national registry data for individuals born in Finland between January 1, 1990, and December 31, 1999, followed up until age 20 years. Individuals were born without a diagnosis of intellectual disability (ICD-10 codes F70–F79). Analyses were conducted from May 2024 to December 2025.\nEXPOSURES: Age at ADHD diagnosis, identified by the first clinical diagnosis (ICD-9 code 314; ICD-10 code F90; or medication purchase).\nMAIN OUTCOMES AND MEASURES: Grade point average (GPA; range, 4 [failing] to 10 [excellent]) at the end of compulsory education (approximately 16 years of age), completed degrees in upper secondary education (vocational or academic), enrollment in tertiary education, and school dropout at age 20 years.\nRESULTS: Among 580,132 individuals followed, 15,961 had an ADHD diagnosis (12,208 males [2.1%] and 3,753 females [0.7%]). Mean age at diagnosis was 11 years for males and 14 years for females. Boys were diagnosed more often in primary school, whereas diagnoses increased among girls after age 13. ADHD diagnosis at any age was associated with poorer educational outcomes compared with no diagnosis. Among those diagnosed, older age at diagnosis during the compulsory school years was associated with lower GPA, reduced likelihood of completing academic-track upper secondary education, and increased school dropout risk. Among males, dropout probability increased from 9% at age 4 years to 30% at age 16 years. Girls and boys diagnosed between ages 13 and 16 had the poorest educational outcomes, with close to one-third not studying or having completed any upper secondary education by age 20.\nCONCLUSIONS: AND RELEVANCE: In this cohort study, earlier age at ADHD diagnosis was associated with better school performance, more academic education, and lower school dropout rates than diagnoses closer to age 16. The findings suggest that individuals diagnosed closer to age 16 could benefit from targeted support to prevent school dropout. Further research is needed to confirm a causal relationship between age at diagnosis and educational outcomes.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Earlier age at ADHD diagnosis was associated with better school performance, more academic education, and lower school dropout rates compared to diagnosis closer to age 16, with girls diagnosed later than boys.",
+        "why_it_matters": "These population-level findings support the clinical importance of timely ADHD identification, particularly for girls who are diagnosed later on average, and suggest that adolescents diagnosed near age 16 need targeted educational support to prevent dropout.",
+        "caveats": "Observational design cannot establish that earlier diagnosis causes better outcomes; unmeasured confounders such as ADHD severity, family support, and comorbidities may explain the association.",
+        "subspecialty_tags": [
+          "Child & Adolescent",
+          "Neurocognitive"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Child & Adolescent",
+          "Neurocognitive"
+        ],
+        "evidence_quality": [
+          "Observational / Case series"
+        ]
+      }
+    },
+    {
+      "title": "Methylphenidate Treatment and Risk of Psychotic Disorder",
+      "citation": "Healy C, O'Hare K, Lång U, Metsälä J, Pulakka A, McGrath J, et al. Methylphenidate Treatment and Risk of Psychotic Disorder. JAMA Psychiatry. Published online March 25, 2026. doi:10.1001/jamapsychiatry.2026.0152 DOI link.",
+      "authors": "",
+      "pmid": "",
+      "doi": "10.1001/jamapsychiatry.2026.0152",
+      "abstract": "Importance: Methylphenidate is the leading pharmacological treatment for attention-deficit/hyperactivity disorder (ADHD) in childhood and adolescence. Individuals with ADHD have a higher risk of psychosis, but the long-term relationship between methylphenidate and risk of developing psychotic disorders is unknown.\nObjective: To estimate the relationship between methylphenidate treatment and the risk of nonaffective psychosis in children and adolescents diagnosed with ADHD.\nDesign, Setting, and Participants: This cohort study included instrumental variable analysis of data linkage from multiple national Finnish registries for all individuals born from 1987 to 1997 (n = 697,289).\nExposures: Cumulative amount of treatment with methylphenidate used in 4 intervention windows: within 1, 2, 3, and 4 years after ADHD diagnosis. Hospital district prescribing propensities (average prescribing within each hospital district, within each intervention window) were used as instruments.\nMain Outcomes and Measures: Diagnosis of nonaffective psychotic disorder (by code from International Statistical Classification of Diseases and Related Health Problems, Tenth Revision) by the end of follow-up (December 31, 2016). Instrumental variable analyses were conducted using 2-stage least squares modeling and the Anderson-Rubin test. Risk differences (RDs) were estimated for each intervention window.\nResults: Among 3,956 individuals diagnosed with ADHD (3,181 male [80.4%], 775 female [19.6%]; median [IQR] age, 14.16 [11.78–15.93] years), 2,728 (69.0%) received methylphenidate at least once. Overall, 5.7% of individuals were diagnosed with nonaffective psychosis by a mean age of 22.16 years. There was substantial variation in hospital district prescribing propensity (first-year range, 0.07 to 0.30). Instrumental variable analysis indicated that sustained treatment with methylphenidate (30 mg/d) was not associated with the risk of nonaffective psychosis in the overall ADHD sample (1-year RD, −0.14; 95% CI, −0.85 to 0.42; and 4-year RD, −0.15; 95% CI, −0.49 to 0.11). Secondary analyses indicated a reduced risk of nonaffective psychosis among individuals diagnosed in childhood (age <13 years: 3-year RD, −0.24; 95% CI, −0.45 to −0.03; P = .03; 4-year RD, −0.21; 95% CI, −0.48 to −0.07; P = .02). An insufficiently strong instrument precluded the same secondary analyses in those diagnosed in adolescence.\nConclusions: and Relevance: This study of national Finnish registry data for individuals with ADHD found no overall relationship between sustained treatment with methylphenidate and risk of nonaffective psychosis; in secondary analyses, a potentially protective effect of methylphenidate treatment against later psychosis in children diagnosed with ADHD was found. Further research is needed to evaluate potential effects of treatment in individuals diagnosed in adolescence and adulthood.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Sustained methylphenidate treatment in children and adolescents with ADHD was not associated with increased risk of nonaffective psychosis, with secondary analyses suggesting a potentially protective effect in children diagnosed before age 13.",
+        "why_it_matters": "This provides reassurance for clinicians prescribing methylphenidate for ADHD, addressing a common concern about stimulant-associated psychosis risk, and supports the safety of sustained treatment particularly when initiated in childhood.",
+        "caveats": "The instrumental variable approach relies on regional prescribing variation, and the study was underpowered to assess risk in adolescents diagnosed after age 13; results apply specifically to methylphenidate and nonaffective psychosis.",
+        "subspecialty_tags": [
+          "Child & Adolescent",
+          "Psychopharmacology",
+          "Psychotic Disorders"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Child & Adolescent",
+          "Psychopharmacology",
+          "Psychotic Disorders"
+        ],
+        "evidence_quality": [
+          "Observational / Case series"
+        ]
+      }
+    },
+    {
+      "title": "Mirtazapine for Methamphetamine Use Disorder: A Randomized Clinical Trial",
+      "citation": "McKetin R, Shoptaw S, Saunders L, Nguyen L, Clare PJ, Dore GJ, et al. Mirtazapine for Methamphetamine Use Disorder: A Randomized Clinical Trial. JAMA Psychiatry. Published online April 1, 2026. doi: 10.1001/jamapsychiatry.2026.0159 DOI link.",
+      "authors": "",
+      "pmid": "",
+      "doi": "10.1001/jamapsychiatry.2026.0159",
+      "abstract": "Importance: Methamphetamine use disorder is a chronic, relapsing condition affecting an estimated 7.4 million people worldwide, with no approved pharmacotherapies. Mirtazapine, a tetracyclic antidepressant, has shown promise in two preliminary phase 2 trials conducted in men who have sex with men in the United States.\nObjective: To determine the safety and effectiveness of mirtazapine as a pharmacotherapy for methamphetamine use disorder in routine clinical practice.\nDesign, Setting, and Participants: The Tina Trial was a multisite, double-blind, randomized, placebo-controlled, parallel-group superiority trial (1:1 allocation ratio). The trial was conducted through six outpatient alcohol and other drug treatment clinics in Australia. A total of 339 adults aged 18–65 years with moderate to severe methamphetamine use disorder were enrolled.\nInterventions: Participants were randomly assigned to receive either oral mirtazapine (30 mg/day) or matched placebo for 12 weeks, delivered as a take-home medication.\nMain Outcomes and Measures: The primary outcome was self-reported days of methamphetamine use in the past 4 weeks at week 12. Secondary outcomes included methamphetamine-negative oral fluid samples, depressive symptoms, sleep quality, HIV risk behaviour, quality of life, and safety (adverse events).\nResults: At baseline, participants reported using methamphetamine on an average of 24 days out of the past 28 days. Participants in the mirtazapine group reduced the frequency of their methamphetamine use by 7 days (out of the past 28 days) at the end of the 12-week treatment period, a reduction significantly greater than the 4.8-day reduction observed in the placebo group. Participants who took mirtazapine were significantly more likely to reduce their methamphetamine use compared to those given placebo. More participants in the mirtazapine group reported drowsiness and weight gain than those in the placebo group. No unexpected safety concerns were identified.\nConclusions: and Relevance: Mirtazapine (30 mg/day for 12 weeks) significantly reduced methamphetamine use compared with placebo when delivered as an outpatient take-home medication in routine clinical practice. No unexpected safety concerns delivering mirtazapine in this setting were found. These findings have important clinical implications in the absence of any approved pharmacotherapies for methamphetamine use disorder and support the use of once-daily mirtazapine as a pharmacotherapy for methamphetamine use disorder.\nTrial Registration: Australian and New Zealand Clinical Trials Registry: ACTRN12622000235707.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Mirtazapine 30 mg/day for 12 weeks significantly reduced methamphetamine use frequency compared to placebo in a large multisite RCT, representing the first positive phase 3 trial for methamphetamine use disorder.",
+        "why_it_matters": "With no approved pharmacotherapies for methamphetamine use disorder, this trial provides the strongest evidence to date for an accessible, well-tolerated medication that can be prescribed in routine outpatient settings, filling a critical treatment gap.",
+        "caveats": "The primary outcome was self-reported use days rather than biological confirmation; common side effects included drowsiness and weight gain; long-term efficacy beyond 12 weeks is unknown.",
+        "subspecialty_tags": [
+          "Addiction",
+          "Psychopharmacology"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Addiction",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis"
+        ]
+      }
+    },
+    {
+      "title": "The Neuropsychiatric Disturbances of Delirium: A Review of Syndromes and Their Treatment",
+      "citation": "Lee S, Ro GS, Weber MT, Oldham MA. The Neuropsychiatric Disturbances of Delirium: A Review of Syndromes and Their Treatment. Am J Geriatr Psychiatry. 2026;34(3):348-368. doi: 10.1016/j.jagp.2025.10.003. Epub 2025 Oct 11. ; PMCID: PMC12694763 PMID: 41206258.",
+      "authors": "",
+      "pmid": "41206258",
+      "doi": "10.1016/j.jagp.2025.10.003",
+      "abstract": "Broadly analogous to the behavioral and psychological symptoms that plague dementia, the neuropsychiatric disturbances (NPD) of delirium pose significant burdens to patients, their loved ones, and clinicians. Moreover, these disturbances are often the most salient aspect of delirium, causing distress and placing patients and those around them at risk of harm. The field's limited understanding of delirium's NPD could also be a key reason why the pharmacology of delirium remains underdeveloped. In this narrative review, we propose clinically relevant neuropsychiatric syndromes in delirium, along with provisional definitions. We then discuss evidence for potential pharmacological and nonpharmacological interventions for each, both within the context of delirium and in other conditions, especially where these syndromes also occur in dementia. Candidate syndromes include excessive psychomotor activity and the related akathisia; inadequate psychomotor activity, either as reduced arousal or as avolition; psychosis, including perceptual disturbances and erroneous beliefs; emotional disturbances, either as affective dysregulation or as anxious distress; catatonia; and sleep-wake disturbances. The NPD of delirium should be differentiated from the global cognitive impairment of delirium as they often warrant independent clinical attention. The failure to tailor treatments to specific syndromes—for instance, treating akathisia in delirium with an antipsychotic—may lead to greater behavioral disturbance. Like the neuropsychiatric disturbances of dementia, the neuropsychiatric disturbances of delirium deserve independent attention. Further work on the neuropsychiatric disturbances of delirium could lead to advances in delirium management, including delirium psychopharmacology.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "This review proposes a systematic framework for identifying and treating specific neuropsychiatric disturbances of delirium—including akathisia, psychosis, catatonia, and sleep-wake disruption—as distinct clinical targets requiring tailored interventions.",
+        "why_it_matters": "Failing to differentiate delirium's neuropsychiatric syndromes can lead to counterproductive treatment, such as giving antipsychotics for akathisia; this framework supports more rational pharmacological management and may advance delirium psychopharmacology research.",
+        "caveats": "The proposed syndromes and their definitions are provisional, based on narrative review rather than systematic empirical validation.",
+        "subspecialty_tags": [
+          "Geriatric Psychiatry",
+          "Neurocognitive",
+          "Medical Psychiatry"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Geriatric Psychiatry",
+          "Neurocognitive",
+          "Medical Psychiatry"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Comparative Efficacy and Acceptability of Treatment Strategies for Antipsychotic-Induced Akathisia: A Systematic Review and Network Meta-analysis",
+      "citation": "Furukawa Y, Imai K, Takahashi Y, Efthimiou O, Leucht S. Comparative Efficacy and Acceptability of Treatment Strategies for Antipsychotic-Induced Akathisia: A Systematic Review and Network Meta-analysis. Schizophr Bull. 2024;sbae098. doi: 10.1093/schbul/sbae098 PMID: 38869177.",
+      "authors": "",
+      "pmid": "38869177",
+      "doi": "10.1093/schbul/sbae098",
+      "abstract": "Background: Antipsychotics are the treatment of choice for schizophrenia, but they often induce akathisia. However, comparative efficacy of treatment strategies for akathisia remains unclear.\nDesign: We performed a systematic review and network meta-analyses (PROSPERO CRD42023450720). We searched multiple databases on July 24, 2023. We included randomized clinical trials comparing 1 or more treatment strategies for antipsychotic-induced akathisia against each other or control conditions. We included adults with schizophrenia or other psychiatric disorders treated with antipsychotics. The primary outcome was akathisia severity at posttreatment. Secondary outcomes included akathisia response, all-cause dropout, psychotic symptoms, and long-term akathisia severity. We synthesized data in random effects frequentist network meta-analyses and assessed confidence in the evidence using CINeMA.\nResults: We identified 19 trials with 661 randomized participants (mean age 35.9 [standard deviation 12.0]; 36.7% [195 of 532] women). No trials examined dose reduction or switching of antipsychotics. There was some evidence suggesting that 5-HT2A antagonists and beta-blockers may improve akathisia severity, but the confidence in the evidence was low, mainly owing to the high risk of bias of the original studies. We also found evidence suggesting that benzodiazepines and vitamin B6 may be also beneficial, but the confidence was very low. These findings are based on short-term follow-up only and no trials examined whether the effects persist on the long-term.\nConclusions: Our findings suggest that 5-HT2A antagonists, beta-blockers, and with a lesser certainty, benzodiazepines, and vitamin B6 might improve akathisia. Given the low to very low confidence in the evidence of add-on agents and the absence of evidence of their long-term efficacy, careful consideration of side effects is warranted. These recommendations are extremely preliminary and further trials are needed.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "5-HT2A antagonists and beta-blockers show the most evidence for treating antipsychotic-induced akathisia, though confidence is low; benzodiazepines and vitamin B6 may also help but evidence is very low quality.",
+        "why_it_matters": "Akathisia is a common and distressing side effect that drives non-adherence to antipsychotics; this network meta-analysis provides the first comparative ranking of treatment strategies, though it also reveals how thin the evidence base remains.",
+        "caveats": "Only 19 trials with 661 participants were included; no trials examined antipsychotic dose reduction or switching; all evidence was short-term with high risk of bias.",
+        "subspecialty_tags": [
+          "Psychopharmacology",
+          "Psychotic Disorders"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Psychopharmacology",
+          "Psychotic Disorders"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Efficacy of transcranial magnetic stimulation in the treatment of combat-related PTSD: a systematic review and meta-analysis",
+      "citation": "Virto-Farfan H, Váscones-Román FF, Rivera V, Karpenko O, Bochkina E, Parshakova E, Sinev A, Tafet GE, Pacheco-Barrios N. Efficacy of transcranial magnetic stimulation in the treatment of combat-related PTSD: a systematic review and meta-analysis. Front Psychiatry. 2026;17:1756576. doi: 10.3389/fpsyt.2026.1756576. ; PMCID: PMC12999802 PMID: 41868833.",
+      "authors": "",
+      "pmid": "41868833",
+      "doi": "10.3389/fpsyt.2026.1756576",
+      "abstract": "Background: Combat-related post-traumatic stress disorder (PTSD) remains highly prevalent among military personnel and veterans and is frequently chronic, disabling, and only partially responsive to first-line pharmacological and psychotherapeutic interventions. Given the central role of fronto-limbic circuit dysfunction in PTSD, transcranial magnetic stimulation (TMS) has emerged as a biologically plausible neuromodulatory strategy, yet its protocol-level efficacy in combat-exposed populations is not well established. Clarifying whether specific TMS modalities offer clinically meaningful benefit beyond sham, and whether any protocol can be prioritized, is critical for rationally integrating TMS into veteran-focused care pathways.\nMethods: This systematic review and meta-analysis followed PRISMA 2020 and Cochrane Handbook recommendations and was prospectively registered in PROSPERO (CRD420251105555). We searched PubMed, SCOPUS, Embase, Web of Science, and EBSCO (March–June 2025) for clinical studies of adults with combat-related PTSD (DSM-IV, DSM-5, ICD-10, or ICD-11) receiving any TMS modality (rTMS, theta-burst stimulation, deep TMS, synchronized or accelerated TMS), compared with sham, standard care, or both. Primary outcomes were changes in PTSD severity measured with validated instruments (e.g., CAPS, PCL-5); secondary outcomes included depressive and anxiety symptoms, psychosocial functioning, acceptability, and safety.\nResults: Five studies contributed pre–post data (including one of the randomized controlled trials that presented the pre and post data of the TMS group), showing a large, clinically meaningful pooled reduction in PTSD symptoms after TMS (pooled mean change −20.39 points; 95% CI −23.94 to −16.83; p < 0.001; I² = 88.7), with the greatest improvements observed in high-frequency (10 Hz) left DLPFC rTMS protocols delivered over 20–30 sessions. In contrast, three randomized controlled trials (n = 116) comparing active TMS with sham yielded a non-significant pooled mean difference favoring TMS (MD −3.83; 95% CI −16.32 to 8.65; p = 0.098; I² = 56.9), suggesting that a substantial portion of symptom improvement may reflect non-specific or shared therapeutic factors. Subgroup analyses hinted at benefit for conventional rTMS and inconclusive effects for deep TMS, but were underpowered and did not identify any modality as clearly superior. Across studies, TMS was well tolerated: no serious adverse events were reported, dropout rates were low (~7%), and adverse effects were predominantly mild (transient headache, scalp discomfort, fatigue).\nConclusions: Overall, the evidence indicates that TMS yields robust within-group clinical improvement and an excellent safety profile in combat-related PTSD, while the specific advantage over sham and the comparative superiority of individual TMS protocols remain uncertain, underscoring the need for larger, protocol-focused randomized trials with standardized parameters and longer follow-up.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "TMS produces large within-group improvements in combat-related PTSD symptoms and is well tolerated, but the advantage over sham stimulation remains statistically non-significant in randomized trials.",
+        "why_it_matters": "While TMS is increasingly offered for treatment-resistant PTSD in veterans, clinicians should be aware that current evidence cannot clearly separate specific neuromodulatory effects from non-specific therapeutic factors, and more rigorous trials are needed before routine clinical adoption.",
+        "caveats": "Only three small RCTs (n=116) compared active versus sham TMS; substantial heterogeneity in protocols, targets, and session numbers limits definitive conclusions.",
+        "subspecialty_tags": [
+          "Anxiety & Trauma",
+          "Neuromodulation"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Anxiety & Trauma",
+          "Neuromodulation"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Clinical Practice Guideline on the Choice of First Antipsychotic Medicine for Females Experiencing a First-Episode of Psychosis",
+      "citation": "Hynes-Ryan C, Keating D, Carolan A, Brand B, Dazzan P, Gaughran F, et al. Clinical Practice Guideline on the Choice of First Antipsychotic Medicine for Females Experiencing a First-Episode of Psychosis. Schizophr Bull. 2026;52(2):sbag023. doi: 10.1093/schbul/sbag023 PMID: 41793755.",
+      "authors": "",
+      "pmid": "41793755",
+      "doi": "10.1093/schbul/sbag023",
+      "abstract": "Background: .\nEarly intervention in first-episode psychosis (FEP) is critical for long-term outcomes with antipsychotic medicines among the primary treatment options. However, existing clinical practice guidelines (CPGs) do not provide sex-specific recommendations, despite females experiencing distinct vulnerabilities to antipsychotic side-effects. In particular, hyperprolactinemia and cardiometabolic side-effects are associated with substantial subjective distress and potential long-term physical health risks for females across the reproductive lifespan. We aimed therefore to develop a CPG on the preferred antipsychotic medicines for females experiencing FEP.\nMethods: .\nAn international multidisciplinary panel, including experts-by-experience, used the GRADE-ADOLOPMENT process and AGREE II framework to adapt existing FEP guidelines for adults and adolescents. Key health questions were developed through stakeholder consultation and literature review. Except for clozapine (not first-line), evidence suggests minimal differences in efficacy between second-generation antipsychotic medicines in first-episode psychosis. Therefore, current guidelines recommend selection of first medicine as a shared decision incorporating clinician opinion, medicine availability, and individual preferences regarding benefits and side-effects. Approximately half of those presenting with first-episode psychosis are treated in community settings where there is an opportunity to offer the medicines with the most favorable side-effect profiles. Some CPGs favor second-generation antipsychotic as first-choice due to their more acceptable side-effects, particularly considering neurological side-effects. Others recommend avoiding olanzapine first-line (especially for younger individuals) due to the significant risk of metabolic side-effects and weight gain. A specific guideline for females is needed to enhance current CPG recommendations and ensure that outcomes that are critically important to females are considered in the recommendation process.\nConclusions: .\nWhile this is a guideline on first-choice of antipsychotic medicine for first-episode psychosis in females, future guidelines should consider subsequent antipsychotic medicine options for females where a first-choice medicine is ineffective or poorly tolerated. Risperidone, amisulpride, olanzapine, and especially clozapine have demonstrated superior efficacy in those with multi-episode schizophrenia. However, these medicines carry a higher risk for either prolactin elevation, cardiometabolic side-effects or both. Additionally, strong effects of sex and estrogen have been reported for medicines such as olanzapine and clozapine via CYP1A2 metabolism. As a result, further research on how to optimize these second/third line antipsychotic medicines in females is crucial to ensure both safety and tolerability. This guideline represents an important advancement in personalized mental healthcare by providing recommendations for the choice of the initial antipsychotic medicine for females experiencing first-episode psychosis.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "A new clinical practice guideline provides sex-specific recommendations for selecting first-line antipsychotics in females with first-episode psychosis, emphasizing the need to consider female-specific vulnerabilities to hyperprolactinemia and cardiometabolic side effects.",
+        "why_it_matters": "This addresses a significant gap in current guidelines that don't account for sex differences in antipsychotic side effects, particularly important given that females face distinct risks for prolactin elevation and metabolic complications that can impact reproductive health and long-term outcomes. The guideline supports more personalized treatment decisions in first-episode psychosis care.",
+        "caveats": "The abstract does not provide the specific antipsychotic recommendations or detailed methodology, limiting assessment of the evidence quality and practical applicability.",
+        "subspecialty_tags": [
+          "Psychotic Disorders",
+          "Women's Mental Health",
+          "Psychopharmacology"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Psychotic Disorders",
+          "Women's Mental Health",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Psychedelic Therapy vs Antidepressants for the Treatment of Depression Under Equal Unblinding Conditions: A Systematic Review and Meta-Analysis",
+      "citation": "Williams ZJ, Barnett H, Szigeti B. Psychedelic Therapy vs Antidepressants for the Treatment of Depression Under Equal Unblinding Conditions: A Systematic Review and Meta-Analysis. JAMA Psychiatry. 2026 Mar 18:e254809. doi: 10.1001/jamapsychiatry.2025.4809. Epub ahead of print. ; PMCID: PMC13000746 PMID: 41848744.",
+      "authors": "",
+      "pmid": "41848744",
+      "doi": "10.1001/jamapsychiatry.2025.4809",
+      "abstract": "Importance: Psychedelic-assisted therapy (PAT) trials have high levels of functional unblinding, which biases results when comparing PAT with blinded interventions. Because PAT is effectively always open label, treatment results should be compared with those of open-label traditional antidepressants (TADs), so potential benefits associated with patients knowing their treatment is equal between the interventions.\nObjective: To investigate the comparative effectiveness of PAT vs open-label traditional antidepressants (TADs; such as selective serotonin and norepinephrine reuptake inhibitors) for the treatment of major depression.\nData Sources: PubMed was systematically searched in March 2024 for trials of PAT and open-label TADs for the treatment of major depression without comorbidity in adults without prior psychedelic experience.\nResults: Of the initially retrieved 619 PubMed records, 24 met inclusion criteria. Contrary to the first of 3 hypotheses, PAT (8 trials; 249 patients) was no more effective than open-label TAD treatment (16 open-label TAD trials; 7921 patients), with an estimated difference of 0.3 favoring open-label TADs (95% CI, −1.39 to 1.98; P = .73). Open-label TADs were associated with better outcomes than blinded treatment (144 blinded TAD trials; 31 792 patients), with an estimated difference of 1.3 (95% CI, 0.07-2.51; P = .04), but the same difference was not observed for PAT (0.67; 95% CI, −3.08 to 1.73; P = .58).\nConclusions: and Relevance: In trials of depression, PAT was not more effective than open-label TADs. Blinding made a difference for TADs, but not for PAT, confirming that PAT trials are effectively always open label. These results argue against highly optimistic narratives surrounding PAT and highlight the importance of blinding integrity.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Psychedelic-assisted therapy for depression shows no superiority over open-label traditional antidepressants when comparing under equal unblinding conditions, challenging optimistic claims about psychedelic efficacy.",
+        "why_it_matters": "This meta-analysis addresses a critical methodological flaw in psychedelic research by comparing treatments under equal blinding conditions, providing more realistic expectations for clinicians considering psychedelic therapy referrals. The finding that traditional antidepressants benefit from blinding while psychedelics do not suggests different mechanisms of action and highlights the importance of proper controls in psychiatric research.",
+        "caveats": "The analysis included relatively few psychedelic trials (8 trials, 249 patients) compared to traditional antidepressant studies, and excluded patients with comorbidities or prior psychedelic experience, limiting generalizability.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Psychopharmacology"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Mental Disorders as a Risk Factor of Acute Coronary Syndrome: A Systematic Review and Meta-Analysis",
+      "citation": "Gupta A, Tejpal T, Seo C, Fabiano N, Zhao S, Wong S, et al. Mental Disorders as a Risk Factor of Acute Coronary Syndrome: A Systematic Review and Meta-Analysis. JAMA Psychiatry. 2026;83(3):259-268. doi: 10.1001/jamapsychiatry.2025.4253 PMID: 41533387.",
+      "authors": "",
+      "pmid": "41533387",
+      "doi": "10.1001/jamapsychiatry.2025.4253",
+      "abstract": "Importance: Mental disorders have been associated with traditional cardiovascular risk factors that may mediate the risk of acute coronary syndrome (ACS).\nObjective: To estimate the association of ACS among patients with mental disorders, as compared with patients without mental disorders.\nData Sources: MEDLINE, Embase, and PubMed were searched for studies between July 1, 2025, and date of database inception.\nStudy Selection: Study screening was performed in duplicates with conflicts resolved upon consensus. Inclusion criteria were as follows: (1) observational or randomized study, (2) measured association with ACS (incident events, risk ratio, odds ratio, hazard ratio [HR]), and (3) investigated any clinical mental disorder (based on DSM and International Classification of Diseases) before ACS events.\nData Extraction and Synthesis: This systematic review adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines.\nMain Outcomes and Measures: Association and/or risk of ACS.\nResults: Among 3616 initially identified studies, 25 full-text articles met inclusion criteria with 22,048,504 participants of median (IQR) age 48.0 (34.5-56.1) years, with 13,019,897 males (59.1%). Depressive disorder (HR, 1.40; 95% CI, 1.11-1.78; P = .01; GRADE certainty = very low), anxiety disorder (HR, 1.63; 95% CI, 1.40-1.89; P < .001; GRADE certainty = low), sleep disorder (HR, 1.60; 95% CI, 1.22-2.10; P < .001; GRADE certainty = low), and posttraumatic stress disorder (PTSD; HR, 2.73; 95% CI, 1.94-3.84; P < .001; GRADE certainty = moderate) were associated with increased risk of ACS. Bipolar (HR, 1.48; 95% CI, 0.47-4.61; P = .28; GRADE certainty = very low) and psychotic (HR, 0.97; 95% CI, 0.01-178.30; P = .06; GRADE certainty = very low) disorders were not significantly associated with increased risk of acute myocardial infarction, although they had similar point estimates to some other mental disorders.\nConclusions: and Relevance: Results of this systematic review and meta-analysis suggest that depressive disorders, anxiety disorders, PTSD, and sleep disorders were associated with an increased risk of ACS. Particularly, PTSD and sleep disorders emerged as significant risk factors with moderate and low certainty of evidence, respectively.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Depression, anxiety, PTSD, and sleep disorders are all associated with increased risk of acute coronary syndrome, with PTSD carrying the highest risk at nearly triple the hazard.",
+        "why_it_matters": "These findings reinforce the need for cardiovascular risk monitoring in psychiatric patients, particularly those with PTSD, and support integrating cardiac screening into psychiatric care rather than treating mental and cardiovascular health in silos.",
+        "caveats": "Evidence certainty ranged from very low to moderate across disorders; bipolar and psychotic disorders showed non-significant associations possibly due to insufficient data rather than absence of risk.",
+        "subspecialty_tags": [
+          "Medical Psychiatry",
+          "Anxiety & Trauma",
+          "Mood Disorders"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Medical Psychiatry",
+          "Anxiety & Trauma",
+          "Mood Disorders"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis"
+        ]
+      }
+    },
+    {
+      "title": "Levels of evidence supporting American, European and international guidelines in psychiatry, 2014-2024: a systematic review with quantitative synthesis",
+      "citation": "Rømer TB, Andersson SN, Benros ME. Levels of evidence supporting American, European and international guidelines in psychiatry, 2014-2024: a systematic review with quantitative synthesis. BMJ Ment Health. 2026 Mar 10;29(1):e302194. doi: 10.1136/bmjment-2025-302194. ; PMCID: PMC12983855 PMID: 41806975.",
+      "authors": "",
+      "pmid": "41806975",
+      "doi": "10.1136/bmjment-2025-302194",
+      "abstract": "Question: To what extent are psychiatry guidelines supported by high-level evidence?\nStudy selection and analysis: Guidelines from the American Psychiatric Association, European Psychiatric Association, WHO and World Federation of Societies for Biological Psychiatry (2014-2024) were selected. Recommendations were graded by guideline authors' levels of evidence (LOE) appraisal (standardised to the Grading of Recommendations, Assessment, Development and Evaluations framework (high, moderate, low, very low)) and by the highest-level study referenced (meta-analysis, randomised controlled trial (RCT), observational study, expert opinion, etc.).\nFindings: 24 guidelines, containing 545 recommendations, were included. Of 82 guidelines screened, 29 (35%) had not been updated in a decade. 63 (11.6%) recommendations were rated by guideline authors as based on high LOE. The proportion was the highest for pharmacotherapies (41/281 (14.6%)) and the lowest for somatic assessment (0/13 (0%)). The proportion of high LOE recommendations varied between publishers (European Psychiatric Association: 20 %, WHO: 1.6 %). For high LOE recommendations, only those concerning pharmacotherapies cited meta-analyses based on double-blind studies using adequate controls. A large proportion (n=241 (44.2%)) of recommendations cited either a meta-analysis of RCTs (n=155 (28.4%)) or ≥two RCTs (n=86 (15.8 %)). There were few recommendations primarily addressing self-harm (n=2), autism (n=3), attention-deficit/hyperactivity disorder (n=3), prevention (n=3), patient involvement (n=3) or discontinuation (n=6).\nConclusions: Clinical guidelines in psychiatry frequently cite RCTs, but the evidence is often downgraded by guideline authors, highlighting the need for better quality trials. LOE varies across areas, with pharmacotherapies supported by the highest quality evidence. Organisations should commit to a timely update of guidelines covering all areas of psychiatry.",
+      "edition": "March 2026",
+      "clinical_card": {
+        "bottom_line": "Only 11.6% of psychiatric guideline recommendations are rated as high-level evidence by their own authors, with pharmacotherapy having the strongest evidence base while areas like autism, ADHD, and prevention lack robust recommendations.",
+        "why_it_matters": "This reveals significant gaps in evidence quality across psychiatric practice, helping clinicians understand where they can be most confident in guidelines versus where clinical judgment must fill evidence voids. It also highlights that many guidelines are outdated, with 35% not updated in a decade.",
+        "caveats": "The analysis relies on guideline authors' own evidence grading, which may vary in rigor between organizations and could introduce bias in quality assessments.",
+        "subspecialty_tags": [
+          "Public Health & Policy"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Public Health & Policy"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    }
+  ]
+}
