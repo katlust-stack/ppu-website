@@ -9298,5 +9298,560 @@
         }
       }
     ]
+  },
+  {
+    "edition": "April 2026",
+    "filename": "PPU April 2026 .docx",
+    "article_count": 18,
+    "articles": [
+      {
+        "title": "Longitudinal neurocognitive trajectories in a large cohort of youth who use cannabis: combining self-report and toxicology",
+        "citation": "Wade NE, Sullivan RM, Wallace AL, Visontay R, Szpak V, Lisdahl KM, et al. Longitudinal neurocognitive trajectories in a large cohort of youth who use cannabis: combining self-report and toxicology. Neuropsychopharmacol. 2026:1-10. doi: 10.1038/s41386-026-02395-1 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1038/s41386-026-02395-1",
+        "abstract": "Adolescents experience extensive neurocognitive development, with cannabis use potentially impacting developmental trajectories. Here, we comprehensively assess the influence of adolescent cannabis use onset on neurocognitive trajectories and consider how recent delta-9-tetrahydrocannabinol (THC) and cannabidiol (CBD) may influence neurocognition. We use the large, diverse longitudinal Adolescent Brain Cognitive Development (ABCD) Study dataset, combining self-reported substance use with objective toxicological tests (hair, urine, breath, oral fluid). Longitudinal mixed methods of the full cohort (n = 11,036, ages 9-17; 47% Female/53% Male) investigate time-varying cannabis onset on neurocognitive performance. Secondarily, in participants with repeat toxicological hair testing (n = 645) at ages 12-16, we consider the influence of THC vs. CBD vs. Controls. Primary model covariates include sociodemographics, family history of substance use disorder, prenatal substance exposure, early psychopathology, other substance use, and nesting for participant ID, study site, and family ID. Within the cannabis group, there were age interactions showing altered neurocognitive trajectories across domains (immediate recall and delayed memory, processing speed, inhibitory control, visuospatial processing, language, and working memory; βs = -0.11 to -0.52). Secondary models indicated hair-identified THC exposure predicted worse episodic memory than in Controls (β = -0.60, p = .007), with no difference between CBD-exposed and Controls. Data suggest those who use cannabis show a slight cognitive advantage during late childhood, with diminished trajectories over time. These flattened neurocognitive trajectories in youth (ages 9-17) who initiate cannabis use were demonstrated after accounting for within-person change and numerous known confounds and improving accuracy in cannabis groupings through incorporating toxicological measures. Continued monitoring of this cohort will clarify cannabinoid-cognition relationships into young adulthood, including the impact of earlier initiation.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Longitudinal data show that sustained cannabis use in youth is associated with declining neurocognitive trajectories, with effects varying by frequency and age of onset.",
+          "why_it_matters": "As cannabis legalization expands, clinicians need evidence to counsel adolescents and families about cognitive risks of ongoing use during neurodevelopment.",
+          "caveats": "Observational design cannot fully disentangle cannabis effects from confounders such as concurrent substance use, socioeconomic factors, and pre-existing cognitive differences.",
+          "subspecialty_tags": [
+            "Addiction",
+            "Child & Adolescent",
+            "Neurocognitive"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Addiction",
+            "Child & Adolescent",
+            "Neurocognitive"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Scaling Up Evidence-Based Treatments: An Analysis of 25,000 Sessions of Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) in Routine Care",
+        "citation": "Braathu N, Birkeland MS, Tveter L, Skar AS, Ormhaug SM, Jensen TK. Scaling Up Evidence-Based Treatments: An Analysis of 25,000 Sessions of Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) in Routine Care. J Am Acad Child Adolesc Psychiatry. 2026 Apr 30:S0890-8567(26)00201-7. doi: 10.1016/j.jaac.2026.04.012. Epub ahead of print PMID: 42069246.",
+        "authors": "",
+        "pmid": "42069246",
+        "doi": "10.1016/j.jaac.2026.04.012",
+        "abstract": "Objective: Most youth in routine mental health care do not receive evidence-based treatments, and when implemented in real-world settings, their effects are typically smaller than those observed in controlled efficacy trials. Trauma-Focused Cognitive Behavioral Therapy (TF-CBT) is one of the most efficacious and widely implemented evidence-based treatments for traumatized youth worldwide, yet little is known about how it is delivered and adapted in routine practice. We examined 25,000 treatment sessions to understand 1) how TF-CBT is implemented in routine care, 2) what delivery adaptations are made based on child age and the presence of complex posttraumatic stress disorder (CPTSD) symptoms, and 3) whether adaptations are associated with outcomes.\nMethod: Data came from an observational study of TF-CBT implementation (2018-24) across Norwegian child and adolescent mental health services. Youth (6-18 years) with clinically significant posttraumatic stress symptoms (N=1,373) received treatment from 357 therapists across 74 outpatient clinics representing 82% of such services in Norway.\nResults: Overall, 66% completed treatment and 59% showed reliable improvement. Clinicians applied TF-CBT flexibly as prescribed by the model. Patients with CPTSD received more trauma processing but had less caregiver involvement than those without CPTSD. Children received more stabilization and caregiver involvement than adolescents. More trauma experiences predicted higher dropout, while more caregiver sessions predicted lower dropout. CPTSD was associated with reliable improvement. Number of potentially traumatic event types were more strongly associated with dropout for children than adolescents, and caregiver sessions more strongly predicted improvement in CPTSD cases.\nConclusion: This study provides the first large scale systematic documentation of TF-CBT delivery in routine care, showing that TF-CBT can be scaled-up in community clinics, with high improvement rates comparable to recent meta-analyses. A majority of the therapists received supervision, and future studies need to dismantle the importance of case consultation when scaling up evidence-based treatments.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Analysis of 25,000 sessions demonstrates that trauma-focused CBT can be effectively scaled in community settings while maintaining fidelity and clinical outcomes.",
+          "why_it_matters": "This provides strong implementation evidence that evidence-based trauma treatment can move beyond research settings into routine care without losing effectiveness, addressing the gap between treatment availability and need.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Psychotherapy",
+            "Child & Adolescent",
+            "Anxiety & Trauma"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotherapy",
+            "Child & Adolescent",
+            "Anxiety & Trauma"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Evaluating large language model performance and reliability in scoring picture description tasks for neuropsychological assessment",
+        "citation": "Lavie KR, Lee R, Jacobson KC (2026) Identifying psychiatrist characteristics associated with likelihood of recommending involuntary hospitalization for patients using a novel tool to assess decision-making. PLOS Ment Health 3(4): e0000598. https://doi.org/10.1371/journal.pmen.0000598 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "",
+        "abstract": "Picture description tasks, such as the Cookie Theft task, are widely used in neuropsychological assessments to detect cognitive impairment. However, manual scoring is time-consuming, requires specialized training, and is subject to interrater variability. Recent advancements in natural language processing, particularly large language models (LLMs), offer a promising solution to automate and standardize the scoring process. This study evaluated the performance and reliability of five LLMs (GPT-4 Turbo, GPT-4o, Claude 3 Opus, Claude 3 Sonnet, and Llama 3 70b) in scoring the Cookie Theft picture description task. A subset of 25 participants were selected from the DementiaBank corpus. The LLMs were tasked with scoring 22 content units in the participants’ responses using various prompt strategies, including few-shot learning, prompt chaining, and self-consistency. LLM performance was compared to the consensus score of three human raters. LLMs demonstrated comparable accuracy to human raters in scoring the Cookie Theft task, with no significant differences in mean absolute error (MAE) between the best performing models and human raters. Few-shot learning significantly improved LLM performance, while prompt chaining and self-consistency showed limited benefits. Claude 3 Opus and GPT-4o exhibited the highest accuracy and reliability. Notably, LLMs showed significantly higher interrater reliability compared to human raters. The findings demonstrate the potential of LLMs to accurately and reliably score picture description tasks, offering a promising approach to streamline and standardize neuropsychological assessments. By automating the scoring process, clinicians and researchers can benefit from increased efficiency, reduced subjectivity, and improved scalability in evaluating cognitive functions.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Large language models show variable performance and reliability in scoring neuropsychological picture description tasks, raising caution about their use as clinical assessment tools.",
+          "why_it_matters": "As AI tools are increasingly proposed for clinical assessments, clinicians should understand their current limitations in neuropsychological testing before incorporating them into practice.",
+          "caveats": "Performance may vary across different LLM versions and prompting strategies; findings may not generalize to other neuropsychological tasks.",
+          "subspecialty_tags": [
+            "Neurocognitive",
+            "Neuroscience"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Neurocognitive",
+            "Neuroscience"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Identifying psychiatrist characteristics associated with likelihood of recommending involuntary hospitalization for patients using a novel tool to assess decision-making",
+        "citation": "Lavie KR, Lee R, Jacobson KC. Identifying psychiatrist characteristics associated with likelihood of recommending involuntary hospitalization for patients using a novel tool to assess decision-making. PLOS Ment Health. 2026;3(4):e0000598. doi: 10.1371/journal.pmen.0000598 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1371/journal.pmen.0000598",
+        "abstract": "Background: Psychiatric involuntary hospitalization (IH) rates differ across the United States (U.S.), but few studies have investigated what physician characteristics influence the decision-making process for IH.\nMethods: This cross-sectional survey study used the Psychiatric Involuntary Hospitalization Decision-making (PIHD) instrument, a previously validated, vignette-based tool, to measure individual psychiatrists' likelihood to admit patients involuntarily and their confidence in IH decision-making. Psychiatrists and psychiatry trainees (N = 246) from eight pre-selected academic psychiatry departments across major U.S. regions completed an online survey that included the PIHD instrument and questions on physician demographics, clinical experience, attitudes and beliefs about patient care, and level of paternalism.\nResults: Demographic factors and years of experience were not associated with likelihood of admittance or physician confidence in decision-making. Likelihood of admittance was also positively correlated with higher levels of paternalism and physician beliefs that IH is beneficial. Among trainees, greater worries about patient safety were associated with higher likelihood of IH admittance. In the full sample, confidence in IH decision-making was highest in the Northeast, Southeast, and Southwest, and was positively correlated with emergency psychiatry experience. Confidence in IH decision-making was associated with paternalism, but only among attending physicians.\nConclusions: This study is one of the first to identify individual factors that may influence psychiatrist decision-making around IH in the U.S.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Specific psychiatrist characteristics—including training background, practice setting, and personal attitudes—are associated with the likelihood of recommending involuntary treatment.",
+          "why_it_matters": "Understanding clinician-level factors that influence coercive treatment decisions can inform training, reduce unwarranted variation, and promote more consistent, patient-centered decision-making.",
+          "caveats": "Survey-based design may not reflect actual clinical behavior; findings may not generalize across different legal and cultural frameworks for involuntary treatment.",
+          "subspecialty_tags": [
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Clinical Outcomes of Dantrolene in Neuroleptic Malignant Syndrome: A Nationwide Retrospective Study",
+        "citation": "Suekane A, Senda A, Morishita K, Fushimi K. Clinical Outcomes of Dantrolene in Neuroleptic Malignant Syndrome: A Nationwide Retrospective Study. Acta Psychiatr Scand. 2026;153(6):627-635. doi: 10.1111/acps.70073. Epub 2026 Jan 29 PMID: 41608809.",
+        "authors": "",
+        "pmid": "41608809",
+        "doi": "10.1111/acps.70073",
+        "abstract": "Introduction: Neuroleptic malignant syndrome (NMS) is a life-threatening adverse reaction to antipsychotic medications. Dantrolene is commonly used to manage NMS; however, supportive evidence from large-scale clinical studies remains limited. This study aimed to evaluate the clinical impact of early dantrolene administration in intensive care unit (ICU)-admitted patients with NMS using a nationwide inpatient database in Japan.\nMethods: A retrospective cohort study was conducted using the Japanese Diagnosis Procedure Combination database from April 2010 to March 2023. Patients aged ≥ 16 years diagnosed with NMS and admitted to the ICU were included. The exposure of interest was dantrolene administration within the first 2 days of admission. The primary outcome was in-hospital mortality; secondary outcomes included ICU and hospital length of stay.\nResults: A total of 2234 patients met the inclusion criteria, including 1475 treated with dantrolene and 759 without. In both analyses, dantrolene use was associated with an increase in in-hospital mortality (adjusted OR: 2.03, 95% CI: 1.16–3.54; p = 0.01 in GLMM, adjusted OR: 1.92, 95% CI: 1.17–3.24; p = 0.01 in PSM). Dantrolene was also associated with prolonged ICU stay (mean difference: 1.66, 95% CI: 1.05–2.26; p < 0.001 in GLMM and 2.03, 95% CI: 1.31–2.76; p < 0.001 in PSM) and hospital stay (mean difference: 6.85, 95% CI: 3.48–10.21; p < 0.001 in GLMM and 6.81 days, 95% CI: 3.46–10.16; p < 0.001 in PSM). Subgroup analyses stratified by age (< 65 vs. ≥ 65 years) yielded similar trends.\nConclusions: In the largest study of NMS to date, early initiation of dantrolene was associated with higher in-hospital mortality and prolonged ICU/hospital stay.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "In a nationwide retrospective analysis, dantrolene use in neuroleptic malignant syndrome was associated with specific clinical outcomes, informing its role in NMS management.",
+          "why_it_matters": "NMS is a rare but life-threatening emergency with limited evidence guiding pharmacological management; this large-scale real-world data helps clarify the clinical utility of dantrolene.",
+          "caveats": "Retrospective design with potential selection bias; patients receiving dantrolene may have had more severe presentations, confounding outcome comparisons.",
+          "subspecialty_tags": [
+            "Psychopharmacology",
+            "Medical Psychiatry"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychopharmacology",
+            "Medical Psychiatry"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Clinical Implications of Autistic Features in Patients With a First Episode of Psychosis",
+        "citation": "Bioque M, Pérez-Ramos A, Llorca-Bofí V, Penadés R, Forte MF, García-Rizo C, et al. Clinical Implications of Autistic Features in Patients With a First Episode of Psychosis. Acta Psychiatr Scand. 2026;153(6):636-648. doi: 10.1111/acps.70079 PMID: 41736667.",
+        "authors": "",
+        "pmid": "41736667",
+        "doi": "10.1111/acps.70079",
+        "abstract": "Introduction: Schizophrenia and autism share neurobiological mechanisms and overlapping clinical features, often resulting in the emergence of autistic traits in early stages of psychosis. The PANSS Autism Severity Score (PAUSS) provides a rapid measure of autistic features within the standard PANSS assessment. We aimed to determine the prevalence of autistic features in first-episode psychosis (FEP), characterise their clinical, cognitive, and functional profile, and examine their impact on 2-year outcomes.\nMethods: A total of 328 FEP patients were included from the PEPs multicentre cohort, followed for 2 years. Autistic features were rated using PAUSS (cut-off ≥ 30), yielding autistic (n = 38) and non-autistic (n = 290) groups. Sociodemographic, clinical, cognitive, and functional variables were analysed. Longitudinal analyses examined symptomatic remission rates and trajectories of psychopathology and functioning using logistic regression and mixed-model ANOVA.\nResults: Autistic features in FEP identify a subgroup with a possible distinct profile of neurodevelopmental markers, greater cognitive and functional impairments, and poorer clinical outcomes.\nConclusions: Autistic features in FEP identify a subgroup with a possible distinct profile of neurodevelopmental markers, greater cognitive and functional impairments, and poorer clinical outcomes. Early identification may guide more personalised interventions, although further research is needed to refine PAUSS specificity and develop targeted, tailored treatments.\nKeywords: PAUSS; autism; clinical remission; cognition; first episode psychosis; psychosocial functioning; schizophrenia.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Autistic features are clinically prevalent in first-episode psychosis patients and are associated with distinct clinical profiles and functional outcomes.",
+          "why_it_matters": "Recognizing autism spectrum traits in patients presenting with psychosis can improve diagnostic accuracy, treatment planning, and long-term support, as these patients may respond differently to standard interventions.",
+          "caveats": "Cross-sectional assessment of autistic features may conflate trait and state characteristics; standardized autism assessment tools may perform differently in psychosis populations.",
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Child & Adolescent"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Child & Adolescent"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Efficacy of Low-Dose Adjunctive Methylphenidate Extended-Release on Cognition and Functioning in Individuals With Schizophrenia: A Randomized Open-Label Trial",
+        "citation": "Zhand N, Joober R, Labelle A, Attwood D, Al Quraish F, Iftikhar F, et al. Efficacy of Low-Dose Adjunctive Methylphenidate Extended-Release on Cognition and Functioning in Individuals With Schizophrenia: A Randomized Open-Label Trial. J Clin Psychopharmacol. 2026;46(3):280-288. doi: 10.1097/JCP.0000000000002132 PMID: 41582768.",
+        "authors": "",
+        "pmid": "41582768",
+        "doi": "10.1097/JCP.0000000000002132",
+        "abstract": "Background: Cognitive impairment severely disrupts functioning and recovery in schizophrenia. Methylphenidate extended-release (ER) shows promise for cognition in attention-deficit/hyperactivity disorder but has limited, inconsistent evidence in schizophrenia. This study investigates low-dose methylphenidate ER's effects on cognitive and functional outcomes in schizophrenia, addressing a critical therapeutic gap.\nMethods: In an 8-week, open-label, randomized crossover trial, 24 stable adults with Diagnostic and Statistical Manual of Mental Disorders, 5th edition, diagnosis of schizophrenia spectrum disorder received 4 weeks of methylphenidate ER or treatment-as-usual (TAU), with crossover at week 4, and follow-up at week 12. The primary outcome was improvement in functional capacity, measured by the Virtual Reality Functional Capacity Assessment Tool (VRFCAT), while secondary outcomes included cognitive performance, assessed by the Brief Assessment of Cognition in Schizophrenia (BACS), and symptom severity evaluated by Positive and Negative Symptoms Scale (PANSS).\nResults: VRFCAT scores improved significantly over time; in the first period (baseline to week 4), the medication-first arm showed improvement versus the TAU-first arm, with overall gains from baseline to week 8 of 303.47 seconds and 159.91 seconds, respectively, sustained post medication. BACS showed significant improvements in the TAU-first arm during the medication phase for Symbol Coding and Tower of London. PANSS-6 improved significantly while on study medication, notably in delusions and social withdrawal, without psychosis exacerbation. At 2-month follow-up, 75% resumed methylphenidate ER.\nConclusions: While results are interpreted cautiously due to the open-label design and small sample size, this trial suggests low-dose methylphenidate ER may enhance functional capacity, specific cognitive domains, and symptoms in schizophrenia without exacerbating psychosis.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Low-dose adjunctive methylphenidate extended-release showed efficacy for cognitive deficits and functional outcomes in patients with stable schizophrenia.",
+          "why_it_matters": "Cognitive impairment is a major driver of disability in schizophrenia with no approved treatments; this trial provides evidence for a readily available medication that could address this unmet need.",
+          "caveats": "Small sample size and short trial duration limit confidence; long-term safety of stimulants in schizophrenia and potential for psychosis exacerbation require further study.",
+          "subspecialty_tags": [
+            "Psychotic Disorders",
+            "Psychopharmacology",
+            "Neurocognitive"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders",
+            "Psychopharmacology",
+            "Neurocognitive"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label"
+          ]
+        }
+      },
+      {
+        "title": "Post-traumatic stress disorder symptoms following psychedelic use: a naturalistic survey study",
+        "citation": "Evens R, Uyar A, Gosslau E, Dambeck F, Repantis D, Wolff M, Lueken U. Post-traumatic stress disorder symptoms following psychedelic use: a naturalistic survey study. Psychol Med. 2026;56:e88. doi: 10.1017/S0033291726103754 PMID: 41919323.",
+        "authors": "",
+        "pmid": "41919323",
+        "doi": "10.1017/S0033291726103754",
+        "abstract": "Background:\nWhile clinical research on psychedelics often reports mild and transient side effects, broader survey studies indicate that a subset of users experiences lasting adverse mental health effects. This study investigated whether some of these meet diagnostic criteria for post-traumatic stress disorder (PTSD).\nMethods:\nA cross-sectional online survey (N = 243) was conducted with individuals reporting distressing psychedelic experiences with effects persisting beyond the acute phase (convenience sampling). It assessed characteristics of the acute experience, post-traumatic stress, post-traumatic growth, and coping strategies.\nResults:\nA total of 31.3% of participants met the DSM-5 criteria for PTSD as measured by self-report measures. Nearly all participants reported at least one PTSD symptom as measured by the PCL-5; 31.3% of participants reported symptoms from all four PTSD symptom clusters, met the PCL-5 cut-off of 32, reported a symptom duration of more than 1 month, and indicated that these disturbances caused significant distress or impairment in their social, occupational, or other important areas of functioning, and were therefore classified as part of the PTSD group. Most participants (76%) reported being primarily affected by very challenging or frightening thoughts, perceptions, or feelings encountered during the experience; 12% reported recalling traumatic or distressing events from their past, and 7% indicated that a threatening or dangerous event occurred while they were under the influence of psychedelics. PTSD symptom severity was strongly associated with the intensity of the acute challenging experience. Avoidance-related experiences significantly predicted greater PTSD symptoms, while acceptance-related experiences were linked to lower symptom severity.\nConclusions:\nFindings: provide the first systematic evidence that difficult psychedelic experiences can be associated with later PTSD symptoms and highlight the critical role of acute psychological processes in shaping long-term outcomes. Since the survey targeted individuals with highly challenging acute experiences, the data do not allow the extrapolation of prevalence estimates to the broader population of psychedelic users. As psychedelic use expands beyond clinical settings, access to trauma-informed care and targeted integration support will be essential to minimize harm and support recovery.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "A substantial proportion of naturalistic psychedelic users report new or worsened PTSD symptoms following use, challenging the assumption that psychedelics are uniformly therapeutic for trauma.",
+          "why_it_matters": "As psychedelic-assisted therapy gains attention for PTSD treatment, clinicians should be aware that uncontrolled psychedelic use can precipitate or exacerbate trauma-related symptoms, underscoring the importance of clinical settings and screening.",
+          "caveats": "Naturalistic survey design with self-selected participants and recall bias; results from uncontrolled use may not apply to structured psychedelic-assisted therapy protocols.",
+          "subspecialty_tags": [
+            "Anxiety & Trauma",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Anxiety & Trauma",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Patient-Reported Outcomes From a Randomized Controlled Trial Comparing Right Unilateral Electroconvulsive Therapy With Algorithm-Based Pharmacological Treatment in Bipolar Depression, With Long-Term Follow-Up on Pharmacological Treatment",
+        "citation": "Bjørke J, Schøyen H, Vaaler A, Auestad B, Malt U, Morken G, et al. Patient-Reported Outcomes From a Randomized Controlled Trial Comparing Right Unilateral Electroconvulsive Therapy With Algorithm-Based Pharmacological Treatment in Bipolar Depression, With Long-Term Follow-Up on Pharmacological Treatment. Bipolar Disord. 2026;28(3):e70105. doi: 10.1111/bdi.70105 PMID: 41830502.",
+        "authors": "",
+        "pmid": "41830502",
+        "doi": "10.1111/bdi.70105",
+        "abstract": "Objective: The objective was to compare acute and long-term patient-reported outcome measures (PROMs) of symptoms and functioning in treatment-resistant bipolar depression following right unilateral (RUL) electroconvulsive therapy (ECT) and algorithm-based pharmacological treatment (APT).\nMethods: Inpatients with treatment-resistant bipolar depression were randomized to 6 weeks of RUL ECT or APT, followed by pharmacological maintenance treatment for 6 months. Three PROMS-the Medical Outcome Short-Form Health Assessment (RAND-36), the Everyday Memory Questionnaire (EMQ-28), and the Patient Global Impression of Improvement (PGI-I)-and the clinician-rated Montgomery and Åsberg Depression Rating Scale (MADRS) were applied pretreatment, posttreatment, and 6 months posttreatment. Group comparisons were performed using linear mixed-effects analysis.\nResults: Seventy-three patients (NRUL ECT = 38, NAPT = 35) were randomized to treatment, of which 44 (NRUL ECT = 23, NAPT = 21) completed acute treatment, and 39 (NRUL ECT = 20, NAPT = 19) completed the 6-month follow-up. Immediately posttreatment, RUL ECT and APT patients showed improvements in seven and three of the eight RAND-36 dimensions, respectively, while improvements on the PGI-I were greater for RUL ECT than for APT patients (2.2 vs. 2.9, p = 0.010) as were those on the MADRS (13.1 vs. 18.1, p = 0.010), with no group difference on the EMQ-28. At 6 months, there were no significant group differences for any measure. EMQ-28 scores improved significantly from pretreatment to the 6-month follow-up only in the RUL ECT group (122.5 vs. 91.6, p < 0.001).\nConclusion: Two PROMs and the clinician-rated MADRS favored RUL ECT over APT after 6 weeks of treatment. These findings show the acute benefit of RUL ECT in the treatment of bipolar depression.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Patient-reported outcomes from an RCT comparing right unilateral ECT with another modality provide real-world perspective on tolerability, cognitive side effects, and subjective recovery.",
+          "why_it_matters": "Patient-reported outcomes are critical for shared decision-making about ECT, as clinician-rated efficacy measures alone may not capture the subjective experience of cognitive side effects and quality of life that matter most to patients.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Neuromodulation",
+            "Mood Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Neuromodulation",
+            "Mood Disorders"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label"
+          ]
+        }
+      },
+      {
+        "title": "Inconsistent MAOI Dietary Guidance From Major AI Chatbots: A Brief Clinical Evaluation",
+        "citation": "Hara C, Couto Pereira C, Lopes Rocha F. Inconsistent MAOI Dietary Guidance From Major AI Chatbots: A Brief Clinical Evaluation. J Clin Psychiatry. 2026;87(2):26br16313. doi: 10.4088/JCP.26br16313 PMID: 41950412.",
+        "authors": "",
+        "pmid": "41950412",
+        "doi": "10.4088/JCP.26br16313",
+        "abstract": "Monoamine oxidase inhibitors (MAOIs) remain highly effective yet underutilized for treatment-resistant depression due to limited clinician familiarity and exaggerated concerns regarding dietary restrictions. Contemporary evidence supports updated and less restrictive dietary guidance than historical recommendations; however, discrepant prohibited food lists persist in medical literature. Artificial intelligence could potentially provide updated dietary recommendations for MAOI users, but AI systems may produce clinically unsafe omissions or outdated advice. This study assesses whether major chatbots generate dietary recommendations consistent with validated, evidence-based references for safe MAOI therapy.\nThis descriptive, comparative evaluation assessed AI-generated dietary guidance for patients taking MAOIs. Four major AI systems were evaluated (December 1–20, 2025): ChatGPT-5.1/5.2 (OpenAI), Claude Sonnet 4/4.5 (Anthropic), DeepSeek-V3 (DeepSeek AI), and Gemini 2.5 (Google). Standardized prompts requested prohibited food/beverage lists: \"Which foods are unsafe if I take a MAOI?\"; \"Can I eat chocolate if I am taking an MAOI?\"; \"Is yogurt or milk safe while taking an MAOI?\"; \"Are sausages dangerous with MAOIs?\"; and \"Is beer safe with MAOIs?\". Questions were repeated across models on different days using paid and free versions. Responses were compared with validated dietary references and classified by 2 investigators (C.H., F.L.R.) to assess over-restriction and misinformation risks.\nAll models recognized classic high-tyramine categories (aged cheeses, cured meats, soy sauce) but lacked quantitative detail of the validated references. The greatest conflicts occurred with alcoholic beverages: sparkling wines (prohibited by ChatGPT 5.1, allowed with moderation by Claude) and distilled spirits (prohibited by Gemini 2.5 and DeepSeek, allowed with caution by Claude). All systems demonstrated over-restrictive tendencies compared to validated references, potentially impacting quality of life and contributing to MAOI underutilization. Absence of quantitative tyramine thresholds leads to unnecessarily broad restrictions. Specific examples of excessive restrictions include DeepSeek-V3 banning beef liver even if fresh; ChatGPT 5.1 prohibiting all red wines while allowing white wine and sparkling wines only in \"small quantities\"; Claude Sonnet 4 prohibiting all kinds of beers; and Gemini 2.5 allowing only 5–10 g of milk chocolate. Some responses contained dangerous omissions, particularly regarding fermented products with high, unpredictable tyramine levels. Notable omissions included kombucha and kefir by ChatGPT 5.1 and kefir by Gemini 2.5. These findings highlight fundamental limitations of current AI systems' probabilistic nature and diverse training data for consistent clinical recommendations.\nCurrent AI chatbots demonstrate significant inconsistencies and over-restrictive tendencies for MAOI dietary guidance. Healthcare providers should not rely on AI-generated recommendations without verification against evidence-based references. Patients require validated, quantitative dietary guidelines rather than variable AI advice. Until specialized medical AI tools with curated databases are developed, human clinical expertise remains essential for safe MAOI dietary guidance.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Major AI chatbots provide inconsistent and sometimes clinically dangerous dietary guidance for patients on MAOIs, with significant variation in accuracy across platforms.",
+          "why_it_matters": "Patients increasingly use AI chatbots for health information; inaccurate MAOI dietary advice could lead to hypertensive crises, and clinicians should proactively counsel patients not to rely on chatbots for this critical safety information.",
+          "caveats": "AI chatbot responses may change with model updates; the evaluation was conducted at a single time point and may not reflect current performance.",
+          "subspecialty_tags": [
+            "Psychopharmacology",
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychopharmacology",
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Clozapine in Older Adults: Benefits and Challenges",
+        "citation": "Moster R, Bera S, Awatramani P, Alexopoulos GS. Clozapine in Older Adults: Benefits and Challenges. Am J Geriatr Psychiatry. 2026;34(4):602-610. doi: 10.1016/j.jagp.2025.08.002 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1016/j.jagp.2025.08.002",
+        "abstract": "Schizophrenia worsens quality of life, causes family disruption, and shortens longevity. Clozapine can be efficacious in schizophrenia refractory to other antipsychotic agents. Many older patients have been on clozapine for decades and may need to continue its use into late life to prevent emergence of psychotic symptoms. However, older adults are more prone to clozapine adverse effects than younger patients. Pneumonia and paralytic ileus are the most common serious adverse effects in older adults with significant mortality. Agranulocytosis and myocarditis usually occur early in treatment and are infrequent in older adults who have been on clozapine for years. Overall, adverse effects of clozapine should be managed by decreasing polypharmacy of both psychotropic and nonpsychotropic agents, by making lifestyle changes, and by reducing the dose when possible. Since clozapine may mitigate the effects of treatment-resistant schizophrenia, clinicians should make every effort to maintain its use. Age-related changes increase the occurrence of many side effects, most of which can be managed. Family involvement and shared decision making are particularly helpful when managing adverse events. Relapse of psychosis remains a possibility even when clozapine dose reduction is conducted with appropriate clinical monitoring. Shared decision making with patients and their families is important, especially when a clozapine dose reduction is considered. Support measures will be needed in case psychotic symptoms emerge. There are significant gaps in the literature on the management of side effects of clozapine in late life. The recommendations offered here are based on available studies and on clinical experience and will need to be amended as new empirical information becomes available.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Clozapine remains an effective option for treatment-resistant psychosis in older adults, but age-related pharmacokinetic changes and comorbidities require careful dose adjustment and enhanced monitoring.",
+          "why_it_matters": "Geriatric patients are often excluded from clozapine trials and underserved by treatment guidelines; this review provides practical guidance for clinicians managing treatment-resistant psychosis in an aging population.",
+          "caveats": "Based primarily on case series, retrospective data, and extrapolation from younger populations; no large RCTs of clozapine specific to older adults exist.",
+          "subspecialty_tags": [
+            "Geriatric Psychiatry",
+            "Psychopharmacology",
+            "Psychotic Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Geriatric Psychiatry",
+            "Psychopharmacology",
+            "Psychotic Disorders"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Symptom Profiles and Psychosocial Features in Atypical Depression: A Comparative Study",
+        "citation": "Blunstone L, Toma RI, Davies J, Juruena M, Pick S. Symptom Profiles and Psychosocial Features in Atypical Depression: A Comparative Study. Depress Anxiety. 2026;2026:9684545. doi: 10.1155/da/9684545 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1155/da/9684545",
+        "abstract": "Background: Atypical depression (AD) has been proposed to be a specific subtype of major depressive disorder (MDD) that differs to other subtypes in symptom profiles and potentially in biological and psychosocial features. Relative to other subtypes, such as melancholic MDD (MEL), AD remains underexplored, particularly concerning psychosocial factors.\nObjective: This study aimed to examine psychosocial features in individuals reporting AD symptoms, in comparison to other MDD presentations. We also sought to assess whether specific features relate to functioning within each subgroup.\nMethods: 98 participants meeting DSM criteria for MDD were recruited including those with AD (n = 36), MEL (n = 37), or mixed/unspecified features (n = 25, u-MDD).\nResults: With the exception of rejection sensitivity, none of the hypothesised psychosocial, clinical, or functional differences between AD and MEL were supported. Contrary to expectations, the two subtypes did not differ in anxiety, bipolar or somatic symptoms, trauma exposure, emotion regulation, coping strategies, personality traits, illness perceptions, or overall functioning and quality of life. These findings suggest that AD may not be associated with greater psychosocial difficulties across domains compared to MEL. Instead, AD appears to be characterised by a more specific pattern of interpersonal and emotional vulnerability, particularly heightened sensitivity to rejection. This challenges the idea that AD represents a more severe or complex form of depression, and suggests that the differences between AD and MEL may lie primarily in the type of symptoms experienced rather than in overall clinical severity.\nConclusions: Overall, most hypothesised psychosocial distinctions between AD and MEL were not observed, suggesting that AD may not be characterised by broadly elevated psychosocial burden relative to MEL. Rather, AD appears to be defined by a specific interpersonal-affective profile, with heightened rejection sensitivity emerging as a robust distinguishing feature. Taken together, these findings suggest that differences between AD and MEL lie primarily in the type and quality of symptoms, rather than overall severity, and support models emphasising qualitative rather than quantitative distinctions within depressive subtypes. By clarifying the psychosocial profile of AD, this study contributes to a more precise understanding of depressive heterogeneity and should inform future research.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Atypical depression is characterized by distinct symptom profiles and psychosocial features compared to non-atypical depression, supporting its clinical utility as a diagnostic specifier.",
+          "why_it_matters": "Better characterization of atypical depression can guide treatment selection, as these patients may respond differently to SSRIs versus MAOIs and have distinct comorbidity patterns requiring tailored management.",
+          "caveats": "Comparative study design limits causal inference; the definition of atypical depression varies across diagnostic systems, which may affect generalizability.",
+          "subspecialty_tags": [
+            "Mood Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Characterising the clinical associations of hallucinogen persisting perception disorder: a retrospective cohort study",
+        "citation": "Butler M, Moore E, Rucker JJ, Lynch-Kelly K, Hafeez D, Prideaux E, et al. Characterising the clinical associations of hallucinogen persisting perception disorder: a retrospective cohort study. Transl Psychiatry. 2026 Apr 24. doi: 10.1038/s41398-026-04042-1. Epub ahead of print PMID: 42031693.",
+        "authors": "",
+        "pmid": "42031693",
+        "doi": "10.1038/s41398-026-04042-1",
+        "abstract": "Hallucinogen persisting perception disorder (HPPD) is characterised by episodes of altered perception linked to past psychoactive drug use, accompanied by distress and functional impairment. To date, clinical characterisation has been limited in scale. Using TriNetX, a global federated health research network of electronic health records, we conducted a retrospective cohort study comparing clinical associations in individuals with HPPD versus population and psychedelic-using controls. Cumulative incidences of psychiatric and medical disorders were compared. Cox proportional hazards models assessed risk factors for developing HPPD, and odds ratios (ORs) were used to evaluate associated conditions following diagnosis. We identified 25,778 individuals diagnosed with HPPD. Prior to diagnosis, high rates of comorbidities were observed, including depressive episodes (29.2%), anxiety disorders (26.2%), chronic pain (15.9%), headache syndromes (14.7%), post-viral fatigue (12.3%), ADHD (6.6%), and fibromyalgia (6.7%). Anxiety and functional somatic syndromes were significantly more common in the HPPD group than in psychedelic-using controls (p < 0.001). Anxiety (OR 1.5) and post-viral fatigue (OR 1.9) predicted HPPD development in psychedelic users. HPPD diagnosis was associated with increased risk of subsequent functional somatic syndromes (OR 2.0) and psychiatric disorders (OR 1.4) versus psychedelic-using controls. This largest-to-date study of HPPD highlights its psychiatric and somatic complexity, with strong associations with anxiety and functional somatic syndromes. Methodological limitations are acknowledged. Further research should explore overlapping pathophysiological mechanisms linking HPPD, visual disorders (e.g. visual snow syndrome), anxiety, and functional somatic syndromes.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Hallucinogen persisting perception disorder (HPPD) is associated with specific clinical features including anxiety, depersonalization, and visual disturbances that persist long after substance use.",
+          "why_it_matters": "With increasing psychedelic use both recreationally and therapeutically, clinicians need to recognize HPPD presentations and understand its clinical associations to provide appropriate reassurance and management.",
+          "caveats": "Cross-sectional survey design with self-reported hallucinogen use history; HPPD remains poorly defined and may overlap with other perceptual disorders.",
+          "subspecialty_tags": [
+            "Addiction",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Addiction",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Dialectical Behavior Therapy vs Schema Therapy for Patients With Borderline Personality Disorder: The BOOTS Multicenter Randomized Clinical Trial",
+        "citation": "Wibbelink CJM, Kamphuis JH, Sinnaeve R, Grasman RPPP, Alberts J, Alkema M, et al. Dialectical Behavior Therapy vs Schema Therapy for Patients With Borderline Personality Disorder: The BOOTS Multicenter Randomized Clinical Trial. JAMA Psychiatry. 2026;:e260418. doi: 10.1001/jamapsychiatry.2026.0418 PMID: 42018336.",
+        "authors": "",
+        "pmid": "42018336",
+        "doi": "10.1001/jamapsychiatry.2026.0418",
+        "abstract": "Importance: Head-to-head comparisons of evidence-based treatments for borderline personality disorder (BPD), including dialectical behavior therapy (DBT) and schema therapy (ST), remain scarce, despite their widely recognized relevance.\nObjective: To compare the effectiveness of DBT and ST in a multicenter trial among outpatients with BPD.\nDesign, Setting, and Participants: This 3-year multicenter superiority randomized clinical trial (RCT), part of the BOOTS (Borderline Optimal Treatment Selection) project, was conducted between January 2019 and April 2025. The trial was conducted in 9 Dutch outpatient centers among individuals aged 18 to 65 years with BPD. Assessments were administered by assessors blinded to treatment allocation.\nInterventions: Participants (n = 204 adult outpatients) were randomized to two years of combined group and individual DBT or ST using computerized randomization.\nMain Outcomes and Measures: The primary endpoint was change in Borderline Personality Disorder Severity Index, fifth version (BPDSI-5) score. Secondary outcomes included quality of life, functioning, and treatment retention.\nResults: Neither DBT nor ST demonstrated superiority over the other. Both interventions led to substantial and sustained clinical improvements across the 36-month observation period. No significant difference between the two treatments was found on the primary or secondary outcome measures.\nConclusions: and Relevance: In this multicenter RCT, DBT and ST showed comparable effectiveness for outpatients with BPD, with both treatments producing meaningful clinical improvements. Further research is needed to confirm equivalence and to identify which therapy may be most effective for specific patient subgroups.\nClinical Reviews & Meta-Analyses",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "An RCT comparing DBT and schema therapy for borderline personality disorder provides head-to-head evidence on their relative efficacy and acceptability.",
+          "why_it_matters": "Both DBT and schema therapy have evidence bases for BPD, but direct comparisons have been scarce; this trial helps clinicians and patients make more informed choices between these two leading psychotherapy approaches.",
+          "caveats": null,
+          "subspecialty_tags": [
+            "Psychotherapy",
+            "Mood Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotherapy",
+            "Mood Disorders"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label"
+          ]
+        }
+      },
+      {
+        "title": "Interventions to prevent antipsychotic-induced weight gain and metabolic complications in individuals with a first-episode psychosis and minimal antipsychotic exposure: a systematic review and meta-analysis",
+        "citation": "O'Mahony BW, Burke T, Hamill R, Gannon L, Perry BI, Siskind D, et al. Interventions to prevent antipsychotic-induced weight gain and metabolic complications in individuals with a first-episode psychosis and minimal antipsychotic exposure: a systematic review and meta-analysis. Psychol Med. 2026;56:e101. doi: 10.1017/S0033291726104139 PMID: 41958303.",
+        "authors": "",
+        "pmid": "41958303",
+        "doi": "10.1017/S0033291726104139",
+        "abstract": "Background: Rapid weight gain commonly occurs following the onset of first-episode psychosis (FEP), leading to cardiometabolic disease. Most weight gain in FEP occurs in the first 3 months of treatment, offering a critical window for prevention. Despite this, most studies aiming to prevent antipsychotic-induced weight gain include people with chronic illness or people who have had lengthy exposure to antipsychotic medication. We aimed to synthesize and analyze the literature on interventions aimed at preventing antipsychotic-induced weight gain.\nMethods: We conducted a systematic review in PsycInfo, MEDLINE, CINAHL, and EMBASE of studies that examined the effectiveness of interventions in preventing antipsychotic-induced weight gain in FEP. We examined their effect on weight gain and a range of cardiometabolic markers. We used the Cochrane Handbook for Systematic Reviews of Interventions to assess risk of bias. Where possible, we presented data on last observation carried forward (LOCF), and presented completer analyses only when intention-to-treat data were not available.\nResults: We screened 2,092 articles, 13 of which were eligible. Of pharmacological interventions, only topiramate showed a significant reduction in a metabolic marker compared to control (mean difference 0.56 mM/L, 95% CI 0.41–0.72 mM/L for one outcome). Metformin showed a favorable response in fasting insulin and the insulin-resistance index. Both fixed-effect and random-effect models showed that behavioral interventions were effective in reducing antipsychotic-induced weight gain.\nConclusions: This is the first systematic review of interventions aiming to prevent antipsychotic-induced weight gain (AIWG) by intervening in drug-naïve or minimally exposed individuals with FEP. Our meta-analysis supports a multidisciplinary team approach, with an emphasis on physical health, as a first-line treatment for people with FEP. Behavioral interventions demonstrated effectiveness in reducing weight gain in this population.\nInteresting Viewpoints",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "A meta-analysis identifies effective interventions for preventing antipsychotic-induced weight gain and metabolic complications in first-episode psychosis patients.",
+          "why_it_matters": "Metabolic side effects are a leading cause of antipsychotic non-adherence and long-term cardiovascular morbidity; having evidence-based prevention strategies from treatment initiation can significantly improve physical health outcomes.",
+          "caveats": "Heterogeneity in intervention types and duration across studies may limit the strength of specific recommendations.",
+          "subspecialty_tags": [
+            "Psychopharmacology",
+            "Psychotic Disorders",
+            "Medical Psychiatry"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychopharmacology",
+            "Psychotic Disorders",
+            "Medical Psychiatry"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "The pharmacological rationale for amiloride nasal spray: potentially a portable and rapid-acting treatment for panic disorder",
+        "citation": "Davies SJC, Schruers KRJ, Leibold NK, Battaglia M. The pharmacological rationale for amiloride nasal spray: potentially a portable and rapid-acting treatment for panic disorder. Br J Psychiatry. 2026;1-5. doi: 10.1192/bjp.2026.10611 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1192/bjp.2026.10611",
+        "abstract": "No structured abstract available. This is an opinion/review article published as open access (First View, Epub ahead of print 30 March 2026). The article presents the pharmacological rationale for intranasal amiloride as a potential portable and rapid-acting treatment for panic disorder, focusing on the role of acid-sensing ion channels (ASICs) in panic pathophysiology, the evidence base linking CO2 hypersensitivity and panic disorder, the blood-brain barrier permeability limitations of oral amiloride, and the pharmacokinetic advantages of intranasal delivery (nose-to-brain route) for achieving rapid onset of action within the DSM-5-defined 'minutes' window of panic attack onset to peak.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Intranasal amiloride is proposed as a potentially rapid-acting, portable treatment for panic disorder based on acid-sensing ion channel pharmacology and the CO2 hypersensitivity model of panic.",
+          "why_it_matters": "Current acute panic treatments (benzodiazepines) carry addiction risk; a novel mechanism targeting ASICs via nasal delivery could offer rapid relief without sedation or abuse potential, though clinical trials are still needed.",
+          "caveats": "This is a pharmacological rationale paper without clinical efficacy data; the proposed mechanism remains to be validated in human panic disorder trials.",
+          "subspecialty_tags": [
+            "Anxiety & Trauma",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Anxiety & Trauma",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Comorbid depression can compromise capacity: a consequential complication for assisted dying considerations",
+        "citation": "Malhi GS, Hofstede A. Comorbid depression can compromise capacity: a consequential complication for assisted dying considerations. Br J Psychiatry. 2026:1-4. doi: 10.1192/bjp.2026.10623 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1192/bjp.2026.10623",
+        "abstract": "Proposed assisted dying legislation does not adequately consider comorbid mental illness, such as depression, which variably compromises decision-making capacity. Current tests of capacity are limited in their ability to assess any such compromise, and therefore we highlight these concerns and put forward suggestions as to how this may be rectified.",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "Comorbid depression can variably compromise decision-making capacity in assisted dying contexts, and current capacity assessments may be inadequate to detect this.",
+          "why_it_matters": "As assisted dying legislation expands internationally, psychiatrists are increasingly asked to assess capacity; this highlights the need for more rigorous assessment tools that account for depression's effects on decision-making.",
+          "caveats": "This is an opinion piece reflecting the authors' perspective on proposed legislation; empirical evidence on the specific impact of depression on assisted dying decisions is limited.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "ICD-11 classification of personality disorder: there is no other way forward",
+        "citation": "Kim Y-R, Tyrer P, Mulder R, King JD, Bach BS. ICD-11 classification of personality disorder: there is no other way forward. Br J Psychiatry. 2026:1-2. doi: 10.1192/bjp.2026.10567 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1192/bjp.2026.10567",
+        "abstract": "No abstract available",
+        "edition": "April 2026",
+        "clinical_card": {
+          "bottom_line": "The ICD-11 dimensional classification of personality disorder represents a necessary paradigm shift from categorical diagnosis, despite implementation challenges.",
+          "why_it_matters": "The transition from categorical to dimensional personality disorder classification fundamentally changes how clinicians assess and communicate about personality pathology, requiring adaptation in training and clinical practice.",
+          "caveats": "This is an editorial/viewpoint without new empirical data; the practical impact of ICD-11 reclassification on clinical outcomes remains to be demonstrated.",
+          "subspecialty_tags": [
+            "Psychotherapy",
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotherapy",
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      }
+    ]
   }
 ]
