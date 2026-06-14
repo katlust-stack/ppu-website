@@ -9853,5 +9853,472 @@
         }
       }
     ]
+  },
+  {
+    "edition": "May 2026",
+    "filename": "PPU May 2026 .docx",
+    "article_count": 15,
+    "articles": [
+      {
+        "title": "Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies",
+        "citation": "Morrin H, Nicholls L, Levin M, Yiend J, Iyengar U, DelGuidice F, et al. Artificial intelligence-associated delusions and large language models: risks, mechanisms of delusion co-creation, and safeguarding strategies. Lancet Psychiatry. 2026;13(6):522-530. doi: 10.1016/S2215-0366(25)00396-7. Epub 2026 Mar 5 PMID: 41796598.",
+        "authors": "",
+        "pmid": "41796598",
+        "doi": "10.1016/S2215-0366(25)00396-7",
+        "abstract": "Large language models (LLMs) are poised to become a ubiquitous feature of everyday life, mediating communication, decision making, and information curation across nearly every domain. Within psychiatry and psychology, the attention has largely been on bespoke therapeutic applications, sometimes narrowly focused and often diagnostically siloed, rather than on the broader reality that individuals with mental illness will increasingly engage in agential interactions with artificial intelligence (AI) systems. Although the capacity of these systems to model therapeutic dialogue, provide companionship at any hour of the day, and assist with cognitive support has sparked understandable enthusiasm, these same systems might contribute to the onset or exacerbation of psychotic symptoms. Emerging evidence indicates that agential AI might validate or amplify delusional or grandiose content, particularly in users already vulnerable to psychosis, although it is not clear whether these interactions can result in the emergence of de novo psychosis in the absence of pre-existing vulnerability. In this Personal View, we outline the emerging risks, possible mechanisms of delusion co-creation, and safeguarding strategies for agential AI for people with psychotic disorders. We propose a framework of AI-informed care, involving personalised instruction protocols, reflective check-ins, digital advance statements, and escalation safeguards to support epistemic security in vulnerable users. These tools reframe the AI agent as an epistemic ally (as opposed to a therapist or a friend), which functions as a partner in relapse prevention and cognitive containment. Given the rapid adoption of LLMs across all domains of digital life, these protocols must be urgently co-designed with service users and clinicians and tested in clinical trials.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Large language models may validate or amplify delusional content in psychosis-vulnerable patients, requiring urgent development of personalized AI safety protocols including instruction limits, check-ins, and escalation procedures.",
+          "why_it_matters": "As AI becomes ubiquitous, psychiatrists need to understand how these systems might worsen psychotic symptoms and implement safeguarding strategies for vulnerable patients who will inevitably interact with AI systems outside of clinical settings.",
+          "caveats": "This is a theoretical framework based on emerging evidence rather than controlled studies demonstrating causality between AI interactions and psychotic symptom emergence or exacerbation.",
+          "subspecialty_tags": [
+            "Psychotic Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Psychotic Disorders"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
+        "citation": "McBain RK, Cantor JH, Breslau J, Diliberti M, Zhang LA, Zhang F, et al. AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults. JAMA Pediatr. Published online June 1, 2026. doi: 10.1001/jamapediatrics.2026.2015. PMID: not yet assigned DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1001/jamapediatrics.2026.2015",
+        "abstract": "IMPORTANCE:\nThe rapid expansion of artificial intelligence (AI) chatbots has coincided with a persistent youth mental health crisis in the US, raising a question about the extent to which young people are turning to this technology for mental health advice.\nOBJECTIVE:\nTo assess the prevalence, frequency, perceived helpfulness, and disclosure of AI chatbot use for mental health advice among US adolescents and young adults in 2025.\nDESIGN, SETTING, AND PARTICIPANTS\nThis cross-sectional, nationally representative survey was conducted with adolescents and young adults aged 12 to 21 years in November 2025 through RAND's American Youth Panel (n = 1,009; completion rate 58.4%).\nEXPOSURES:\nSelf-reported age, sex, race and ethnicity, census region, metropolitan status, and prior discussion with a clinician about mental health.\nMAIN OUTCOMES AND MEASURES:\nSelf-reported use of AI chatbots for mental health advice, including any prior use, frequency of use, perceived helpfulness of responses, and disclosure of use to others.\nRESULTS:\nNationally weighted estimates indicated that 19.2% of US adolescents and young adults (approximately 8.2 million) reported using AI chatbots such as ChatGPT, Gemini, Character.AI, and Meta AI for advice or help when feeling sad, angry, nervous, or stressed—up from 13.1% in a comparable survey conducted approximately one year earlier, and similar to the 19.8% who reported receiving counseling from a mental health professional. Among chatbot users, 42.8% engaged at least monthly and 5.8% daily or near-daily; 91.7% perceived the advice as helpful. Higher likelihood of use was observed among girls and young women (adjusted odds ratio [AOR] 2.10), those aged 18–21 vs 12–14 years (AOR 3.65), and those who had recently discussed mental health with a physician (AOR 1.89). Among users, Black youth had markedly greater odds of at least monthly use compared with White youth (AOR 5.45). Non-disclosure was common: 63.3% of chatbot users had not disclosed this use to anyone; when disclosed, friends were the most common confidants, leaving parents and clinicians largely unaware.\nCONCLUSIONS AND RELEVANCE:\nIn this nationally representative survey study of US adolescents and young adults, approximately a fifth reported using AI chatbots for mental health advice. AI chatbots are already embedded in many youths' mental health information ecosystem, underscoring the need for parents and clinicians to proactively discuss chatbot use to promote safety, appropriate expectations, and linkages to evidence-based care.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Nearly 20% of US adolescents and young adults (8.2 million) use AI chatbots for mental health advice, with most finding it helpful but not disclosing this use to parents or clinicians.",
+          "why_it_matters": "AI chatbots are becoming as common as professional counseling for youth mental health support, yet clinicians remain largely unaware of this use. This creates opportunities for safety discussions and integration with evidence-based care, while highlighting potential gaps in access to traditional services.",
+          "caveats": "Cross-sectional survey design limits causal inference, and self-reported data may be subject to recall and social desirability bias.",
+          "subspecialty_tags": [
+            "Child & Adolescent",
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Child & Adolescent",
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Observational / Case series"
+          ]
+        }
+      },
+      {
+        "title": "Confirmatory efficacy and safety trial of magnetic seizure therapy versus right unilateral ultra-brief electroconvulsive therapy in depression (CREST-MST): a randomised, double-blind, non-inferiority trial in Canada and the USA",
+        "citation": "Blumberger DM, McClintock SM, Thorpe KE, Tamminga CA, Foley K, Husain MM, et al. Confirmatory efficacy and safety trial of magnetic seizure therapy versus right unilateral ultra-brief electroconvulsive therapy in depression (CREST-MST): a randomised, double-blind, non-inferiority trial in Canada and the USA. Lancet Psychiatry. 2026;13(5):376-386. doi: 10.1016/S2215-0366(26)00060-X. ; PMCID: PMC13157641 PMID: 41997695.",
+        "authors": "",
+        "pmid": "41997695",
+        "doi": "10.1016/S2215-0366(26)00060-X",
+        "abstract": "Background:\nA large proportion of individuals with major depressive disorder (MDD) experience treatment-resistant depression (TRD) and have little to no benefit from multiple medication trials. Electroconvulsive therapy (ECT) is an effective treatment in patients with TRD, yet only 1% accept treatment, due largely to negative perceptions and cognitive adverse effects. Magnetic seizure therapy (MST) is a novel convulsive therapy that may offer comparable antidepressant efficacy with a more favourable cognitive safety profile.\nMethods:\nThis multisite randomised, double-blind, parallel-group, non-inferiority trial was conducted at three academic centres across Canada and the USA. Participants aged 18 years and older with major depressive disorder received treatment until they achieved remission, dropped out, or up to 21 total treatments. MST was delivered using a twin coil in a midline frontal position. The coprimary outcomes were remission of depression on the Hamilton Rating Scale for Depression-24 item (HRSD-24) and worsening of autobiographical memory on the Autobiographical Memory Test (AMT). The non-inferiority margin was a 15% absolute difference in remission rates; AMT worsening was defined as a 25% reduction corresponding to one standard deviation reduction in performance.\nResults:\nA total of 292 participants were enrolled between June 26, 2018, and March 1, 2024; 239 were randomly assigned and 3 withdrew before treatment, leaving 236 participants in the analysis. Enrollment concluded before the intended sample size was reached. Remission rates were 27.8% for RUL-UB ECT and 22.5% for MST, establishing the non-inferiority of MST (Z-test P = 0.048); the 5.3% difference favoured RUL-UB ECT but fell within the prespecified 15% non-inferiority margin. HRSD-24 response rates were 48% with RUL-UB ECT and 47% with MST. Worsening autobiographical memory affected 17.3% of participants in the RUL-UB ECT group compared with 2.7% in the MST group. MST also demonstrated advantages in verbal fluency and executive functioning, and patients receiving MST reoriented more rapidly after each session than those receiving ECT. Both treatments were equally effective at reducing suicidal ideation. Twelve participants in the RUL-UB ECT group and three in the MST group withdrew from treatment due to nonserious adverse events.\nInterpretation:\nMST showed non-inferior efficacy relative to RUL-UB ECT in achieving remission of depression, and a more favourable cognitive safety profile. Collectively, the overall risk-benefit profile of MST supports its consideration as a first-line convulsive therapy in MDD, particularly in those who refuse RUL-UB ECT. Among the substantial population of patients who could benefit from convulsive therapy but currently refuse due to the risk of cognitive adverse effects, MST can provide an effective alternative approach that aligns more closely with patient preference.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Magnetic seizure therapy (MST) is non-inferior to right unilateral ultra-brief ECT for depression remission but causes significantly less autobiographical memory impairment (2.7% vs 17.3%), making it a viable first-line convulsive therapy option.",
+          "why_it_matters": "This provides psychiatrists with an effective alternative to ECT for treatment-resistant depression that may be more acceptable to patients who refuse ECT due to cognitive concerns. The superior cognitive safety profile could expand access to convulsive therapies for the large population currently declining ECT.",
+          "caveats": "The study was terminated before reaching the intended sample size, which may limit statistical power for detecting smaller differences between treatments.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Neuromodulation"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Neuromodulation"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "Efficacy and Safety of the Neuroplastogen TSND-201 for the Treatment of PTSD: A Randomized Clinical Trial",
+        "citation": "Jones A, Warner-Schmidt J, Kwak H, Stogniew M, Mandell B, Ching THW, et al. Efficacy and Safety of the Neuroplastogen TSND-201 for the Treatment of PTSD: A Randomized Clinical Trial. JAMA Psychiatry. 2026;83(5):469-477. doi: 10.1001/jamapsychiatry.2025.4625 DOI link.",
+        "authors": "",
+        "pmid": "",
+        "doi": "10.1001/jamapsychiatry.2025.4625",
+        "abstract": "Question: Is the neuroplastogen TSND-201 (methylone) efficacious and well tolerated in people with posttraumatic stress disorder (PTSD)?\nFindings: In this phase 2, double-blind, placebo-controlled randomized clinical trial in 65 people with severe PTSD, acute intermittent treatment with TSND-201 was associated with a statistically significant and clinically meaningful reduction in PTSD symptoms, measured by Clinician-Administered PTSD Scales for DSM-5 scores, compared with placebo. TSND-201 was generally safe and well tolerated; adverse events were typically transient, occurring on the day of dosing and resolving within a day.\nMeaning: Study results demonstrate that TSND-201 has rapid, robust, and durable efficacy and is well tolerated in people with PTSD, supporting its further development as a treatment for PTSD.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "TSND-201 (methylone), a novel neuroplastogen, significantly reduced PTSD symptoms compared to placebo in a phase 2 trial with generally transient side effects occurring only on dosing days.",
+          "why_it_matters": "This represents a potentially breakthrough treatment for severe PTSD using intermittent dosing of a neuroplastogen, offering rapid and durable symptom relief that could transform PTSD treatment paradigms.",
+          "caveats": "Small sample size (n=65) limits generalizability, and long-term safety data beyond the study period are not available.",
+          "subspecialty_tags": [
+            "Anxiety & Trauma",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Anxiety & Trauma",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Psilocybin in the Treatment of Cocaine Use Disorder: A Randomized Clinical Trial",
+        "citation": "Hendricks PS, Lappan SN, Shelton RC, et al. Psilocybin in the Treatment of Cocaine Use Disorder: A Randomized Clinical Trial. JAMA Netw Open. 2026;9(5):e2611029. doi:10.1001/jamanetworkopen.2026.11029 PMID: 42096204.",
+        "authors": "",
+        "pmid": "42096204",
+        "doi": "10.1001/jamanetworkopen.2026.11029",
+        "abstract": "Importance: Cocaine use disorder is a serious public health problem and no medications have been proven effective for its treatment.\nObjective: To evaluate psilocybin in the treatment of cocaine use disorder. It was hypothesized that psilocybin, compared with placebo, would yield a higher percentage of cocaine abstinent days, a greater likelihood of complete abstinence from cocaine, and a greater latency to first cocaine lapse through 180 days after end of treatment.\nDesign, setting, and participants: Randomized, quadruple-blind, placebo-controlled clinical trial at a major medical research center in the Deep South of the US. Participants were individuals with cocaine use disorder who were motivated to quit and without significant comorbidities, recruited between May 2015 and August 2023 with data collection completed in May 2024.\nInterventions: Participants were randomized (1:1) to receive a single oral dose of psilocybin (25 mg per 70 kg of body weight) or active placebo (100 mg diphenhydramine). All participants received manualized psychotherapy that incorporated cognitive-behavioral treatment approximately 1 month before and 1 month after an all-day investigational drug treatment session.\nMain outcomes and measures: Percentage of cocaine abstinent days, rates of complete cocaine abstinence, and time to first cocaine lapse through 180 days after end of treatment, assessed by timeline followback interview and confirmed with urinalysis. Hypotheses were formulated before data collection and analyses followed intention-to-treat principles.\nResults: Of the 40 participants, 33 (82.5%) were men, the median (IQR) age was 50.0 (43.8-56.0) years, 33 (82.5%) were Black, and 7 (17.5%) were White. Most participants had lower socioeconomic status, with 26 participants (65%) having an annual income of $20 000 or less. Four participants were lost to follow-up, resulting in 36 participants who completed assessments through 180 days after end of treatment. Psilocybin recipients had a higher percentage of cocaine abstinent days (β = 28.95; 95% CI, 18.22-39.67; P < .001), greater likelihood of complete cocaine abstinence (odds ratio, 18.37; 95% CI, 1.92-2468.17; P = .007), and a reduced risk of cocaine lapse over time (hazard ratio, 0.28; 95% CI, 0.13-0.60; P = .001) than active placebo recipients. No serious adverse events occurred.\nConclusions: and relevance: In this randomized clinical trial, psilocybin appeared to be safe and efficacious for treating cocaine use disorder among individuals from underrepresented and vulnerable populations. Further research is warranted to replicate and expand these findings.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "A single dose of psilocybin (25 mg/70 kg) combined with psychotherapy significantly increased cocaine abstinence rates and delayed relapse compared to active placebo over 6 months in adults with cocaine use disorder.",
+          "why_it_matters": "This represents the first positive RCT results for any medication in cocaine use disorder, offering hope for a condition with no FDA-approved pharmacological treatments. The findings suggest psilocybin could fill a major therapeutic gap in addiction medicine.",
+          "caveats": "Very small sample size (n=40) limits generalizability, and the study was conducted at a single site with highly selected participants without significant comorbidities.",
+          "subspecialty_tags": [
+            "Addiction",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Addiction",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: A Randomized, Double-Blind, Placebo-Controlled Trial",
+        "citation": "Tucciarone JM, Bandeira ID, Blasey C, et al. Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: A Randomized, Double-Blind, Placebo-Controlled Trial. AJP. Published online May 19, 2026:appi.ajp.20250840. doi:10.1176/appi.ajp.20250840 PMID: 42151794.",
+        "authors": "",
+        "pmid": "42151794",
+        "doi": "10.1176/appi.ajp.20250840",
+        "abstract": "Objective: Ketamine rapidly reduces suicidal ideation in major depressive disorder (MDD), but its effects are transient. Preclinical and clinical studies suggest that ketamine's antidepressant and antisuicidal effects may be partly mediated by mu-opioid receptor (MOR) modulation. The authors investigated the efficacy and safety of low-dose sublingual buprenorphine, a partial MOR agonist, as a follow-on treatment to prolong the effects of intravenous ketamine.\nMethods: This was a randomized, double-blind, placebo-controlled trial conducted at a single outpatient center in the United States. Adults with MDD and a total score ≥6 on the Scale for Suicide Ideation (SSI) were randomly assigned in a 1:1 ratio to receive either sublingual buprenorphine (0.2 to 0.8 mg/day) or a matched placebo for 4 weeks, beginning 48 hours after a single open-label intravenous ketamine infusion (0.5 mg/kg over 40 minutes). The primary outcome was the change in SSI total score, assessed weekly from day 1 through day 31.\nResults: From November 2020 to March 2025, 50 participants (68% female) received ketamine, of whom 45 completed at least 1 week of follow-on treatment. Both groups showed significant reductions in SSI total scores, with greater improvement in the buprenorphine group (mean change, -11.6, SD=5.8; N=23) than the placebo group (mean change, -6.3, SD=7; N=22) (Glass delta=0.76, 95% CI=0.11, 1.39). Mixed-effects modeling showed a significant time-by-treatment interaction (p<0.001). Depression scores did not differ significantly between groups. No serious treatment-related adverse events occurred.\nConclusions: This randomized controlled trial provides the first evidence that a pharmacological intervention, buprenorphine, significantly sustains and enhances the antisuicidal effects of ketamine in MDD. These findings offer a potentially scalable and safe therapeutic option for a population at risk of suicide.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Low-dose sublingual buprenorphine (0.2-0.8 mg/day) started 48 hours after ketamine infusion significantly prolongs ketamine's antisuicidal effects in major depression compared to placebo.",
+          "why_it_matters": "This addresses the critical limitation of ketamine's transient antisuicidal effects by providing a practical, outpatient-feasible strategy to extend protection in high-risk patients. The combination could transform acute suicide intervention by bridging the gap between immediate ketamine response and longer-term treatment effects.",
+          "caveats": "Small sample size (N=45 completed treatment) from a single center limits generalizability, and the study did not show additional benefit for overall depression symptoms.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Small RCT / Open-label",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Pharmacological augmentation for people with treatment-resistant depression",
+        "citation": "Strawbridge R, Nikolova VL, Browning M, Rucker J, Cowen PJ, Cousins DA, Young AH, Cleare AJ. Pharmacological augmentation for people with treatment-resistant depression. Br J Psychiatry. 2026 May 19:1-2. doi: 10.1192/bjp.2026.10673. Epub ahead of print PMID: 42152544.",
+        "authors": "",
+        "pmid": "42152544",
+        "doi": "10.1192/bjp.2026.10673",
+        "abstract": "Long-term pharmacological augmentation is central to care for treatment-resistant depression, yet until recently no adequately powered trials have examined it. With three such studies now published, we highlight the hope they offer for improving outcomes in this underserved population while highlighting caution in interpreting their collective findings without careful consideration of methodology and clinical context. We consider these issues and their implications for guiding more personalised treatment decisions aimed at sustained benefit in routine practice.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Three new adequately powered trials of pharmacological augmentation for treatment-resistant depression offer hope for improved outcomes, but require careful interpretation of methodology and clinical context for personalized treatment decisions.",
+          "why_it_matters": "Treatment-resistant depression affects a significant portion of patients with limited evidence-based options, and these new trials provide crucial guidance for augmentation strategies that could improve long-term outcomes in routine clinical practice.",
+          "caveats": "This is a commentary/viewpoint rather than original research, and emphasizes the need for cautious interpretation of the referenced trials' methodologies.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Genotype-Guided Antidepressant Prescribing for Patients With Depression: A Randomized Clinical Trial*",
+        "citation": "Blake KV, Hines LJ, Liu M, et al. Genotype-Guided Antidepressant Prescribing for Patients With Depression: A Randomized Clinical Trial. JAMA Netw Open. 2026;9(5):e2610609. doi:10.1001/jamanetworkopen.2026.10609 PMID: 42090156.",
+        "authors": "",
+        "pmid": "42090156",
+        "doi": "10.1001/jamanetworkopen.2026.10609",
+        "abstract": "Importance: The effectiveness of pharmacogenetics to guide prescribing of selective serotonin reuptake inhibitors (SSRIs) for depression remains unclear, despite the well-established association between SSRI pharmacokinetics and genetic variation.\nObjective: To determine whether pharmacogenetic-guided prescribing of SSRIs improves treatment response in patients with depression.\nDesign, setting, and participants: The ADOPT PGx (A Depression and Opioid Pragmatic Trial in Pharmacogenetics) Depression pragmatic randomized clinical trial was conducted from August 10, 2021, through April 27, 2024, at primary care, psychiatry, or family medicine clinics at enrolling sites throughout the US. Patients were aged 8 years or older and had experienced depression for 3 months or longer.\nIntervention: Patients were randomized to genotype-guided SSRI prescribing (intervention group) or usual care (control group). Actionable drug metabolism phenotypes were defined as those for which pharmacogenetic clinical guidelines recommend alternative medication selection or dose adjustment.\nMain outcomes and measures: The primary outcome was change in Patient-Reported Outcomes Measurement Information System (PROMIS) depression T scores at 3 months among patients with the actionable phenotype. Secondary end points included adverse effect severity of SSRIs at 3 months and depression remission (measured with PROMIS depression scores and Patient Health Questionnaire-8 [PHQ-8] scores) at 6 months.\nResults: This study of 1460 patients included 1239 adults (84.9%) (mean [SD] age, 40.6 [16.7] years) and 221 children (15.1%) (mean [SD] age, 14.6 [1.8] years). Most patients were female (1096 [75.1%]). A total of 692 patients (47.4%) had an actionable phenotype; 351 (50.7%) were assigned to the intervention, and 341 (49.3%) were assigned to usual care. At baseline, 463 of the 692 patients (66.9%) reported having depressive symptoms for more than 2 years, 603 (87.1%) were receiving pharmacologic treatment, and 354 (51.2%) were receiving nonpharmacologic treatment. At 3 months, no significant differences were observed between the intervention and usual care groups in change in PROMIS depression T scores (mean [SD] change, -4.3 [8.4] vs -4.0 [8.1]; P = .68), medication adverse effect burden (mean [SD] change, 8.2 [4.3] vs 7.8 [4.5]; P = .37), or Patient Health Questionnaire-8 score change (mean [SD] change, -3.3 [5.2] vs -2.7 [4.8]; P = .13). However, at 6 months, the PROMIS depression T-score remission rate (score ≤16) was higher in the intervention group compared with the usual care group (153 of 317 patients [48.3%] vs 122 of 310 patients [39.4%]; P = .02).\nConclusions: and relevance: In this randomized clinical trial, genotype-guided prescribing of SSRIs did not improve control of depression symptoms at 3 months compared with usual care but was associated with higher depression remission rates at 6 months. These findings suggest a possible longer-term clinical benefit and indicate that future studies should focus on the durability and long-term impact of genotype-guided prescribing in the management of depressive symptoms.\n* Conflict of interest noted — please consider potential bias when evaluating this paper.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Pharmacogenetic testing to guide SSRI prescribing showed no benefit at 3 months but improved depression remission rates at 6 months in patients with actionable genetic variants.",
+          "why_it_matters": "This large pragmatic trial provides evidence that pharmacogenetic testing may have delayed benefits for SSRI treatment, which could inform clinical decision-making about when to order genetic testing and set appropriate expectations for timeline of benefits.",
+          "caveats": "The study has noted conflicts of interest that may introduce bias, and benefits were only seen at 6 months in a subset of patients with actionable phenotypes.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis",
+            "Industry-funded"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis",
+            "Industry-funded"
+          ]
+        }
+      },
+      {
+        "title": "Mapping ADHD Heterogeneity and Biotypes by Topological Deviations in Morphometric Similarity Networks",
+        "citation": "Pan N, Long Y, Qin K, et al. Mapping ADHD heterogeneity and biotypes by topological deviations in morphometric similarity networks. JAMA Psychiatry. 2026;83(5):478-490. doi:10.1001/jamapsychiatry.2026.0001 PMID: 41739459.",
+        "authors": "",
+        "pmid": "41739459",
+        "doi": "10.1001/jamapsychiatry.2026.0001",
+        "abstract": "Importance: Attention-deficit/hyperactivity disorder (ADHD) is characterized by considerable clinical heterogeneity, and existing classification frameworks constrain the development of neurobiologically informed subtyping approaches.\nObjective: To investigate whether normative modeling of topological properties derived from brain morphometry similarity networks can provide robust stratification markers for children with ADHD.\nDesign, settings, and participants: This case-control study leveraged multisite cross-sectional neurodevelopmental datasets with a longitudinal follow-up cognitive assessment for a subset. Morphometric similarity networks were constructed and normative models were developed for 3 topological metrics: degree centrality, nodal efficiency, and participation coefficient. Through semisupervised clustering, putative biotypes were delineated and their clinical profiles were examined. Brain profiles of these biotypes were further contextualized in terms of their neurochemical and functional correlates using large-scale databases, and model generalizability was assessed with external validation performed in an independent transdiagnostic cohort. Study data were analyzed from November 2023 to January 2025.\nExposures: Normative modeling of topological properties derived from brain morphometry.\nMain outcomes and measures: Topological deviations in morphometric similarity networks derived from brain structural image.\nResults: The discovery cohort comprised 446 children with ADHD (mean [SD] age, 11.5 [2.6] years; 339 male [76.0%]) and 708 controls (mean [SD] age, 11.0 [2.3] years; 429 male [60.6%]), whereas the validation cohort included 554 children with ADHD (mean [SD] age, 10.1 [2.8]; 372 male [67.1%]) and 123 controls (mean [SD] age, 10.1 [3.0]; 70 male [56.9%]). ADHD exhibited atypical hub organization across all 3 topological metrics, with significant case-control differences primarily localized to a covarying multimetric component in the orbitofrontal cortex. Three biotypes emerged: severe-combined with emotional dysregulation (widespread medial prefrontal cortex-pallidum alterations, n = 142), predominantly hyperactive/impulsive (anterior cingulate cortex-pallidum circuit alterations, n = 177), and predominantly inattentive (superior frontal gyrus alterations, n = 127), each characterized by distinct clinical profiles and longitudinal trajectories. These neural profiles of each biotype showed distinct neurochemical and functional correlates. Critically, the core findings were replicated in the validation cohort, demonstrating robust generalizability.\nConclusions: and relevance: Results of this case-control study reveal that the integration of normative modeling with semisupervised clustering provided both dimensional and categorical insights into ADHD heterogeneity, identifying 3 distinct ADHD biotypes with unique clinical-neural profiles that advance the understanding of ADHD's neurobiological complexity and lay the groundwork for personalized management.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Brain network analysis identified three distinct ADHD biotypes with different neural circuits and clinical profiles: severe-combined with emotional dysregulation, predominantly hyperactive/impulsive, and predominantly inattentive, potentially enabling more personalized treatment approaches.",
+          "why_it_matters": "This neurobiologically-informed subtyping could move beyond current DSM presentations to guide targeted interventions, as each biotype showed distinct brain circuit alterations and longitudinal trajectories that may respond differently to specific treatments.",
+          "caveats": "The study used cross-sectional imaging data for subtyping with limited longitudinal follow-up, and generalizability beyond the pediatric age range studied remains unclear.",
+          "subspecialty_tags": [
+            "Child & Adolescent",
+            "Neuroscience"
+          ],
+          "evidence_quality_tags": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Child & Adolescent",
+            "Neuroscience"
+          ],
+          "evidence_quality": [
+            "Observational / Case series",
+            "Generalizability concern"
+          ]
+        }
+      },
+      {
+        "title": "Fascia's role in the mind-body continuum: a novel target for integrative treatments in psychiatry",
+        "citation": "Shah SM, Jahangir M, Alhudaithi GS, Taneja C, Alharbi FS, Lin X. Fascia’s role in the mind-body continuum: a novel target for integrative treatments in psychiatry. Front Psychiatry. 2026;17. doi:10.3389/fpsyt.2026.1687288 PMID: 42147021.",
+        "authors": "",
+        "pmid": "42147021",
+        "doi": "10.3389/fpsyt.2026.1687288",
+        "abstract": "The fascia, a pervasive connective tissue network, has traditionally been studied for its structural and biomechanical roles in the human body. However, emerging evidence suggests that fascia may also play a significant role in the pathophysiology of psychiatric disorders. This review article explores the potential links between fascial dysfunction and mental health conditions such as depression and anxiety. Fascia's involvement in mechanotransduction, proprioception, and nociception positions it as a dynamic biological interface between peripheral tissues and the central nervous system. Through interoceptive signaling, the fascial system continuously relays the body's internal physiological state to the brain, offering a plausible framework for understanding how somatic tension may correlate with emotional states. Integrating recent neurobiological frameworks, we propose that fascial afferents are primary contributors to higher-order body representation. Chronic stress induces fascial stiffness and inflammation, potentially exacerbating stress-related psychiatric conditions, while the comorbidity of myofascial pain syndromes with psychiatric disorders further highlights this interconnection. Although preliminary evidence suggests that fascial-targeted therapies including myofascial release, yoga, and meditation may hold therapeutic potential, their efficacy in psychiatric treatment remains hypothetical and requires validation through rigorous clinical trials. The evidence is still in infancy, integration of fascial health into psychiatric research and treatment offers a promising avenue for holistic and multidisciplinary approaches to mental health care. This article underscores the need for further research to elucidate the mechanisms underlying the fascia-psychiatry connection and to explore the clinical implications of fascial therapies in psychiatric practice.\nClinical Reviews & Meta-Analyses",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Fascial dysfunction may contribute to psychiatric disorders through interoceptive signaling pathways, potentially supporting integrative therapies like yoga and myofascial release as adjunctive treatments, though clinical evidence remains preliminary.",
+          "why_it_matters": "This emerging framework could explain the mind-body connection in psychiatric disorders and provide rationale for incorporating somatic therapies into treatment plans. Understanding fascial-brain communication may also inform why patients with chronic pain often present with comorbid psychiatric symptoms.",
+          "caveats": "The evidence base is acknowledged as being in its infancy with therapeutic efficacy remaining hypothetical and requiring validation through rigorous clinical trials.",
+          "subspecialty_tags": [
+            "Medical Psychiatry",
+            "Anxiety & Trauma"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Medical Psychiatry",
+            "Anxiety & Trauma"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Pharmacological interventions for ADHD: a systematic review and dose-effect network meta-analysis",
+        "citation": "Nourredine M, Jurek L, Hamza T, Cipriani A, Subtil F, Parlatini V, et al. Pharmacological interventions for ADHD: a systematic review and dose-effect network meta-analysis. Lancet Psychiatry. 2026;13(6):485-495. doi: 10.1016/S2215-0366(26)00091-X PMID: 42134365.",
+        "authors": "",
+        "pmid": "42134365",
+        "doi": "10.1016/S2215-0366(26)00091-X",
+        "abstract": "Background: Optimising the dosage of pharmacological treatments for ADHD is key to maximising their benefits, yet most clinical guidelines provide only limited information on this issue. Dose-effect relationships have not been comprehensively assessed across all ADHD medications and age groups, despite growing concerns about subtherapeutic prescribing. We aimed to estimate dose-effect curves for efficacy and tolerability of ADHD medications (stimulants and non-stimulants) across age groups.\nMethods: We conducted a systematic review and dose-effect network meta-analysis of double-blind randomised controlled trials (RCTs) evaluating oral monotherapy (stimulants and non-stimulants) in individuals aged 5 years and older meeting standardised ADHD criteria. Studies involving genetic syndromes, treatment-resistant populations, or withdrawal-phase designs were excluded. We retrieved eligible studies from the MED-ADHD database, updated on Feb 17, 2025, without language restrictions. We included published and unpublished aggregated-level data. The primary outcome was efficacy (measured using validated clinical scales) and the secondary outcome was tolerability (discontinuation due to adverse events). We conducted a dose-effect network meta-analysis as a three-level hierarchical Bayesian framework, separate for children or adolescents, and adults. We included 113 double-blind RCTs with more than 25,000 participants. All doses were converted to a common scale to enable comparison across trials and formulations.\nFindings: Data from 113 double-blind RCTs including more than 25,000 participants were analysed. The results show that patterns of dose-effect differ between medications and age groups. The study identified dose ranges where treatment benefits peak and higher doses mainly increase side effects, with no evidence that going beyond licensed maximum doses improves average effectiveness.\nInterpretation: Our findings challenge both therapeutic inertia—accepting suboptimal response without further dose titration—and uncritical dose escalation beyond licensed limits, when potential harms outweigh expected benefits. Our findings can inform clinical guidelines and should support shared decision making regarding ADHD medication dosage.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "This large network meta-analysis of 113 RCTs found that ADHD medications have optimal dose ranges where benefits peak, and doses beyond licensed maximums do not improve effectiveness while increasing side effects.",
+          "why_it_matters": "This provides evidence-based guidance for ADHD dose optimization, challenging both under-dosing (therapeutic inertia) and over-dosing beyond licensed limits, which can inform more precise prescribing decisions and shared decision-making with patients.",
+          "caveats": "The analysis relied on aggregated data rather than individual patient data, which may limit detection of subgroup differences in dose-response relationships.",
+          "subspecialty_tags": [
+            "Child & Adolescent",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Child & Adolescent",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "The global prevalence of major depressive disorder during the peripartum period: a systematic review and meta-regression",
+        "citation": "Ferrari AJ, Miller PA, Shadid J, Herrera AM, Ahmed SM, Malpani P, et al. The global prevalence of major depressive disorder during the peripartum period: a systematic review and meta-regression. Lancet Psychiatry. 2026;13(6):461-471. doi: 10.1016/S2215-0366(26)00085-4 PMID: 42070579.",
+        "authors": "",
+        "pmid": "42070579",
+        "doi": "10.1016/S2215-0366(26)00085-4",
+        "abstract": "Background: For a meaningful global health response to major depressive disorder (MDD) during the peripartum period, its global distribution needs to be understood. The aim of this study was to conduct a systematic review of the prevalence of MDD during the peripartum period to assess sources of data heterogeneity and trends in prevalence during pregnancy and the postpartum period.\nMethods: This systematic review and meta-regression quantified MDD during pregnancy and up to 12 months postpartum among women and girls aged 10–59 years, across world regions. We searched PubMed, Embase, PsycINFO, and grey literature sources for studies published between Jan 1, 1980, and Oct 23, 2025. Depression diagnoses were based on DSM or ICD criteria. The meta-regression analysis quantified sources of measurement error within the available data and assessed the prevalence of MDD during the peripartum period and by location. We followed the PRISMA guidelines (PROSPERO ID CRD42022358108).\nFindings: Of 31,812 potentially eligible studies, we screened the titles and abstracts of 25,616 studies, and included 1,025 studies in the qualitative synthesis. We included 1,505 prevalence datapoints from 780 studies eligible for stage two analysis, representing 2,018,198 women and girls from 90 countries and 19 world regions. Symptom scales identifying MDD symptoms overestimated its prevalence by between 71·3% (95% uncertainty interval [UI] 54·3–89·8) for the Edinburgh Postnatal Depression Scale in the postpartum period and 121·9% (91·7–156·8) for the Patient Health Questionnaire during pregnancy, compared with diagnostic interview. MDD prevalence during the peripartum period was highest during the first 2 weeks postpartum. After adjusting for changes over the peripartum period and biases due to measurement error, the overall prevalence of MDD was 6·2% (95% UI 5·9–6·6) at any point in time during pregnancy and 6·8% (6·4–7·1) at any point in time during the postpartum year. Prevalence was highest in southern sub-Saharan Africa, ranging from 15·6% (12·7–19·1) during pregnancy to 16·6% (13·5–20·3) during the postpartum year; and south Asia, ranging from 13·7% (12·4–15·2) during pregnancy to 14·6% (13·1–16·1) during the postpartum year. The prevalence was lowest in high-income Asia Pacific, ranging from 3·1% (2·5–3·7) during pregnancy to 3·3% (2·8–3·9) during the postpartum year.\nInterpretation: The prevalence of MDD was elevated during the entire peripartum period, and highest 2 weeks after giving birth. Our findings emphasise the need for increased integration of screening, prevention, and treatment of MDD during the peripartum period into existing models of care.\nFunding: Queensland Health, The University of Queensland, and Gates Foundation.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Major depressive disorder affects 6.2% of women during pregnancy and 6.8% during the postpartum year globally, with peak prevalence in the first 2 weeks postpartum and substantial regional variation (3.1-15.6%).",
+          "why_it_matters": "This large-scale meta-analysis provides definitive prevalence estimates for peripartum depression globally, helping clinicians understand baseline risk and the critical importance of early postpartum screening. The finding that symptom scales overestimate MDD prevalence by 71-122% compared to diagnostic interviews has major implications for clinical assessment and research interpretation.",
+          "caveats": "The study relies heavily on cross-sectional data and diagnostic heterogeneity across included studies may affect prevalence estimates despite statistical adjustment.",
+          "subspecialty_tags": [
+            "Women's Mental Health",
+            "Mood Disorders"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Women's Mental Health",
+            "Mood Disorders"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis"
+          ]
+        }
+      },
+      {
+        "title": "The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia: A Narrative Review",
+        "citation": "Moore GJ, Bose N, Henter ID, Manji HK. The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia: A Narrative Review. JAMA Psychiatry. 2026 Jun 10. doi: 10.1001/jamapsychiatry.2026.1296. Epub ahead of print PMID: 42268602.",
+        "authors": "",
+        "pmid": "42268602",
+        "doi": "10.1001/jamapsychiatry.2026.1296",
+        "abstract": "Importance: Lithium, a long-established cornerstone therapy for bipolar disorder, is a biologically plausible disease-modifying agent for neurodegenerative disorders, including mild cognitive impairment (MCI) and Alzheimer disease (AD).\nObservations: Rather than targeting a single pathology like amyloid or tau, lithium acts across multiple cellular resilience pathways. Chronic lithium exposure induces the anti-apoptotic protein B-cell lymphoma 2 (Bcl-2), enhances brain-derived neurotrophic factor (BDNF) signaling, inhibits glycogen synthase kinase-3β (GSK-3β), stabilizes mitochondrial function, and reduces oxidative stress. These convergent mechanisms promote neuronal survival and synaptic integrity. In humans, proton magnetic resonance spectroscopy studies found that lithium increased N-acetylaspartate levels, consistent with improved neuronal viability, and structural magnetic resonance imaging (MRI) studies found that lithium preserved gray matter and/or reversed illness-related atrophy in hippocampal and corticolimbic regions. In addition, extensive evidence demonstrates that low-dose lithium (approximately 0.3mM)-significantly lower than traditional psychiatric doses (0.6-1.0mM)-exerts robust neurotrophic and neuroprotective effects. Preclinical models have found that these concentrations stimulate hippocampal neurogenesis, promote structural plasticity, and protect against proteotoxic injury. Furthermore, epidemiological studies have associated cumulative lithium exposure with reduced dementia risk, and early randomized clinical trials in MCI suggest cognitive stabilization and favorable tau biomarker changes at low, well-tolerated doses. The recent repletion hypothesis suggests that lithium may also function as a physiological trace element, but these findings await independent replication.\nConclusions: and relevance: These convergent data support a prospective clinical trial of low-dose lithium orotate to slow disease progression in MCI. Such an approach would prioritize established neuroprotective mechanisms while potentially mitigating the kidney and thyroid risks associated with higher-dose carbonate formulations. If low-dose lithium can indeed meaningfully alter disease trajectory, it would represent a much-needed, accessible, and inexpensive treatment that may be especially relevant in low- and middle-income countries.",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Low-dose lithium (0.3mM) may slow cognitive decline in mild cognitive impairment through multiple neuroprotective mechanisms, potentially offering a safe and accessible disease-modifying treatment for dementia.",
+          "why_it_matters": "With limited effective treatments for dementia, lithium's established safety profile and multiple neuroprotective pathways make it a promising repurposed intervention that could be widely accessible. Early trials suggest cognitive stabilization at doses lower than those used in bipolar disorder, potentially reducing traditional lithium monitoring concerns.",
+          "caveats": "This is a narrative review rather than systematic analysis, and the clinical evidence is limited to early trials and epidemiological studies requiring larger definitive studies.",
+          "subspecialty_tags": [
+            "Neurocognitive",
+            "Geriatric Psychiatry",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Neurocognitive",
+            "Geriatric Psychiatry",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      },
+      {
+        "title": "Adjunctive Antipsychotics in Major Depressive Disorder: A Systematic Review and Network Meta-Analysis*",
+        "citation": "McIntyre RS, Stahl SM, Shim SR, et al. Adjunctive Antipsychotics in Major Depressive Disorder: A Systematic Review and Network Meta-Analysis. JAMA Psychiatry. Published online May 6, 2026. doi:10.1001/jamapsychiatry.2026.0658 PMID: 42090141.",
+        "authors": "",
+        "pmid": "42090141",
+        "doi": "10.1001/jamapsychiatry.2026.0658",
+        "abstract": "Importance: Most adults living with major depressive disorder (MDD) fail to achieve remission with conventional antidepressants. The US Food and Drug Administration (FDA) has approved 5 atypical antipsychotics in MDD on the basis of their substantial evidence of efficacy and safety.\nObjective: To compare the efficacy and acceptability of FDA-approved atypical antipsychotics for the adjunctive treatment of MDD in order to provide decision support to practitioners and persons with lived experience.\nData sources: A systematic search was conducted using PubMed/MEDLINE, PsycINFO, the Cochrane Library, and Embase from database inception through July 15, 2025.\nStudy selection: Six independent raters screened publications for eligibility. Inclusion criteria were atypical antipsychotics that are FDA approved in the adjunctive treatment of MDD.\nData extraction and synthesis: Two independent raters obtained data and examined risk of bias in accordance with the Cochrane criteria. Effect sizes were synthesized using random-effects models. Data were analyzed from August to September 2025.\nMain outcomes and measures: The primary outcomes were efficacy (ie, ≥50% reduction from baseline in the total Montgomery-Åsberg Depression Rating Scale [MADRS] score) and acceptability (ie, all-cause discontinuation).\nResults: A total of 22 short-term studies comprising 10 962 participants (aripiprazole: n = 1297; brexpiprazole: n = 1973; cariprazine: n = 1894; lumateperone: n = 483; quetiapine extended release [XR]: n = 719; and placebo: n = 4596) were included for analysis. Lumateperone had the highest effect size for efficacy (risk ratio [RR], 1.72; 95% credible interval [CrI], 1.40-2.15), followed by aripiprazole (RR, 1.53; 95% CrI, 1.32-1.77), brexpiprazole (RR, 1.38; 95% CrI, 1.18-1.65), cariprazine (RR, 1.20; 95% CrI, 1.07-1.36), and quetiapine XR (RR, 1.15; 95% CrI, 0.96-1.35). A hierarchy of acceptability was observed, with aripiprazole exhibiting the highest acceptability (RR, 1.16; 95% CrI, 0.89-1.50), followed by cariprazine (RR, 1.44; 95% CrI, 1.15-1.82), brexpiprazole (RR, 1.47; 95% CrI, 1.18-1.85), quetiapine XR (RR, 1.56; 95% CrI, 1.14-2.12), and lumateperone (RR, 2.30; 95% CrI, 1.45-3.84). Secondary outcomes (eg, symptomatic remission) and exploratory outcomes (eg, clinically significant weight gain) accorded with the coprimary outcomes.\nConclusions: and relevance: This systematic review and meta-analysis indicates that differences exist between adjunctive atypical antipsychotics in the treatment of MDD with respect to overall efficacy and acceptability, which should be simultaneously considered. The absence of adequate and well-controlled studies documenting maintenance efficacy of adjunctive atypical antipsychotics in MDD remains a knowledge gap.\n* Conflict of interest noted — please consider potential bias when evaluating this paper.\nInteresting Viewpoints",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "Among FDA-approved adjunctive antipsychotics for treatment-resistant depression, lumateperone shows the highest efficacy but poorest tolerability, while aripiprazole offers the best balance of efficacy and acceptability.",
+          "why_it_matters": "This network meta-analysis provides head-to-head comparisons that can guide selection among the 5 FDA-approved adjunctive antipsychotics for treatment-resistant depression, helping clinicians weigh efficacy against tolerability for individual patients.",
+          "caveats": "Analysis limited to short-term studies only, with no data on long-term maintenance efficacy or safety.",
+          "subspecialty_tags": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality_tags": [
+            "Large RCT / Meta-analysis",
+            "Industry-funded"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Mood Disorders",
+            "Psychopharmacology"
+          ],
+          "evidence_quality": [
+            "Large RCT / Meta-analysis",
+            "Industry-funded"
+          ]
+        }
+      },
+      {
+        "title": "Initial Strategy for the Future of DSM",
+        "citation": "Oquendo MA, Abi-Dargham A, Alpert JE, Benton TD, Clarke DE, Compton WM, et al. Initial Strategy for the Future of DSM. Am J Psychiatry. 2026;183(5):292-300. doi: 10.1176/appi.ajp.20250878 PMID: 41593833.",
+        "authors": "",
+        "pmid": "41593833",
+        "doi": "10.1176/appi.ajp.20250878",
+        "abstract": "",
+        "edition": "May 2026",
+        "clinical_card": {
+          "bottom_line": "The DSM revision committee has outlined their initial strategic framework for future diagnostic manual updates, though specific changes are not yet detailed.",
+          "why_it_matters": "Understanding the direction of DSM evolution helps clinicians prepare for potential changes in diagnostic criteria and classification systems that will impact daily practice and research.",
+          "caveats": "This appears to be a strategic overview rather than empirical research with specific methodological findings.",
+          "subspecialty_tags": [
+            "Public Health & Policy"
+          ],
+          "evidence_quality_tags": [
+            "Review / Viewpoint"
+          ]
+        },
+        "tags": {
+          "subspecialty": [
+            "Public Health & Policy"
+          ],
+          "evidence_quality": [
+            "Review / Viewpoint"
+          ]
+        }
+      }
+    ]
   }
 ]
