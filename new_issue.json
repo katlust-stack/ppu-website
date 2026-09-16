@@ -1,304 +1,23 @@
 {
-  "edition": "June/July 2026",
-  "filename": "PPU June July 2026 .docx",
-  "article_count": 18,
+  "edition": "August 2026",
+  "filename": "PPU August 2026.docx",
+  "article_count": 15,
   "articles": [
     {
-      "title": "Applying immunity and metabolism to psychiatry: lost, or in translation?",
-      "citation": "De Giorgi R, Hahn MK, Cheliotis-James T, Smith ECC, Penninx BWJH, Pillinger T, Al-Diwani A. Applying immunity and metabolism to psychiatry: lost, or in translation? Br J Psychiatry. 2026;:1-6. doi: 10.1192/bjp.2026.10714 DOI link.",
+      "title": "Postural Orthostatic Tachycardia Syndrome (POTS): A Review",
+      "citation": "Chung TH, Raj SR. Postural Orthostatic Tachycardia Syndrome (POTS): A Review. JAMA. 2026 Aug 24. doi: 10.1001/jama.2026.14809. Epub ahead of print PMID: 42635998.",
       "authors": "",
-      "pmid": "",
-      "doi": "10.1192/bjp.2026.10714",
-      "abstract": "Immunologic, metabolic and increasingly 'immuno-metabolic' approaches, are prominent in contemporary psychiatric discourse, yet translation into clinical practice remains variable. In this Feature, we pragmatically ask where signal ends and speculation begins, and what this means for the clinical psychiatrist. Autoimmune encephalitis provides a rare but instructive yardstick in which antibody-based mechanisms map onto distinct neuropsychiatric syndromes and respond to targeted immunotherapy. More broadly applicable concepts, including an immuno-metabolic subtype of depression, are increasingly supported by mechanistic work, with attendant treatment implications, although differentiation from routine holistic care remains less clear. In psychosis and severe mental illness, immune and cardiometabolic dysfunction may contribute to both psychiatric and physical disease burden beyond lifestyle or treatment effects alone. Emerging therapies, including GLP-1-based (glucagon-like peptide-1-based) approaches, may bind these threads together with gains for body and mind, but specific evaluation within psychiatry continues. Overall, our view is that the opportunities are not lost, but for robust translation, there is an ongoing need for precise, incremental research, interdisciplinary collaboration and rigorous communication of nuance.",
-      "edition": "June/July 2026",
+      "pmid": "42635998",
+      "doi": "10.1001/jama.2026.14809",
+      "abstract": "Importance: Postural orthostatic tachycardia syndrome (POTS) is a chronic autonomic disorder characterized by excessive orthostatic tachycardia and multisystem symptoms that affects an estimated 0.1% to 1% of the US population. POTS can substantially impair daily functioning and quality of life.\nObservations: Common symptoms include lightheadedness, palpitations, fatigue, cognitive dysfunction (\"brain fog\"), exercise intolerance, nausea, bloating, constipation, diarrhea, and sleep disturbance. However, the true prevalence remains uncertain partly due to underrecognition and lack of a specific diagnostic code for POTS until 2022. In a survey of 4835 patients, approximately 70% reported substantial functional impairment and loss of school or work participation, and median diagnostic delay was 24 months. In 30% to 40% of cases, symptoms began within 3 months after infections, such as SARS-CoV-2, Epstein-Barr virus, and influenza. Initial evaluation should exclude other conditions that cause sinus tachycardia, including thyroid disease, adrenal insufficiency, pheochromocytoma, cardiomyopathy, valvular heart disease, congenital heart disease, chronic lung disease, medications, and anemia. This review summarizes current evidence on pathophysiology, diagnosis, and management of POTS.\nConclusions: and Relevance: POTS is a chronic autonomic disorder associated with functional impairment and reduced quality of life that is diagnosed based on characteristic orthostatic symptoms in the absence of orthostatic hypotension after excluding alternative causes of sinus tachycardia. Treatment involves nonpharmacological measures (such as increased fluid and sodium intake), lower-body compression garments, structured exercise training, and individualized pharmacological therapy.",
+      "edition": "August 2026",
       "clinical_card": {
-        "bottom_line": "Immuno-metabolic approaches show real but selective promise in psychiatry — well-established for autoimmune encephalitis, more speculative for immune/metabolic subtyping of depression and psychosis — so emerging GLP-1 and immunotherapy claims outside clear indications warrant calibrated skepticism.",
-        "why_it_matters": "Clinicians are increasingly asked about anti-inflammatory or metabolic add-on treatments; this review offers a framework for distinguishing mechanistically grounded indications (e.g., autoimmune encephalitis) from more speculative extrapolations to routine depression or psychosis care.",
-        "caveats": "This is a narrative feature/opinion piece, not a systematic review, and presents no new primary data.",
-        "subspecialty_tags": [
-          "Neuroscience",
-          "Medical Psychiatry"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Neuroscience",
-          "Medical Psychiatry"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "Lithium orotate: distinct compound or simply Li+ after administration?",
-      "citation": "Hajek T, Munthe S, Licht RW. Lithium orotate: distinct compound or simply Li+ after administration? Br J Psychiatry. 2026:1-3. doi: 10.1192/bjp.2026.10699 PMID: 42312809.",
-      "authors": "",
-      "pmid": "42312809",
-      "doi": "10.1192/bjp.2026.10699",
-      "abstract": "The recent study by Aron et al about lithium deficiency and the onset of Alzheimer's disease provides a valuable explanatory framework for understanding how very small doses of lithium, delivered via environmental exposure, can exert neuroprotective effects. It also contains results which will need to be reconciled with foundational chemistry and existing evidence and which could be potentially misleading.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Lithium orotate is pharmacologically just lithium ion after absorption; claims of a distinct low-dose neuroprotective mechanism from a widely publicized lithium-deficiency/Alzheimer's study should be interpreted cautiously pending reconciliation with basic chemistry.",
-        "why_it_matters": "Patients and even clinicians may be drawn to over-the-counter 'lithium orotate' supplements based on recent Alzheimer's-prevention headlines; this commentary is a useful corrective on what the compound actually is and isn't.",
-        "caveats": "This is an invited commentary/critique responding to another study, not original data.",
-        "subspecialty_tags": [
-          "Neurocognitive",
-          "Geriatric Psychiatry",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Neurocognitive",
-          "Geriatric Psychiatry",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "Late-Onset Neutropenia in Clozapine Users: Unrelated or Drug-Induced? A Case-Registry Analysis of Incidence, Characteristics, and Rechallenge Attempts",
-      "citation": "Segev A, Govind R, Oloyede E, Casetta C, Pritchard M, Jewell A, et al. Late-Onset Neutropenia in Clozapine Users: Unrelated or Drug-Induced? A Case-Registry Analysis of Incidence, Characteristics, and Rechallenge Attempts. Schizophr Bull. 2026;52(4):sbaf148. doi: 10.1093/schbul/sbaf148. ; PMCID: PMC13391638 PMID: 40856407.",
-      "authors": "",
-      "pmid": "40856407",
-      "doi": "10.1093/schbul/sbaf148",
-      "abstract": "BACKGROUND: AND HYPOTHESIS: Clozapine treatment carries a risk of blood dyscrasias (BD) and requires indefinite monitoring in many jurisdictions, a major factor in its under-utilization. Although previous studies suggest BD risk is highest early in treatment, BD events have also been reported after many years. This study compares early vs late (>6 months) suspected blood dyscrasias (SBD) and examines rechallenge outcomes as a marker for clozapine-related causation.\nSTUDY DESIGN: A retrospective analysis of electronic health records from a large UK mental health service gathered demographic data, characteristics of SBD events, and outcomes of clozapine rechallenge, defined as reinitiation after SBD-related discontinuation. These variables were compared between early- and late-onset SBD groups using a 6-month treatment duration cutoff.\nSTUDY RESULTS: Of 130 patients with SBD leading to clozapine cessation, 59 had early-onset SBD. The incidence rate before 6 months was 5.54% per year vs 0.53% after 6 months, reflecting an incidence rate ratio of 10.4. Early-onset patients were younger, received lower clozapine doses, and had fewer concurrent antipsychotics. Of 81 rechallenge attempts, 71 (87.7%) were successful, with a mean follow-up of 2.5 years. No significant differences in characteristics or rechallenge outcomes were found between the early- and late-onset groups.\nCONCLUSIONS: Though less frequent, late-onset SBD shares similar characteristics with early-onset SBD and has a comparable risk of recurrence on clozapine rechallenge. The vast majority of clozapine rechallenges are successful, including early-onset BD, suggesting they are not clozapine-induced. However, clozapine-induced BD, defined by recurrence upon rechallenge, may rarely occur even after years of treatment.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Late-onset clozapine-associated blood dyscrasias are far rarer than early-onset (0.53%/year vs 5.54%/year) but carry a comparable rechallenge risk profile, and the large majority (88%) of rechallenges after any suspected dyscrasia succeed — supporting cautious rechallenge consideration even years into treatment.",
-        "why_it_matters": "Clinicians managing patients on long-term clozapine who develop unexplained neutropenia can use these incidence and rechallenge-success data to counsel patients and weigh rechallenge versus permanent discontinuation.",
-        "caveats": "Retrospective single-service UK registry analysis; rechallenge decisions were not randomized, so selection bias likely favored patients judged lower-risk for rechallenge.",
-        "subspecialty_tags": [
-          "Psychotic Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Observational / Case series"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Psychotic Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Observational / Case series"
-        ]
-      }
-    },
-    {
-      "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: A Randomized, Double-Blind, Placebo-Controlled Trial",
-      "citation": "Tucciarone JM, Bandeira ID, Blasey C, Kratter IH, Ehrie J, Keller J, et al. Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: A Randomized, Double-Blind, Placebo-Controlled Trial. Am J Psychiatry. 2026;183(6):409-419. doi: 10.1176/appi.ajp.20250840 PMID: 42151794.",
-      "authors": "",
-      "pmid": "42151794",
-      "doi": "10.1176/appi.ajp.20250840",
-      "abstract": "Objective:\nKetamine rapidly reduces suicidal ideation in major depressive disorder (MDD), but its effects are transient. Preclinical and clinical studies suggest that ketamine's antidepressant and antisuicidal effects may be partly mediated by mu-opioid receptor (MOR) modulation. The authors investigated the efficacy and safety of low-dose sublingual buprenorphine, a partial MOR agonist, as a follow-on treatment to prolong the effects of intravenous ketamine.\nMethods:\nThis was a randomized, double-blind, placebo-controlled trial conducted at a single outpatient center in the United States. Adults with MDD and a total score ≥6 on the Scale for Suicide Ideation (SSI) were randomly assigned in a 1:1 ratio to receive either sublingual buprenorphine (0.2 to 0.8 mg/day) or a matched placebo for 4 weeks, beginning 48 hours after a single open-label intravenous ketamine infusion (0.5 mg/kg over 40 minutes). The primary outcome was the change in SSI total score, assessed weekly from day 1 through day 31.\nResults:\nFrom November 2020 to March 2025, 50 participants (68% female) received ketamine, of whom 45 completed at least 1 week of follow-on treatment. Both groups showed significant reductions in SSI total scores, with greater improvement in the buprenorphine group (mean change, -11.6, SD=5.8; N=23) than the placebo group (mean change, -6.3, SD=7; N=22) (Glass delta=0.76, 95% CI=0.11, 1.39). Mixed-effects modeling showed a significant time-by-treatment interaction (p<0.001). Depression scores did not differ significantly between groups. No serious treatment-related adverse events occurred.\nConclusions:\nThis randomized controlled trial provides the first evidence that a pharmacological intervention, buprenorphine, significantly sustains and enhances the antisuicidal effects of ketamine in MDD. These findings offer a potentially scalable and safe therapeutic option for a population at risk of suicide.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Adding low-dose sublingual buprenorphine after a single ketamine infusion produced significantly greater and more sustained reduction in suicidal ideation over 4 weeks than ketamine plus placebo, suggesting a scalable follow-on strategy to prolong ketamine's antisuicidal effect.",
-        "why_it_matters": "Ketamine's antisuicidal benefit is well known to fade quickly; this is the first RCT evidence for a pharmacological strategy — low-dose buprenorphine — to extend that benefit, which could reshape post-ketamine care pathways for suicidal patients.",
-        "caveats": "Small single-site trial (n=50, 45 completers) with an unblinded open-label ketamine infusion preceding the blinded phase; replication in larger, more diverse samples is needed before this becomes standard practice.",
-        "subspecialty_tags": [
-          "Mood Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Small RCT / Open-label"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Mood Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Small RCT / Open-label"
-        ]
-      }
-    },
-    {
-      "title": "Semaglutide and Effort-Based Decision-Making in Major Depressive Disorder: A Randomized Clinical Trial",
-      "citation": "Gill H, Badulescu S, Shah H, Brudner RM, Phan L, Di Vincenzo JD, et al. Semaglutide and Effort-Based Decision-Making in Major Depressive Disorder: A Randomized Clinical Trial. JAMA Psychiatry. 2026;83(7):751-754. doi: 10.1001/jamapsychiatry.2026.0594 PMID: 42054055.",
-      "authors": "",
-      "pmid": "42054055",
-      "doi": "10.1001/jamapsychiatry.2026.0594",
-      "abstract": "Importance: Consistent results from preclinical and clinical studies indicate that activation of glucagon-like peptide-1 receptors (GLP-1Rs) affects reward processes; however, to our knowledge, no study has previously evaluated whether a GLP-1R agonist (GLP-1RA) affects motivated behavior in individuals with major depressive disorder (MDD) in a randomized clinical trial.\nObjective: To assess the effects of a GLP-1RA, semaglutide, on reward-related dysfunction in a population with MDD.\nDesign, Setting, and Participants: This study was a 16-week, double-blind, placebo-controlled, parallel-group randomized clinical trial. A total of 72 participants with a diagnosis of MDD and a body mass index (calculated as weight in kilograms divided by height in meters squared) of 25 or higher were randomized to oral semaglutide (n = 35) or placebo (n = 37). Participants were recruited from the Mood Disorders Psychopharmacology Unit, University Health Network, Toronto, a university-based mood disorders program. Participants were enrolled between March 14, 2022, and July 26, 2024. Data analysis was performed from January 7, 2025, through February 3, 2025.\nIntervention: Patients were randomized 1:1 to receive placebo or oral semaglutide, 14 mg (initiated at 4 mg and titrated using a 4-week dose-escalation regimen), adjunctive to their existing treatment.\nMain Outcomes and Measures: The preregistered outcome of this secondary analysis was performance on the Effort-Expenditure for Rewards Task (EEfRT).\nResults: A total of 72 participants were randomized to oral semaglutide (n = 35 [49.7%]; mean [SD] age, 38.17 [11.79] years; 18 female participants [51.4%]) or placebo (n = 37 [51.3%]; mean [SD] age, 40.27 [9.32] years; 19 female participants [51.3%]). Semaglutide-treated participants exhibited a pattern of increased willingness to exert physical efforts with higher expected values of reward (treatment × visit × expected value interaction: χ² = 12.024; P = .02). Computational modeling indicated that semaglutide's effects on choice behavior were a result of reduced effort discounting. Sensitivity to effort was significantly reduced by treatment with semaglutide (β = −1.737; P = .03), whereas there was no treatment effect on sensitivity to probability (β = −0.776; P = .51).\nConclusions: and Relevance: In this secondary analysis of a double-blind randomized clinical trial, treatment with semaglutide significantly improved measures of motivation in patients with MDD. Semaglutide reduced the perceived cost of effort, relative to the monetary reward; the results of this trial have implications for the treatment of multiple neuropsychiatric disorders, which are characterized by varied reward dysfunctions.\nTrial Registration: ClinicalTrials.gov Identifier: NCT04466345",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "In a secondary analysis of an RCT, oral semaglutide improved effort-based motivation (reduced effort discounting) in patients with MDD and elevated BMI, suggesting a potential behavioral mechanism for GLP-1 agonists' emerging antidepressant benefits beyond weight loss.",
-        "why_it_matters": "Motivational and anhedonic symptoms are among the hardest MDD symptoms to treat; this gives psychiatrists early mechanistic evidence that GLP-1 agonists — already prescribed widely for weight/metabolic indications — may have direct effects on reward-related behavior relevant to depression.",
-        "caveats": "This is a secondary/exploratory analysis of a trial not originally powered for this behavioral outcome, with a modest sample (n=72); findings need replication as a primary outcome.",
-        "subspecialty_tags": [
-          "Mood Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Small RCT / Open-label"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Mood Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Small RCT / Open-label"
-        ]
-      }
-    },
-    {
-      "title": "Relationships between cannabis use and mental disorders: assessing the coherence of evidence from studies with different methodologies",
-      "citation": "Hall W, Yimer TM, Thorne RL, Hoch E, Burke C, Gridley A, et al. Relationships between cannabis use and mental disorders: assessing the coherence of evidence from studies with different methodologies. Lancet Psychiatry. 2026;13(7):604-614. doi: 10.1016/S2215-0366(26)00086-6 PMID: 42309106.",
-      "authors": "",
-      "pmid": "42309106",
-      "doi": "10.1016/S2215-0366(26)00086-6",
-      "abstract": "Cannabis use often begins in adolescence and young adulthood, when anxiety, depression, psychosis, and bipolar disorder typically first develop. Young people aged in their mid-teens to mid-twenties who engage in daily cannabis use and develop a cannabis use disorder have a higher prevalence of these mental disorders. We assessed the coherence of evidence from epidemiological, genetic, experimental, and preclinical studies to assess relationships between daily cannabis use and the increased incidence, prevalence, and persistence of psychosis, bipolar disorder, anxiety, depression, and suicidal behaviours.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Converging evidence across epidemiological, genetic, and experimental study designs supports a real (not purely confounded) relationship between daily cannabis use/cannabis use disorder and increased risk of psychosis, bipolar disorder, anxiety, depression, and suicidal behavior, particularly when use begins in adolescence.",
-        "why_it_matters": "This synthesis strengthens the case for cannabis-use screening and early-intervention counseling in adolescents and young adults, a population increasingly exposed to high-potency cannabis products amid loosening legal restrictions.",
-        "caveats": "Narrative synthesis rather than a formal systematic review/meta-analysis with quantitative pooling; causal inference from observational and genetic data remains inherently limited.",
-        "subspecialty_tags": [
-          "Addiction",
-          "Child & Adolescent",
-          "Psychotic Disorders"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Addiction",
-          "Child & Adolescent",
-          "Psychotic Disorders"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "Trauma-focused therapy integrated with cognitive behavioural therapy for psychosis for people with post-traumatic stress disorder and psychosis (the STAR trial): a multicentre, pragmatic, randomised trial in the UK",
-      "citation": "Peters E, Swan S, Underwood R, Jafari H, Varese F, Steel C et al. Trauma-focused therapy integrated with cognitive behavioural therapy for psychosis for people with post-traumatic stress disorder and psychosis (the STAR trial): a multicentre, pragmatic, randomised trial in the UK. Lancet Psychiatry. 2026;13(7):549-566. doi: 10.1016/S2215-0366(26)00090-8 PMID: 42309103.",
-      "authors": "",
-      "pmid": "42309103",
-      "doi": "10.1016/S2215-0366(26)00090-8",
-      "abstract": "Background: People with psychosis have high rates of post-traumatic stress disorder (PTSD), which is associated with a poor prognosis. We aimed to investigate the effectiveness of a trauma-focused therapy integrated with cognitive behavioural therapy for psychosis (CBTp) in people with psychosis.\nMethods: STAR was a rater-blind, parallel-group, pragmatic randomised controlled trial conducted across five UK sites. We randomly assigned (1:1) adults with co-occurring PTSD and psychosis in secondary care to trauma-focused CBTp plus treatment as usual or treatment as usual only, using randomly varying block size, stratified by site. Trauma-focused CBTp is a flexible, individualised, formulation-based therapy integrating trauma-focused therapeutic components with CBTp, lasting 9 months. The comparator was treatment as usual only, delivered by mental health services. Treatment as usual consisted of multidisciplinary care, including medication and outpatient psychiatric appointments, psychologically informed case management, and potential access to various psychotherapies, including CBTp. Therapists were doctoral-level clinical psychologists or CBT therapists with a minimum of 2 years' experience of working with patients with severe mental health problems. The primary outcome was PTSD symptom severity, assessed using the clinician-administered PTSD scale for DSM-5 (CAPS-5), at 4 months (mid-therapy) and 9 months (primary endpoint). Secondary outcomes were (1) percentage of participants showing PTSD remission from diagnosis and clinically significant change, individual symptom clusters, post-traumatic cognitions, and dissociation; (2) psychosis symptoms; (3) mood disorders; (4) psychological recovery; and (5) social functioning, assessed at the same timepoints.\nFindings: Between Oct 1, 2020, and March 20, 2023, we randomly assigned 305 participants (151 [49·5%] to treatment as usual and 154 [50·5%] to trauma-focused CBTp plus treatment as usual). The mean age of participants was 38·9 years (SD 12·4). 127 (42%) participants were men, 171 (56%) were women and seven (2%) were non-binary or preferred not to say; 232 (76%) were White. All reported repeated and multiple traumas. Of 154 in the trauma-focused CBTp plus treatment-as-usual group, 144 (94%) engaged with therapy and 146 (95%) received a minimal therapeutic dose. 267 (88%) of 305 participants attended a follow-up assessment (4 months, 9 months, or both); at 9 months, 241 (79%) participants provided primary outcome data and 169–248 (55–81%) provided secondary outcome data. There were significant effects on CAPS-5 scores (adjusted mean difference in PTSD symptom severity –8·67 [95% CI –13·41 to –3·94]; p=0·0003; Cohen's d –0·73) and on 22 (81%) of 27 secondary outcomes, unadjusted for multiple testing (Cohen's d ranging from –0·26 to –0·82), including all PTSD outcomes (except derealisation and depersonalisation); delusions, paranoia, and hallucinations in other modalities; suicidal ideation, depression, anxiety, and stress; and psychological recovery. There were no effects on voices, referential beliefs, substance use, or social functioning (Cohen's d ranging from –0·05 to –0·28). 62 (50%) of 125 participants in the therapy group showed PTSD remission compared with 25 (22%) of 116 in the treatment-as-usual group (odds ratio [OR; PTSD present] 0·11, 95% CI 0·03–0·32; p=0·0001) and 56 (45%) participants in the therapy group compared with 31 (27%) in the treatment-as-usual group had clinically significant change in CAPS-5 score (OR 4·45, 95% CI 1·59–12·44; p=0·0044; number needed to treat for PTSD remission was 4). No serious adverse event was unexpected and related to trial procedures (78 reported in each group), with the most common being physical illness or injury.\nInterpretation: Trauma-focused CBTp is safe, highly acceptable, and effective in people with co-occurring psychosis and PTSD. This underserved population should no longer be denied access to psychological interventions to treat their trauma sequelae.\nFunding: National Institute for Health and Care Research (NIHR).",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Trauma-focused therapy integrated with CBT for psychosis (CBTp) produced large, durable reductions in PTSD severity (number needed to treat = 4 for remission) in patients with comorbid psychosis and PTSD, with no worsening of psychotic symptoms or excess serious harms — supporting wider access to trauma-focused psychotherapy in this historically excluded population.",
-        "why_it_matters": "Patients with psychosis and comorbid PTSD are frequently denied trauma-focused therapy out of fear of destabilization; this large pragmatic RCT is strong evidence that integrated trauma-focused CBTp is both safe and effective, and should change referral practices.",
-        "caveats": "Rater-blind (not participant-blind) design typical of psychotherapy trials, and effects were absent for some domains (voices, referential beliefs, substance use, social functioning).",
-        "subspecialty_tags": [
-          "Psychotic Disorders",
-          "Anxiety & Trauma",
-          "Psychotherapy"
-        ],
-        "evidence_quality_tags": [
-          "Large RCT / Meta-analysis"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Psychotic Disorders",
-          "Anxiety & Trauma",
-          "Psychotherapy"
-        ],
-        "evidence_quality": [
-          "Large RCT / Meta-analysis"
-        ]
-      }
-    },
-    {
-      "title": "The pharmacogGENEtics in Youth Depression (GENE-YD) study for personalizing antidepressant pharmacotherapy for young Western Australians – A feasibility study",
-      "citation": "Roberts B, Cooper Z, Miljevic A et al. The pharmacogGENEtics in Youth Depression (GENE-YD) study for personalizing antidepressant pharmacotherapy for young Western Australians – A feasibility study. Transl Psychiatry. 2026. doi: 10.1038/s41398-026-04321-x DOI link.",
-      "authors": "",
-      "pmid": "",
-      "doi": "10.1038/s41398-026-04321-x",
-      "abstract": "Pharmacogenetic (PGx) testing to guide antidepressant prescribing is becoming increasingly available. However, its uptake into routine psychiatric practice for young people remains limited due to insufficient youth-specific evidence and uncertainty regarding optimal trial design and outcome selection.\nThis pilot study aimed to evaluate the feasibility of implementing a rigorous triple-blind randomized controlled trial to examine PGx-guided antidepressant treatment compared with treatment-as-usual (TAU) in young Australians with depression.\nThe pharmacoGENEtics in Youth Depression (GENE-YD) study recruited young people aged 16–24 years old with major depressive disorder over 13 months, allocating 1:1 to PGx-Guided treatment or TAU. Treatment Guides written by an unblinded psychiatrist on the research team, informed by participants' demographic, clinical, and PGx information, were provided to participants' prescribing clinicians who were encouraged to follow the recommendations provided on the Treatment Guide, whilst using their clinical judgement on what was appropriate for their patient. Participants were required to initiate or modify antidepressant treatment to complete Baseline assessment and be included in the analytic sample.\nClinically meaningful improvements were observed, with the PGx-Guided group showing greater reductions in depressive symptom severity, higher rates of treatment response and remission, and improved quality-of-life outcomes compared with TAU.\nThe GENE-YD Study demonstrated that a triple-blind PGx-guided antidepressant trial is feasible and acceptable in young people with depression, with preliminary indications of clinical benefit.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "A triple-blind pharmacogenetic-guided antidepressant prescribing trial is feasible and acceptable in youth with depression, with preliminary signals of greater symptom improvement than treatment-as-usual — supporting progression to a full-scale efficacy trial.",
-        "why_it_matters": "Pharmacogenetic testing for antidepressant selection is increasingly marketed directly to patients and families, but rigorous youth-specific efficacy data have been lacking; this feasibility study lays groundwork for definitive trials on whether PGx testing should become standard practice in youth depression.",
-        "caveats": "This is a feasibility pilot, not powered for efficacy; the 'clinically meaningful improvements' are preliminary, and unblinded prescriber judgment (via Treatment Guides) could have influenced outcomes.",
-        "subspecialty_tags": [
-          "Child & Adolescent",
-          "Mood Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Small RCT / Open-label",
-          "Generalizability concern"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Child & Adolescent",
-          "Mood Disorders",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Small RCT / Open-label",
-          "Generalizability concern"
-        ]
-      }
-    },
-    {
-      "title": "Trauma-Informed Principles on Informing Caregivers of Referrals to Child Protective Services",
-      "citation": "Hsiung K, DePoy AA, Gunton T, Hendricks-Johnson T, Weikel K, Crichton KG. Trauma-Informed Principles on Informing Caregivers of Referrals to Child Protective Services. J Am Acad Child Adolesc Psychiatry. 2026 Jul 3:S0890-8567(26)00293-5. doi: 10.1016/j.jaac.2026.06.025. Epub ahead of print PMID: 42398893.",
-      "authors": "",
-      "pmid": "42398893",
-      "doi": "10.1016/j.jaac.2026.06.025",
-      "abstract": "Informing caregivers of the plan to make a referral to child protective services (CPS) for concerns of child abuse or neglect is a challenging conversation. Some fears that healthcare professionals have include risk of caregiver agitation, damage to the therapeutic relationship, and litigation. Although the body of literature exploring the decision to place the referral itself is more robust, publications on how to inform the caregiver that a referral is being placed are scant. We draw on the literature and expert opinion to provide practical trauma-informed guidance in informing a caregiver of the decision to make a referral to CPS. There is a need for additional education and training to apply these principles into practice to improve confidence and competence of healthcare professionals with these ethically challenging and uncomfortable conversations.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "This practical guidance offers trauma-informed language and communication strategies for the difficult conversation of telling a caregiver that a child protective services referral is being made, addressing a gap where clinicians receive little formal training.",
-        "why_it_matters": "How this disclosure is handled affects caregiver agitation risk, the therapeutic alliance, and family engagement with subsequent care — yet most clinicians have had no structured training in it; this fills a real practice gap for anyone who works with children.",
-        "caveats": "Based on literature review and expert opinion rather than empirical outcome data testing the recommended communication strategies.",
-        "subspecialty_tags": [
-          "Child & Adolescent",
-          "Public Health & Policy"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Child & Adolescent",
-          "Public Health & Policy"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "Understanding neuroinflammation in post-COVID-19 syndrome: biological mechanisms, diagnostic biomarkers, and therapeutic prospects",
-      "citation": "Martins D, Beckman D, Loggia M, et al. Understanding neuroinflammation in post-COVID-19 syndrome: biological mechanisms, diagnostic biomarkers, and therapeutic prospects. Transl Psychiatry. 2026. doi: 10.1038/s41398-026-04286-x DOI link.",
-      "authors": "",
-      "pmid": "",
-      "doi": "10.1038/s41398-026-04286-x",
-      "abstract": "Post-COVID-19 syndrome (PCS) is an escalating global health concern, marked by persistent cognitive, neurological, and psychiatric symptoms following acute SARS-CoV-2 infection. Although its underlying mechanisms remain incompletely understood, mounting evidence implicates chronic neuroinflammation as a key driver. Sustained microglial and astrocyte activation, blood-brain barrier disruption, and aberrant cytokine signaling contribute to prolonged immune dysregulation within the central nervous system, promoting long-term brain dysfunction. In this expert review, we synthesize emerging insights into how neuroimmune processes impair brain function in PCS. We explore novel mechanistic pathways - including local sleep intrusions, impaired memory reconsolidation, and astrocyte-mediated destabilization of functional networks - that may underlie the syndrome's fluctuating and heterogeneous presentation.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Chronic neuroinflammation — via sustained microglial/astrocyte activation, blood-brain barrier disruption, and cytokine dysregulation — is emerging as a key mechanistic driver of the persistent cognitive and psychiatric symptoms of post-COVID-19 syndrome.",
-        "why_it_matters": "As post-COVID syndrome remains common and poorly understood, this mechanistic framework (including proposed pathways like local sleep intrusions and impaired memory reconsolidation) may help clinicians explain symptoms to patients and points toward future anti-inflammatory or neuroimmune treatment targets.",
-        "caveats": "Narrative expert review synthesizing mechanistic and biomarker data rather than new clinical trial evidence; the proposed diagnostic biomarkers are not yet validated for clinical use.",
+        "bottom_line": "POTS presents with palpitations, brain fog, fatigue and exercise intolerance that are easily mistaken for panic or somatic symptom disorder, so check orthostatic vitals before attributing these complaints to anxiety.",
+        "why_it_matters": "Median diagnostic delay is 24 months and roughly 70% of patients report major functional impairment, much of it after a viral illness — psychiatrists are often the first specialists these patients see. Recognizing the orthostatic tachycardia pattern redirects care toward salt, fluids, compression and graded exercise instead of an escalating anxiolytic trial.",
+        "caveats": "Narrative review rather than a systematic synthesis, and prevalence estimates remain uncertain because of underrecognition and the absence of a specific diagnostic code before 2022.",
         "subspecialty_tags": [
           "Medical Psychiatry",
-          "Neuroscience",
-          "Neurocognitive"
+          "Anxiety & Trauma"
         ],
         "evidence_quality_tags": [
           "Review / Viewpoint"
@@ -307,62 +26,61 @@
       "tags": {
         "subspecialty": [
           "Medical Psychiatry",
+          "Anxiety & Trauma"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Toward a Pluralistic Model for the Schizophrenia Spectrum—Dopamine and Beyond",
+      "citation": "Keshavan MS, Nasrallah HA, Abi-Dargham A, Grace AA, Javitt DC, Lewis DA, et al. Toward a Pluralistic Model for the Schizophrenia Spectrum—Dopamine and Beyond. JAMA Psychiatry. 2026. doi: 10.1001/jamapsychiatry.2026.1684 PMID: 42418174.",
+      "authors": "",
+      "pmid": "42418174",
+      "doi": "10.1001/jamapsychiatry.2026.1684",
+      "abstract": "Importance: Dopaminergic dysregulation has been considered the final common pathway for pathophysiology of schizophrenia and related disorders (SRD). However, this model does not adequately explain treatment resistance, cognitive impairment, negative symptoms, and marked biological heterogeneity across patients.\nObjective: To examine whether SRD are best conceptualized as resulting from a final common dopaminergic pathway or from several partially independent neurochemical mechanisms and to evaluate the implications of these models for treatment development.\nEvidence Review: Neuroimaging, postmortem and genetic investigations, pharmacologic challenge paradigms, clinical trials, and animal models published between 1980 and 2025 were synthesized. Studies were identified through expert knowledge and targeted searches of PubMed and related databases. Systematic reviews, meta-analyses, and multimodal convergent findings were emphasized.\nFindings: Positive psychotic symptoms are strongly linked to increased presynaptic dopaminergic activity in the associative striatum, which predicts response to dopamine D2 receptor antagonists. However, approximately one-third of patients exhibit treatment resistance and show no increase in striatal dopamine synthesis capacity. Increasing evidence implicates glutamatergic, gamma-aminobutyric acid (GABA)ergic, serotonergic, cholinergic, endocannabinoid, and opioidergic systems, as well as nonneurotransmitter processes including oxidative stress, mitochondrial dysfunction, and neuroinflammation. The efficacy of the muscarinic M1/M4-preferring agonist xanomeline-trospium, which lacks direct D2 receptor antagonism, suggests that nondopaminergic mechanisms can reduce psychotic symptoms. Neurochemically distinct subgroups within SRD may cut across overlapping clinical phenotypes.\nConclusions: and Relevance: Dopaminergic hyperactivity may be a key mechanism for core psychotic symptoms in many patients, but it is unlikely that dopamine dysregulation is a universal final common pathway across symptom domains. A pluralistic model—recognizing multiple interacting neurochemical and cellular processes—may better account for heterogeneity and translational failures. Future development of novel treatments may depend on biomarker-informed stratification, mechanism-based clinical trials, and integration of molecular, circuit-level, and clinical phenotypes.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Dopamine blockade is not the universal final common pathway in schizophrenia — about a third of patients show no elevation in striatal dopamine synthesis, and the efficacy of xanomeline-trospium without D2 antagonism confirms that non-dopaminergic mechanisms can treat psychosis.",
+        "why_it_matters": "This reframes treatment resistance as potentially a different neurochemical subtype rather than simply inadequate dosing or nonadherence, which supports switching mechanism rather than pushing D2 blockade higher. It also gives a rationale for the muscarinic, glutamatergic and anti-inflammatory agents now entering practice.",
+        "caveats": "Evidence review assembled through expert knowledge and targeted searches rather than a systematic protocol, and the proposed neurochemical subgroups are not yet identifiable with any validated clinical biomarker.",
+        "subspecialty_tags": [
+          "Psychotic Disorders",
+          "Psychopharmacology",
+          "Neuroscience"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Psychotic Disorders",
+          "Psychopharmacology",
+          "Neuroscience"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Neurometabolites and Antipsychotic Response in Psychosis: A Mega-Analysis",
+      "citation": "King B, Bojesen KB, Crisp C, de Bartolomeis A, de Haan L, de la Fuente-Sandoval C, et al. Neurometabolites and Antipsychotic Response in Psychosis: A Mega-Analysis. JAMA Psychiatry. 2026;83(9):939-948. doi: 10.1001/jamapsychiatry.2026.1674 PMID: 42340705.",
+      "authors": "",
+      "pmid": "42340705",
+      "doi": "10.1001/jamapsychiatry.2026.1674",
+      "abstract": "Importance: Revealing neurobiological markers of antipsychotic nonresponse in psychosis may aid outcome prediction and inform novel treatment targets.\nObjective: To examine differences in neurometabolites in antipsychotic nonresponsive compared to antipsychotic-responsive psychosis using individual participant data and meta-analysis.\nData Sources: Web of Science was searched for studies published between January 1, 1980, and November 1, 2025.\nStudy Selection: Authors of 21 eligible studies identified before August 2024 were invited to contribute individual participant data. Eighteen studies examining neurometabolites by treatment response in psychosis contributed individual participant data for the mega-analysis. These studies plus a further 5 studies were included in the meta-analyses of standardized mean differences and variability.\nData Extraction and Synthesis: Individual participant data were analyzed using linear mixed models with study as a random effect.\nResults: The mega-analysis revealed that antipsychotic nonresponse is associated with elevated levels of glutamate, Glx (the sum of glutamate and glutamine), choline, and myo-inositol in the medial frontal cortex compared to individuals who showed a good antipsychotic response and healthy controls (N = 1,189 from 18 datasets). Elevated medial frontal glutamate plus glutamine in antipsychotic nonresponders compared with responders was also observed prospectively in first-episode psychosis (Glass Δ = 0.41; P = .002), whereas myo-inositol elevations were greatest in individuals meeting criteria for treatment-resistance (Glass Δ = 0.64; P = .001). The meta-analysis of 23 studies (1844 participants) also showed elevated medial frontal choline and myo-inositol in antipsychotic nonresponse compared with response.\nConclusions: and Relevance: These findings provide evidence of an association between antipsychotic nonresponse in psychosis with elevations in medial frontal glutamate, choline, and myo-inositol. The presence of elevations in these markers supports the continued investigation of glutamate-acting and inflammatory pathway–associated interventions for psychosis and schizophrenia.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Antipsychotic nonresponse is associated with elevated medial frontal glutamate, Glx, choline and myo-inositol, with myo-inositol elevations greatest in patients meeting treatment-resistance criteria.",
+        "why_it_matters": "These are the first individual-participant-level data suggesting that nonresponse has a detectable neurochemical signature present prospectively in first-episode psychosis, which could eventually spare patients sequential failed D2 trials. It also strengthens the case for testing glutamate-acting and inflammatory-pathway interventions in this subgroup.",
+        "caveats": "Effect sizes are modest and overlapping (Glass Δ = 0.41–0.64), so spectroscopy cannot yet predict response in an individual patient, and pooled MRS data come from heterogeneous scanners and acquisition protocols.",
+        "subspecialty_tags": [
+          "Psychotic Disorders",
           "Neuroscience",
-          "Neurocognitive"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "Genetic and Hormonal Contributions to Psychosis Symptoms in Alzheimer's Disease: A Sex-Stratified Analysis",
-      "citation": "Rajkumar G, Uthayakumar H, Khoury MA, Valcic M, Rashidi-Ranjbar N, Churchill NW, et al. Genetic and Hormonal Contributions to Psychosis Symptoms in Alzheimer's Disease: A Sex-Stratified Analysis. Am J Geriatr Psychiatry. 2026;34(6):832-843. doi: 10.1016/j.jagp.2026.02.011 DOI link.",
-      "authors": "",
-      "pmid": "",
-      "doi": "10.1016/j.jagp.2026.02.011",
-      "abstract": "OBJECTIVE: Psychosis in Alzheimer's disease (AD), including hallucinations and delusions, affects up to 50% of patients and is linked to faster cognitive decline. Delusions can occur across AD, with persecutory delusions early and misidentification delusions late, while hallucinations emerge in advanced stages and predict greater cognitive and functional decline. The APOE4 allele is the strongest genetic risk factor for late-onset AD, although its influence on neuropsychiatric symptoms, including psychosis, remains unclear. This study examined the interaction between APOE4 status, sex, estrogen hormone therapy (EHT) use, and psychosis symptoms in AD using data from participants in the National Alzheimer's Coordinating Center Uniform Data Set.\nMETHODS: Generalized Additive Models assessed nonlinear associations between predictors and psychosis outcomes, including the presence of delusions, hallucinations, and their visual and auditory subtypes. Analyses were stratified by sex (males: n = 13,841, females: n = 15,354). Predictor variables included APOE4 status and current use of estrogen hormone therapy (EHT) in females.\nRESULTS: APOE4 homozygosity increases the risk of psychosis in Alzheimer's disease in a symptom- and sex-specific manner, being positively associated with hallucinations and delusions in females and with delusions only in males. In sex-stratified analyses, APOE4 homozygosity in women was associated with greater odds for delusions (OR 1.26; P<.01) and hallucinations (OR 1.29; P<.05). Additionally, estrogen hormone therapy was associated with reduced odds of experiencing hallucinations in females, pointing to hormonal regulation as a key modifier of certain psychosis features.\nCONCLUSIONS: These findings underscore sex-specific genetic and biological contributors to psychosis in AD and support sex-stratified approaches to understanding and addressing psychosis symptoms in clinical settings. The findings underscore the importance of considering sex- and symptom-specific mechanisms in AD psychosis, highlighting the need for targeted, sex- and hormone-informed approaches to clinical evaluation and intervention.\nClinical Reviews & Meta-Analyses",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "APOE4 homozygosity raises the risk of psychosis symptoms in Alzheimer's disease in a sex-specific pattern — associated with both delusions and hallucinations in women but only delusions in men — while estrogen hormone therapy was linked to reduced hallucination risk in women, pointing to hormonal modulation of AD psychosis.",
-        "why_it_matters": "These findings support considering sex and hormonal status when assessing and counseling patients about psychosis risk in Alzheimer's disease, and raise estrogen signaling as a potential protective factor worth further study.",
-        "caveats": "Large but observational registry-based analysis (NACC dataset); estrogen hormone therapy status was not randomized, so confounding by indication cannot be excluded.",
-        "subspecialty_tags": [
-          "Geriatric Psychiatry",
-          "Neurocognitive",
-          "Women's Mental Health"
-        ],
-        "evidence_quality_tags": [
-          "Observational / Case series"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Geriatric Psychiatry",
-          "Neurocognitive",
-          "Women's Mental Health"
-        ],
-        "evidence_quality": [
-          "Observational / Case series"
-        ]
-      }
-    },
-    {
-      "title": "Pharmacological Interventions for Weight Reduction in Patients With Schizophrenia Treated With Antipsychotics: A Systematic Review and Network Meta-Analysis",
-      "citation": "Stogios N, Agarwal SM, Maksyutynska K, Faisal H, Pless LL, Pillinger T et al. Pharmacological Interventions for Weight Reduction in Patients With Schizophrenia Treated With Antipsychotics: A Systematic Review and Network Meta-Analysis. JAMA Psychiatry. 2026;:e261814. doi: 10.1001/jamapsychiatry.2026.1814 PMID: 42418179.",
-      "authors": "",
-      "pmid": "42418179",
-      "doi": "10.1001/jamapsychiatry.2026.1814",
-      "abstract": "Question: Which pharmacological interventions are associated with reducing body weight in individuals with schizophrenia spectrum disorders (SSDs) treated with antipsychotics?\nFindings: In this systematic review and network meta-analysis of 95 randomized clinical trials published between 1965 and 2025 involving approximately 5,900 adults with SSDs, 39 independent pharmacological interventions were evaluated. Semaglutide was associated with the greatest weight reduction (approximately 11 kg [~24 lb] compared with placebo), the largest effect among all interventions studied. Liraglutide, topiramate, metformin, and exenatide were also associated with meaningful weight reductions (ranging from approximately 3 kg to just over 5 kg), supported by moderate-certainty evidence.\nMeaning: These results help clarify the relative positioning of commonly used and emerging pharmacological strategies for antipsychotic-associated weight gain in patients with schizophrenia spectrum disorders.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "Among pharmacological options for antipsychotic-associated weight gain, semaglutide produced by far the greatest weight loss (~11 kg vs placebo) in this network meta-analysis, with liraglutide, topiramate, metformin, and exenatide showing smaller but meaningful benefit — helping clinicians rank-order add-on options.",
-        "why_it_matters": "Antipsychotic-induced weight gain remains a major driver of cardiometabolic morbidity and treatment discontinuation in schizophrenia; this network meta-analysis gives psychiatrists comparative effect sizes to guide selection of adjunctive pharmacotherapy, with semaglutide now the clear frontrunner.",
-        "caveats": "Included trials span six decades (1965-2025) with heterogeneous populations and dosing, and access/cost barriers to GLP-1 agonists like semaglutide may limit real-world applicability of the top-ranked option.",
-        "subspecialty_tags": [
-          "Psychotic Disorders",
-          "Psychopharmacology",
-          "Medical Psychiatry"
+          "Psychopharmacology"
         ],
         "evidence_quality_tags": [
           "Large RCT / Meta-analysis"
@@ -371,64 +89,343 @@
       "tags": {
         "subspecialty": [
           "Psychotic Disorders",
+          "Neuroscience",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis"
+        ]
+      }
+    },
+    {
+      "title": "Circadian Rhythm Stabilization App to Prevent Mood Episode Recurrence in Patients With Mood Disorders: A Multicenter, Double-Blind, Sham-Controlled, Randomized Clinical Trial",
+      "citation": "Yeom JW, Jeong J, Moon E, Park YM, Lee MS, Yoon HK, et al. Circadian Rhythm Stabilization App to Prevent Mood Episode Recurrence in Patients With Mood Disorders: A Multicenter, Double-Blind, Sham-Controlled, Randomized Clinical Trial. Am J Psychiatry. 2026;183(9):657-667. doi: 10.1176/appi.ajp.20251008 PMID: 42337416.",
+      "authors": "",
+      "pmid": "42337416",
+      "doi": "10.1176/appi.ajp.20251008",
+      "abstract": "Objective: Preventing recurrence is essential for improving the clinical course of major depressive disorder (MDD) and bipolar disorder (BD). The authors developed the Circadian Rhythm for Mood (CRM) smartphone app, which provides individualized 3-day circadian rhythm stability forecasts and personalized feedback on light exposure targets, daily instability, and mood tracking, using passive wearable data (step count, heart rate, ambient light, sleep timing) via a Fitbit device.\nMethods: This multicenter, double-blind, sham-controlled randomized clinical trial enrolled 93 adults aged 19–70 with MDD or bipolar I or II disorder across five hospitals in South Korea. All participants were clinically stable for at least two months but had experienced a mood episode within the previous two years. Participants were randomly assigned to receive either the active CRM app or a sham app (identical in appearance but providing only generic, non-circadian-related feedback), both added to treatment as usual, for 12 months. The modified intent-to-treat analysis included 80 participants.\nResults: The CRM group experienced significantly fewer mood episode recurrences over the 12-month follow-up compared with the sham group (incidence rate ratio [IRR] = 3.39; 95% CI 1.19–6.40; p = 0.018). The effect was most pronounced for depressive episodes (48 of 68 total recurrent episodes; IRR = 2.85; q = 0.009). A large apparent effect was observed for hypomanic episodes (IRR = 15.32; q = 0.017), though this was based on only 16 episodes with a wide confidence interval. Manic episodes were too infrequent (n = 4) to draw firm conclusions (IRR = 3.28; q = 0.514).\nConclusions: The CRM smartphone app, paired with a wrist-worn wearable activity tracker, significantly reduced mood episode recurrence in patients with MDD and bipolar disorder compared with a sham intervention. These findings support the CRM app as an innovative, scalable digital chronotherapeutic adjunct to standard care for mood disorders.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "A circadian rhythm stabilization app paired with a Fitbit significantly reduced mood episode recurrence over 12 months in euthymic patients with MDD or bipolar disorder, with the clearest benefit for depressive episodes.",
+        "why_it_matters": "This is a sham-controlled test of a digital chronotherapeutic as maintenance adjunct, an area where most apps have no recurrence data at all. It offers a low-risk, scalable addition for stable patients with a recent episode, where the remaining options are largely medication adjustments.",
+        "caveats": "Only 80 patients in the modified intent-to-treat analysis across five South Korean hospitals, and the striking hypomania result rests on just 16 episodes with a very wide confidence interval.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Sleep"
+        ],
+        "evidence_quality_tags": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Sleep"
+        ],
+        "evidence_quality": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "School-based intervention study examining universal approaches for depressive symptoms and mental health literacy of pupils in Year 9 in England (AWARE): multi-school, parallel group, cluster randomised controlled trial",
+      "citation": "Deighton J, Hayes D, Thompson A, March A, Thornton E, Santos J, et al. School-based intervention study examining universal approaches for depressive symptoms and mental health literacy of pupils in Year 9 in England (AWARE): multi-school, parallel group, cluster randomised controlled trial. Br J Psychiatry. 2026:1-10. doi: 10.1192/bjp.2026.10667 PMID: 42565291.",
+      "authors": "",
+      "pmid": "42565291",
+      "doi": "10.1192/bjp.2026.10667",
+      "abstract": "Background: Mental health problems in adolescents are increasing. Universal school-based interventions may play an important preventative role.\nAims: The aim of the Approaches for Well-being and Mental Health Literacy: Research in Education (AWARE) trial was to evaluate two universal, school-based interventions that previously yielded evidence of impact in other countries: Youth Aware of Mental Health (YAM) and The Mental Health and High School Curriculum Guide (The Guide).\nMethod: AWARE was a multi-school, parallel group, cluster randomised controlled trial in English secondary schools. Schools were allocated on a 1:1:1 ratio to one of two interventions or a usual practice control group, balanced on current levels of mental health provision within schools, school location, deprivation and urbanicity. Eligible participants were pupils in schools across England in Year 9 (aged 13–14 years) at baseline. The statistician, quantitative data analyst and economist were masked. Primary outcomes were depressive symptoms measured with the Short Mood and Feelings Questionnaire for YAM and intended help-seeking, measured with the General Help Seeking Questionnaire for The Guide (both at 3–6 months).\nResults: 153 schools were randomised, including 12 166 pupils (NYAM = 4028 pupils, Nguide = 3997 pupils, Ncontrol = 4141 pupils). We found that for YAM vs control (N = 5516) there was no improvement in depressive symptoms (s.m.d. = 0.02; 95% CI –0.05 to 0.10), and for The Guide vs control (N = 5409) we found increased intended help-seeking compared with the control group (s.m.d. = 0.10; 95% CI 0.02 to 0.19). A notable minority of schools were unable to deliver YAM because of challenges in implementing it. Increased depressive symptoms scores were observed in both intervention conditions, compared with control at the longer-term follow-up.\nConclusions: The findings indicate that participating in The Guide is effective at improving intended help-seeking. However, due to the increases in depressive symptoms associated with each intervention at the long-term follow-up, further consideration is needed before widespread implementation of these interventions in England.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "In 153 English schools and over 12,000 pupils, the YAM program did not improve depressive symptoms and The Guide produced only a small gain in intended help-seeking, while both interventions were associated with higher depressive symptom scores at longer-term follow-up.",
+        "why_it_matters": "Universal school-based mental health programs are being scaled widely on the strength of trials from other countries, and this large pragmatic replication did not reproduce those benefits. Psychiatrists asked to endorse or advise on school programs should know that the long-term symptom signal argues for caution rather than broad rollout.",
+        "caveats": "A notable minority of schools could not deliver YAM because of implementation difficulties, so the null result partly reflects delivery failure, and the long-term symptom increase was not a primary outcome.",
+        "subspecialty_tags": [
+          "Child & Adolescent",
+          "Public Health & Policy"
+        ],
+        "evidence_quality_tags": [
+          "Large RCT / Meta-analysis"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Child & Adolescent",
+          "Public Health & Policy"
+        ],
+        "evidence_quality": [
+          "Large RCT / Meta-analysis"
+        ]
+      }
+    },
+    {
+      "title": "Changes in Genetic Contributions to ASD and ADHD by Year of Diagnosis",
+      "citation": "LaBianca S, Lousdal ML, Krebs MD, Hansen OS, Hellberg KLG, Lundberg M, et al. Changes in Genetic Contributions to ASD and ADHD by Year of Diagnosis. JAMA Psychiatry. 2026;83(9):921-929. doi: 10.1001/jamapsychiatry.2026.1450 PMID: 42268594.",
+      "authors": "",
+      "pmid": "42268594",
+      "doi": "10.1001/jamapsychiatry.2026.1450",
+      "abstract": "Importance: The incidences of attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) have increased markedly over recent decades, raising concerns about the emergence of new risk factors. Current literature typically attributes increased rates to changes in diagnostic practice, stigmatization, and awareness, but critically few studies have explored changes in underlying risk factors.\nObjective: To assess changes in the genetic risk profile of individuals diagnosed with ASD or ADHD by year of incident diagnosis and explore results in comparison with those expected under simulated scenarios.\nDesign, Setting, and Participants: This cohort study used data from the Lundbeck Foundation Initiative for Integrative Psychiatric Research (iPSYCH2015) study, a population-based case-cohort in Denmark among individuals with incident diagnoses for ASD and ADHD made from 1994 to 2016. Data were analyzed from January 2024 until September 2025.\nExposure: Year of incident diagnosis. Regression models tested changes in the mean genetic risk profile of individuals diagnosed in each consecutive year (1994-2016), adjusting for age, sex, and ancestry.\nMain Outcomes and Measures: Polygenic scores for psychiatric (ADHD, ASD, depression, bipolar, and schizophrenia) and cognitive-behavioral (addiction, educational attainment, IQ, neuroticism, and risk-taking) outcomes were used to capture genetic risk profiles of diagnosed individuals. Empirical trends were compared with those expected under different simulated drivers of increasing rates.\nResults: A more recent ADHD diagnosis was associated with decreased genetic risk for ADHD as shown by difference in mean polygenic score (β estimate per 10-year increase, −0.06 SDs; 95% CI, −0.09 to −0.03 SDs; P = .001) and other disorders, including ASD, bipolar, and schizophrenia (eg, ASD: β per 10-year increase, −0.07 SDs; 95% CI, −0.10 to −0.03 SDs; P < .001). Similarly, a more recent ASD diagnosis was associated with decreased genetic risk for ASD (β per 10-year increase, −0.07 SDs; 95% CI, −0.10 to −0.04 SDs; P < .001) and other disorders and traits, including bipolar disorder, schizophrenia, and educational attainment (eg, bipolar disorder: β per 10-year increase, −0.05 SDs; 95% CI, −0.08 to −0.02 SDs; P = .001).\nConclusions: and Relevance: By analyzing multiple polygenic scores together with simulated expectations, this study could disambiguate among competing hypotheses about scenarios that may be associated with increased rates of ADHD and ASD diagnoses. Findings support broadening diagnostic criteria as an explanation for increasing rates, with implications for understanding changes in risk factors and clinical practice.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "In a Danish population cohort, people diagnosed with ADHD or autism in more recent years carried progressively lower polygenic risk for those conditions, a pattern consistent with broadening diagnostic criteria rather than new environmental risk factors.",
+        "why_it_matters": "This gives a concrete, testable answer to the question patients and parents keep asking about why diagnoses have surged, and it supports the explanation that ascertainment has widened. It also implies that recently diagnosed cohorts are, on average, less genetically loaded than those in earlier research, which matters when extrapolating older literature to current patients.",
+        "caveats": "Register-based observational data from a single Danish cohort restricted largely to European ancestry, and polygenic scores capture only a fraction of heritability, so the inference rests on comparison with simulated scenarios rather than direct measurement.",
+        "subspecialty_tags": [
+          "Child & Adolescent",
+          "Neuroscience",
+          "Public Health & Policy"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Child & Adolescent",
+          "Neuroscience",
+          "Public Health & Policy"
+        ],
+        "evidence_quality": [
+          "Observational / Case series",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Escitalopram and brain reactivity to aggressive stimuli in premenstrual dysphoric disorder",
+      "citation": "Dubol M, Gröndal M, Schmidt F, Fisher PM, Frokjaer VG, Wikström J, et al. Escitalopram and brain reactivity to aggressive stimuli in premenstrual dysphoric disorder. Br J Psychiatry. 2026:1-9. doi: 10.1192/bjp.2026.10721 PMID: 42515970.",
+      "authors": "",
+      "pmid": "42515970",
+      "doi": "10.1192/bjp.2026.10721",
+      "abstract": "Background: Premenstrual dysphoric disorder (PMDD) is a condition linked to the menstrual cycle and characterised by cyclic emotional distress, irritability and anger, which can disrupt social functioning. Intermittent selective serotonin reuptake inhibitor treatment is effective in alleviating symptoms, yet the neural underpinnings of its efficacy in PMDD remain unknown.\nAims: This randomised, placebo-controlled trial aimed to evaluate the impact of intermittent escitalopram treatment on PMDD symptoms and aggressiveness, and on neural responses to social provocation.\nMethod: Women with PMDD were randomised to receive either intermittent escitalopram (20 mg/day) or placebo during the luteal phase. Outcomes of interest were changes in mood (assessed by the Daily Record of Severity of Problems), self-rated state aggression (measured by the Aggression Questionnaire), and brain reactivity to aggressive stimuli assessed via functional magnetic resonance imaging (fMRI) in combination with the Point Subtraction Aggression Paradigm (PSAP).\nResults: Intermittent escitalopram treatment significantly reduced PMDD symptoms compared with placebo, in particular irritability or anger (Cohen's d = -0.93, 95% CI [-1.48, -0.38]). Aggressiveness, which was positively associated with these symptoms (Pearson's r = 0.33, 95% CI [0.06, 0.55]), diminished following treatment (Cohen's d = -0.42, 95% CI [1.4 × 10-4, 0.84]), with the reduction in irritability or anger partly mediating this association (standardised indirect effect -0.32, 95% CI [-0.77, -0.03]). Escitalopram treatment was nominally associated with lower reactivity to provocation in the anterior insula, and anterior insula reactivity positively related to irritability or anger at follow-up.\nConclusions: This randomised controlled trial confirms escitalopram as an effective treatment for PMDD and points to a potential neural mechanism—modulation of anterior insula reactivity to social provocation—underlying the therapeutic effects of SSRIs on irritability and aggressiveness in PMDD.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Intermittent luteal-phase escitalopram 20 mg reduced PMDD symptoms with a large effect on irritability and anger (d = -0.93) and lowered self-rated aggression, with reduced anterior insula reactivity to provocation as a candidate mechanism.",
+        "why_it_matters": "It confirms that luteal-phase-only dosing works for the irritability and anger that drive most of the interpersonal damage in PMDD, supporting intermittent rather than continuous SSRI exposure. The imaging findings begin to explain why SSRIs act within days in PMDD rather than over weeks as in depression.",
+        "caveats": "Small imaging trial in which the anterior insula finding was only nominally significant and would likely not survive correction for multiple comparisons.",
+        "subspecialty_tags": [
+          "Women's Mental Health",
           "Psychopharmacology",
-          "Medical Psychiatry"
+          "Neuroscience"
+        ],
+        "evidence_quality_tags": [
+          "Small RCT / Open-label"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Women's Mental Health",
+          "Psychopharmacology",
+          "Neuroscience"
         ],
         "evidence_quality": [
-          "Large RCT / Meta-analysis"
+          "Small RCT / Open-label"
         ]
       }
     },
     {
-      "title": "Systematic Review and Meta-Analysis: Prevalence, Correlates, and Impact of Cannabis Use and Cannabis Use Disorder in Early-Onset Psychosis",
-      "citation": "Salazar de Pablo G, Laherran-Cantera N, Aymerich C, Galvañ J, Palacios-Garrán R, Armyra E, et al. Systematic Review and Meta-Analysis: Prevalence, Correlates, and Impact of Cannabis Use and Cannabis Use Disorder in Early-Onset Psychosis. J Am Acad Child Adolesc Psychiatry. 2026 Jun 22:S0890-8567(26)00277-7. doi: 10.1016/j.jaac.2026.06.012. Epub ahead of print PMID: 42331312.",
+      "title": "Reliability of psychiatric diagnoses in the 21st century",
+      "citation": "Boberg M, Henriksen MG, Berge J, Fascendini N, Jandl M, Karakuła-Juchnowicz H, et al. Reliability of psychiatric diagnoses in the 21st century. Front Psychiatry. 2026;17:1891625. doi: 10.3389/fpsyt.2026.1891625 PMID: 42591784.",
       "authors": "",
-      "pmid": "42331312",
-      "doi": "10.1016/j.jaac.2026.06.012",
-      "abstract": "Objective: To quantify the prevalence of cannabis use (CU) and cannabis use disorders (CUD) in Early-Onset Psychosis (EOP; <18 years) and examine their correlates, clinical and functional impact.\nMethod: This PRISMA-compliant systematic review and meta-analysis (CRD420251070701) searched six databases until 1/7/2025, for studies evaluating CU/CUD in EOP. Data were extracted by independent researchers, and quality assessment was conducted using the Newcastle-Ottawa Scale. Heterogeneity, publication bias, subgroup and meta-regression analyses were performed. A narrative synthesis was conducted.\nResults: Forty studies (N=3,473; age=16.2±1.6 years; male=59%) were included. In EOP, pooled prevalence was for current CU 32.8% (95%CI=18.5-51.2), for lifetime CU 40.2% (95%CI=31.3-49.7), and for lifetime CUD 36.6% (95%CI=18.2-59.9). In meta-regression analyses, current CU was associated with male sex (β=0.012, p=0.021) and hospitalization rates (β=0.006, p=0.021), but with less severe negative symptoms (β=-0.191, p=0.001) and lower proportion of schizophrenia diagnosis (β=-0.026, p=0.049). Lifetime CU was associated with cocaine use (β=0.101, p=0.003) and again less severe negative symptoms (β=-0.173, p=0.030). Our narrative synthesis indicated that CU commonly preceded psychosis onset, and was linked to negative outcomes (e.g. longer duration of untreated psychosis and higher hospitalization rates) in EOP. Study quality was mostly fair (67.5%); GRADE certainty ranged from low to moderate.\nConclusion: CU and CUD are common in EOP and relate to clinical presentation. Screening and integrated substance use care should be embedded in primary care and clinical settings. Further longitudinal studies and randomized clinical trials to evaluate the efficacy of interventions to reduce CU and CUD are needed.",
-      "edition": "June/July 2026",
+      "pmid": "42591784",
+      "doi": "10.3389/fpsyt.2026.1891625",
+      "abstract": "Background: Reliable diagnosis is a cornerstone of medical practice, yet concerns about diagnostic reliability have long haunted psychiatry. In the 1970s, the US–UK Diagnostic Project revealed striking international discrepancies in diagnostic practice. Although operationalized diagnostic criteria were introduced to improve reliability, contemporary evidence indicates that substantial problems persist. To investigate this, we conducted a large-scale international study of diagnostic reliability among medical doctors using standardized clinical case vignettes.\nMaterial and methods: In this cross-sectional study, medical doctors working in adult psychiatry across 19 countries from two continents assigned ICD-10 diagnoses to written cases. Each doctor was randomly assigned two of nine available cases. Inter-rater reliability among medical doctors was assessed using Krippendorff's α. Diagnostic variability at case-level was quantified using Shannon entropy. We also calculated diagnostic accuracy as concordance with predefined best-estimate reference diagnoses.\nResults: A total of 1,038 medical doctors provided 1,902 diagnostic assessments across nine cases. Inter-rater reliability among medical doctors was modest (Krippendorff's α = 0.48, CI: 0.46–0.51). Stratifying by doctor type, Krippendorff's α was 0.50 (CI 0.47–0.53) for psychiatrists and 0.45 for psychiatric residents. Overall diagnostic accuracy was 66%, with the lowest accuracy observed for cases depicting schizophrenia spectrum disorders. Diagnostic disagreements followed systematic patterns, with schizophrenia cases frequently misclassified as OCD, personality disorder, or other diagnoses.\nConclusions: Diagnostic inter-rater reliability among medical doctors remains limited, even under standardized conditions. The observed patterns of misclassification suggest that the variability in diagnostic assessments reflects systematic differences in clinical conceptualization rather than random error. Our conclusion echoes that of Spitzer and Fleiss, who stated that the reliability of psychiatric diagnosis \"is not good.\" Despite the introduction of operational diagnostic criteria and rule-based classification, the overall reliability of psychiatric diagnosis assessed on written clinical cases remains poor.",
+      "edition": "August 2026",
       "clinical_card": {
-        "bottom_line": "Roughly a third of youth with early-onset psychosis currently use cannabis and over a third meet criteria for lifetime cannabis use disorder, with cannabis use typically preceding psychosis onset and linked to longer untreated psychosis and higher hospitalization rates — reinforcing the need for embedded substance-use screening in early psychosis care.",
-        "why_it_matters": "This is among the largest syntheses of cannabis use in early-onset (<18) psychosis, giving clinicians concrete prevalence estimates and clinical correlates to guide routine substance-use screening and integrated care in youth psychosis services.",
-        "caveats": "Study quality was mostly rated 'fair' with wide confidence intervals on prevalence estimates and GRADE certainty ranging low to moderate; the negative-symptom findings run counter to some assumptions and warrant cautious interpretation.",
+        "bottom_line": "Across 1,038 doctors in 19 countries rating standardized vignettes, inter-rater reliability for ICD-10 diagnoses was modest (Krippendorff's α = 0.48) and accuracy was 66%, with schizophrenia spectrum cases the least reliably identified and often labeled OCD or personality disorder.",
+        "why_it_matters": "Operationalized criteria were introduced precisely to fix this, and they have not — which is a direct argument for corroborating history, longitudinal observation and second opinions before committing a patient to a schizophrenia spectrum diagnosis. The errors were systematic rather than random, suggesting differences in how clinicians conceptualize disorders, not mere carelessness.",
+        "caveats": "Written vignettes strip away the longitudinal course, collateral history and direct observation that clinicians actually use, so these figures likely understate real-world reliability.",
         "subspecialty_tags": [
-          "Child & Adolescent",
-          "Addiction",
-          "Psychotic Disorders"
+          "Psychotic Disorders",
+          "Public Health & Policy"
         ],
         "evidence_quality_tags": [
-          "Large RCT / Meta-analysis",
+          "Observational / Case series",
           "Generalizability concern"
         ]
       },
       "tags": {
         "subspecialty": [
-          "Child & Adolescent",
-          "Addiction",
-          "Psychotic Disorders"
+          "Psychotic Disorders",
+          "Public Health & Policy"
         ],
         "evidence_quality": [
-          "Large RCT / Meta-analysis",
+          "Observational / Case series",
           "Generalizability concern"
         ]
       }
     },
     {
-      "title": "The Role of Perioperative Intranasal Insulin Administration in Preventing Postoperative Delirium: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
-      "citation": "Amin AM, Mansour A, Sharkawy AM, Makhlouf HA, Mansour A, Gamil N, et al. The Role of Perioperative Intranasal Insulin Administration in Preventing Postoperative Delirium: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Am J Geriatr Psychiatry. 2026. doi: 10.1016/j.jagp.2025.12.017 DOI link.",
+      "title": "Nature and the mind: Towards nature-based mental health care and prevention",
+      "citation": "Vivaldi G, Chukwusa E, Bridge N, Smythe M, Bakolis I, Page L, et al. Nature and the mind: Towards nature-based mental health care and prevention. PLOS Ment Health. 2026;3(8):e0000647. doi: 10.1371/journal.pmen.0000647 PMID: 42647448.",
       "authors": "",
-      "pmid": "",
-      "doi": "10.1016/j.jagp.2025.12.017",
-      "abstract": "What is the primary question addressed by this study?\nThis meta-analysis evaluates the efficacy of intranasal insulin in reducing the incidence of postoperative delirium and postoperative cognitive dysfunction in adult surgical patients.\nBackground:\nPostoperative delirium (POD) is a serious problem affecting 15%–53% of older adults after surgery and 70%–87% of patients in intensive care units. POD is characterized by restlessness, irritability, difficulty focusing, hallucination, and slurred speech. Intranasal insulin (INI) is a new therapy that may have a protective effect against perioperative neurocognitive disorders by regulating key physiological processes. We conducted a systematic review and meta-analysis to determine the efficacy of perioperative administration of INI in reducing the incidence of POD and postoperative cognitive dysfunction (POCD) and its effects on inflammatory biomarkers.\nMethods:\nA comprehensive search on 4 databases was conducted to retrieve the relevant articles. This systematic review and meta-analysis follow the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and adhere to the Cochrane Handbook for Systematic Reviews of Interventions. The study was prospectively registered on PROSPERO (ID: CRD42025635178). Using a random-effects model, data were pooled as risk ratios (RR) or mean differences (MD) with 95% confidence intervals (CI). The comparator was intranasal saline administration.\nResults: (What is the main finding of this study?):\nIntranasal insulin significantly reduced the incidence of postoperative delirium (RR = 0.39) and cognitive dysfunction (RR = 0.51) while decreasing inflammatory markers like IL-6 and TNF-α. Our results revealed that INI significantly lowered the probability of developing POD and POCD compared to the control group, with significant improvements with both 20 IU and 40 IU doses. As demonstrated in our subgroup analysis, the results remain consistent with a reduction in all assessment times.\nConclusions: (What is the meaning of the finding?):\nIntranasal insulin represents a promising brain-targeted, anti-inflammatory intervention for preventing perioperative neurocognitive disorders. Perioperative INI is an ideal therapy for decreasing the risk of POD and POCD in adult surgical patients. Most importantly, since INI has been shown to attenuate neuroinflammation in several trials, clinicians may be willing to consider prophylactic therapy with INI, especially at doses between 20 and 40 IU.\nInteresting Viewpoints",
-      "edition": "June/July 2026",
+      "pmid": "42647448",
+      "doi": "10.1371/journal.pmen.0000647",
+      "abstract": "The United Kingdom (UK) Government's recent 10 Year Health Plan for England aims to fix a \"broken\" and increasingly unaffordable health system through a shift from sickness to prevention, hospital to community, and analogue to digital, with a focus on mental as well as physical health. However, the 171-page strategy for a healthy nation does not contain a single reference to nature or biodiversity. We review the significant benefits of nature and biodiversity to health and outline how these benefits can and should be incorporated into the 10 Year Health Plan. We provide examples of effective approaches and techniques, describe challenges to implementation, and propose potential solutions. We focus on mental health, although many benefits will also apply to physical health. Harnessing nature and biodiversity could play a substantial role in supporting the UK's revised goals, particularly preventing illness and enhancing treatment at the community level.",
+      "edition": "August 2026",
       "clinical_card": {
-        "bottom_line": "In a meta-analysis of RCTs, perioperative intranasal insulin significantly reduced postoperative delirium (RR 0.39) and postoperative cognitive dysfunction (RR 0.51) alongside reductions in inflammatory markers, suggesting a promising and low-risk adjunct for delirium prevention in surgical patients.",
-        "why_it_matters": "Postoperative delirium is common, morbid, and has few effective preventive pharmacologic options; intranasal insulin is inexpensive, non-invasive, and mechanistically plausible via anti-inflammatory effects, making this a finding worth watching for perioperative psychiatric consultation practice.",
-        "caveats": "Meta-analysis of a still-limited RCT literature on a relatively novel intervention; dosing (20 vs 40 IU) and patient populations varied across included trials.",
+        "bottom_line": "The UK's 171-page 10 Year Health Plan for England contains no reference to nature or biodiversity despite a substantial evidence base linking green space exposure to mental health, and the authors set out how nature-based approaches could be built into prevention and community care.",
+        "why_it_matters": "Nature-based prescribing is a low-cost, low-risk adjunct that psychiatrists can recommend now for patients with limited access to therapy. The piece is also useful as an advocacy reference for anyone involved in service design or policy comment.",
+        "caveats": "A policy viewpoint rather than new data, focused on the UK context, and it does not systematically weigh the quality of the underlying evidence it cites.",
         "subspecialty_tags": [
-          "Geriatric Psychiatry",
-          "Neurocognitive",
-          "Medical Psychiatry"
+          "Public Health & Policy"
+        ],
+        "evidence_quality_tags": [
+          "Review / Viewpoint"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Public Health & Policy"
+        ],
+        "evidence_quality": [
+          "Review / Viewpoint"
+        ]
+      }
+    },
+    {
+      "title": "Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study",
+      "citation": "Cuttler C, Proctor MA, Glodosky NC, Rahimi Azghan R, Fisher ZDG, Ghasemzadeh H, et al. Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study. Neuropsychopharmacology. 2026 Aug 22 . doi: 10.1038/s41386-026-02533-9 PMID: 42632818.",
+      "authors": "",
+      "pmid": "42632818",
+      "doi": "10.1038/s41386-026-02533-9",
+      "abstract": "People who use cannabis commonly report stress-relieving effects, yet no studies have simultaneously assessed the acute effects of cannabis on multiple stress systems under placebo-controlled conditions. We conducted a randomized, double-blind, placebo-controlled trial in which 120 people (56 men, 52 women, 12 non-binary/transgender) who regularly use cannabis were assigned to vape placebo, a moderate dose (20 mg Δ9-tetrahydrocannabinol [THC]), or a high dose (40 mg THC) of cannabis. Stress ratings and salivary cortisol samples were obtained before (T0), 5 minutes (T1), and 60 minutes (T2) after vaping. Participants wore an Embrace wristband continuously measuring electrodermal activity (EDA), heart rate (HR), and heart rate variability (HRV). These findings indicate that cannabis intoxication divergently modulates stress physiology, attenuating neuroendocrine and electrodermal responses while elevating cardiovascular arousal and producing subjective stress reductions comparable to placebo. Thus, common perceptions of stress relief do not reflect uniform suppression of stress-related outcomes. This has important implications for the widespread use of cannabis as a coping strategy.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Vaped cannabis at 20 mg or 40 mg THC blunted cortisol and electrodermal stress responses but raised heart rate and lowered HRV, and produced subjective stress relief no greater than placebo.",
+        "why_it_matters": "Patients who use cannabis specifically to cope with stress are describing an effect this placebo-controlled study could not detect subjectively, which is a concrete talking point for motivational work. The divergence also matters for patients with cardiac risk, since the cardiovascular arousal persists even as the neuroendocrine response is suppressed.",
+        "caveats": "Acute laboratory dosing in 120 regular cannabis users, so tolerance is likely and the findings may not extend to occasional users or to chronic real-world stress.",
+        "subspecialty_tags": [
+          "Addiction",
+          "Neuroscience"
+        ],
+        "evidence_quality_tags": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Addiction",
+          "Neuroscience"
+        ],
+        "evidence_quality": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Pramipexole treatment and substance use disorder risk in unipolar and bipolar depression: a Swedish nationwide register study",
+      "citation": "Lindström S, Wolfschlag M, Håkansson A, Berge J. Pramipexole treatment and substance use disorder risk in unipolar and bipolar depression: a Swedish nationwide register study. Front Psychiatry. 2026;17:1919633. doi: 10.3389/fpsyt.2026.1919633 PMID: 42638752.",
+      "authors": "",
+      "pmid": "42638752",
+      "doi": "10.3389/fpsyt.2026.1919633",
+      "abstract": "Background: Over the past decades, evidence supporting the antidepressant efficacy of the dopamine agonist pramipexole as an augmentation strategy in mood disorders has accumulated. While dopaminergic treatments have been associated with behavioural adverse effects, the relationship between pramipexole treatment and incident substance use disorder in psychiatric populations remains poorly understood. Substance use disorder has not emerged as a reported adverse outcome in published studies of pramipexole in psychiatric populations. However, existing studies have primarily focused on antidepressant efficacy, short-term safety, and behavioural adverse effects during relatively brief periods of follow-up. Nationwide healthcare registers offer a complementary pharmacoepidemiological approach by enabling the study of uncommon or delayed outcomes in large populations treated under real-world conditions and over extended follow-up periods.\nObjective: To examine the association between cumulative pramipexole exposure and incident substance use disorder among individuals with unipolar depression or bipolar disorder. We further examined whether this association differed between unipolar depression and bipolar disorder and whether the findings indicated an exposure–response pattern.\nMethods: We utilised data from Swedish national registries to conduct a nationwide cohort study including individuals with unipolar depression or bipolar disorder treated in specialised mental health care (n = 3105) who were prescribed pramipexole. Cumulative pramipexole exposure was modelled longitudinally and analysed as a time-varying variable. The primary outcome was incident substance use disorder identified in specialised healthcare registers. Associations were examined using Cox proportional hazards models, with analyses separated by diagnostic subgroup.\nResults: High cumulative exposure to pramipexole was associated with an increased risk of incident substance use disorder in the overall cohort (aHR 1.51, 95% CI 1.02–2.23), whereas intermediate exposure was not associated with elevated risk. In stratified analyses, the association was particularly pronounced among individuals with bipolar disorder, where high cumulative exposure was associated with more than a twofold increased risk (aHR 2.54, 95% CI 1.25–5.16). No significant association was observed among individuals with unipolar depression.\nConclusions: High cumulative exposure to pramipexole was associated with increased risk of incident substance use disorder in individuals with mood disorders, with the strongest associations observed in bipolar disorder. Cumulative exposure to pramipexole was associated with an increased risk of incident substance use disorder in this nationwide cohort of individuals with mood disorders, with the strongest associations observed among patients with bipolar disorder and evidence of a dose-response pattern primarily at higher exposure levels. Although these findings require confirmation in further studies, they underscore the need to consider behavioural and addictive risks when prescribing dopaminergic agents in psychiatric populations and support enhanced monitoring strategies in clinically vulnerable groups.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "In 3,105 Swedish patients with mood disorders prescribed pramipexole, high cumulative exposure was associated with incident substance use disorder (aHR 1.51), with risk more than doubled in bipolar disorder (aHR 2.54) and no significant association in unipolar depression.",
+        "why_it_matters": "Pramipexole augmentation is gaining traction for treatment-resistant depression, and impulse-control and addictive adverse effects have not shown up in the short efficacy trials that drive that enthusiasm. If confirmed, this argues for explicit addiction risk counseling and monitoring before adding a dopamine agonist, particularly in bipolar depression.",
+        "caveats": "Observational register data with no unexposed comparator, so confounding by indication is a real concern — patients given pramipexole may be more treatment-refractory and already at higher addiction risk.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Addiction",
+          "Psychopharmacology"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Addiction",
+          "Psychopharmacology"
+        ],
+        "evidence_quality": [
+          "Observational / Case series"
+        ]
+      }
+    },
+    {
+      "title": "Safety and Mental Health Outcomes of Oregon State-Regulated Psilocybin Services",
+      "citation": "Korthuis PT, Cook RR, Gregoire D, Stauffer CS, Luoma JB, Pertl K, et al. Safety and Mental Health Outcomes of Oregon State-Regulated Psilocybin Services. JAMA Netw Open. 2026;9(8):e2630608. doi: 10.1001/jamanetworkopen.2026.30608 PMID: 42616497.",
+      "authors": "",
+      "pmid": "42616497",
+      "doi": "10.1001/jamanetworkopen.2026.30608",
+      "abstract": "Importance: Few data inform implementation of emerging state-regulated psilocybin programs.\nObjective: The Open Psychedelic Evaluation Nexus (OPEN) aims to assess the safety and participant outcomes of Oregon's regulated psilocybin services.\nDesign, Setting, and Participants: This cohort study included psilocybin clients enrolled between November 2024 and March 2026, with follow-up through June 2026, at 24 of 26 Oregon psilocybin service centers with active licenses. Eligible participants were consenting Oregon psilocybin services clients supervised by 83 licensed psilocybin facilitators. OPEN's client-facing platform collects confidential data at baseline and at 1 week, 1 month, and 3 months after psilocybin sessions supported by licensed facilitators.\nExposure: State-regulated psilocybin services administered by licensed facilitators at Oregon service centers.\nMain Outcomes and Measures: Mental health outcomes included symptoms of depression (measured by the Patient Health Questionnaire-9 [PHQ-9]), anxiety (measured by the Hospital Anxiety and Depression Scale [HADS]), and posttraumatic stress disorder (PTSD; measured by the 6-item PTSD Checklist [PCL-6]), reported as continuous scores and dichotomized as moderate-to-severe symptoms (PHQ-9, 10 or higher; HADS, 11 or higher; PCL-6, 14 or higher) vs less than moderate symptoms; life satisfaction dichotomized as survey answers of \"agree\" or \"strongly agree\" vs less than \"agree\"; mental well-being; quality of life; overall perceived benefit; and adverse reactions.\nResults: A total of 346 participants (mean age, 49.5 years; 52.5% women; 86.7% White) were enrolled. At baseline, participants reported interests including self-improvement (68.5%), managing mental health symptoms (64.5%), navigating trauma (51.4%), and seeking greater connection with people, Earth, or nature (45.1%); 44.2% had not previously used psychedelics. Mean (SD) PHQ-9 depression scores declined from 9.3 (6.3) at baseline to 4.2 (4.4) at 1 month and 5.2 (4.9) at 3-month follow-up. Mean HADS anxiety scores decreased from 10.1 (4.3) at baseline to 5.6 (4.0) at 1 month and 6.0 (4.1) at 3 months. Mean (SD) PTSD symptom score (PCL-6) declined from 14.1 (4.9) at baseline to 10.7 (3.8) at 1 month and 10.4 (3.7) at 3 months. Moderate-to-severe mental health symptoms decreased for depression from baseline (42.2%) to 1 month (10.6%) (relative risk [RR], 0.26; 95% CI, 0.20-0.34). At 1 month, 91.5% of participants felt they had benefited from the experience and 64.9% ranked it among the 10 most meaningful experiences of their lives. Retention through 3 months was 90%. Serious adverse reactions were uncommon; only 7 participants reported the experience as harmful at 3 months.\nConclusions: and Relevance: In this multisite cohort of participants receiving state-regulated psilocybin services in Oregon, serious adverse reactions were uncommon. Most participants reported improvements in mental health, wellness, and life satisfaction. Longitudinal findings support safety and potential benefits that can inform clinicians, policymakers, and the public as other state-regulated psychedelic services emerge.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Among 346 clients at 24 Oregon state-licensed psilocybin service centers, depression, anxiety and PTSD scores fell substantially by one month and largely held at three months, with serious adverse reactions uncommon and only 7 participants describing the experience as harmful.",
+        "why_it_matters": "This is the first systematic outcome data from a non-medical, state-regulated psilocybin model that patients can already access without a clinician, and psychiatrists in legalizing states are being asked about it. The safety signal is reassuring enough to support informed discussion rather than blanket discouragement, while the setting remains outside clinical oversight.",
+        "caveats": "Uncontrolled cohort of self-selected, self-paying clients who were 86.7% White, with no comparison group, so regression to the mean and expectancy effects cannot be separated from drug effect.",
+        "subspecialty_tags": [
+          "Mood Disorders",
+          "Public Health & Policy"
+        ],
+        "evidence_quality_tags": [
+          "Observational / Case series",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Mood Disorders",
+          "Public Health & Policy"
+        ],
+        "evidence_quality": [
+          "Observational / Case series",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Online psychoeducation and assessment for borderline personality disorder as a first step of care: A pilot study assessing safety, feasibility, and mechanisms of change",
+      "citation": "Choi-Kain LW, Crisp DJ, Mermin S, Murray GE, Jurist JB, Masland SR, et al. Online psychoeducation and assessment for borderline personality disorder as a first step of care: A pilot study assessing safety, feasibility, and mechanisms of change. PLoS One. 2026;21(8):e0353836. doi: 10.1371/journal.pone.0353836 PMID: 42616804.",
+      "authors": "",
+      "pmid": "42616804",
+      "doi": "10.1371/journal.pone.0353836",
+      "abstract": "Background: Treatment guidelines for borderline personality disorder (BPD) recommend assessment, diagnosis, and psychoeducation. We report on the feasibility and safety of a randomized controlled trial protocol of online psychoeducation, assessment, and personalized feedback as an immediate first step of care for BPD.\nMethods: Newly diagnosed participants were randomized to receive 10 videos about BPD or general mental health for two weeks. Half the participants receiving BPD videos were randomized to receive personalized feedback on changes in symptom ratings and cognitive performance. Ecological momentary assessment (EMA) evaluated interpersonal interactions, emotions, and behaviors for 30 days. BPD symptoms, depression, and personality functioning were assessed at baseline, after videos, after feedback, and one month later.\nResults: Eighty-two participants were randomized into three conditions that did not differ significantly in terms of demographics or baseline variables. Dropout occurred for 32.9% of the sample. No differences in rate of emergency room visits, hospitalizations, or other escalations in level of care were reported among groups. Satisfaction was higher for those receiving psychoeducational videos about BPD. Improvement in BPD knowledge in the psychoeducation conditions was significantly greater than the control condition. No statistically significant differences were found regarding reduction of BPD symptoms. The psychoeducation with feedback arm showed significantly greater improvements in self-impairment compared to controls with medium effect size at the final timepoint. Modeling of the relationship between time spent alone and BPD symptoms showed a positive correlation in the control condition, but in the group receiving both psychoeducation about BPD and feedback, this relationship was negative.\nConclusion: Online psychoeducational videos and assessment were safe, feasible, and acceptable to participants with newly diagnosed BPD. Psychoeducation with personalized feedback appears to be more effective than either BPD or general psychoeducation alone in improving deficits in self-functioning, which may relate to an increased capacity to be alone with fewer symptoms.",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Two weeks of online BPD psychoeducation videos was safe and acceptable in newly diagnosed patients with no increase in emergency visits or hospitalizations, and adding personalized feedback improved self-functioning, though BPD symptoms themselves did not decline.",
+        "why_it_matters": "Patients newly diagnosed with BPD typically wait months for specialist psychotherapy, and this supports offering structured psychoeducation immediately as a first step rather than leaving that interval empty. The safety data directly counter the worry that naming the diagnosis and explaining it will destabilize patients.",
+        "caveats": "Pilot study of 82 participants with 32.9% dropout, not powered for symptom change, and follow-up extended only one month.",
+        "subspecialty_tags": [
+          "Psychotherapy"
+        ],
+        "evidence_quality_tags": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      },
+      "tags": {
+        "subspecialty": [
+          "Psychotherapy"
+        ],
+        "evidence_quality": [
+          "Small RCT / Open-label",
+          "Generalizability concern"
+        ]
+      }
+    },
+    {
+      "title": "Temporal course of symptom domain improvement in schizophrenia: individual participant data analysis of six antipsychotic drug trials",
+      "citation": "Leucht S, Harrer M, Illing S, Christogiannis C, Kahn RS, Fleischhacker WW, et al. Temporal course of symptom domain improvement in schizophrenia: individual participant data analysis of six antipsychotic drug trials. Lancet Psychiatry. 2026;13(8):688-698. doi: 10.1016/S2215-0366(26)00174-4 PMID: 42456706.",
+      "authors": "",
+      "pmid": "42456706",
+      "doi": "10.1016/S2215-0366(26)00174-4",
+      "abstract": "BACKGROUND: The temporal course of antipsychotic drug action in schizophrenia remains poorly understood. We aimed to explore how different symptom domains of schizophrenia improve over time. Such knowledge has important implications for treatment decisions and for understanding the mechanisms of action of antipsychotic drugs.\nMETHODS: We analysed individual patient data from an existing repository comprising six antipsychotic drug trials of 6-12 months' duration in patients with acute schizophrenia (n=2079; 1328 [64%] men, 751 [36%] women; 1577 [76%] White, 502 [24%] non-White; mean age 34·72 years [range 16-73]). We used descriptive statistics to examine improvement trajectories across five PANSS symptom domains according to an established five-factor model (positive symptoms, negative symptoms, hostility and excitement, anxiety and depression, and cognitive and disorganisation).\nFINDINGS: In all domains initial improvements were seen in the first 5 weeks. However, time-to-response analysis revealed that 50% improvement of the hostility and excitement domain occurred first, followed by positive symptoms and anxiety and depression.\nINTERPRETATION: Clinicians should be aware of earlier attainment of substantial response of hostility and excitement, then positive symptoms, before substantial reductions in other domains. Treatment changes should not be made prematurely when negative and cognitive and disorganisation symptoms persist, as improvement in these domains lags behind. Researchers should consider these temporal patterns when investigating the mechanisms of action of antipsychotic drugs.\nFUNDING: None.\nClinical Reviews & Meta-Analyses",
+      "edition": "August 2026",
+      "clinical_card": {
+        "bottom_line": "Across 2,079 patients in six antipsychotic trials, hostility and excitement reached 50% improvement first, followed by positive symptoms and then anxiety and depression, while negative and cognitive/disorganization symptoms lagged well behind.",
+        "why_it_matters": "It gives a defensible timeline for what to expect and when, so persisting negative or cognitive symptoms at week 4 to 6 are not on their own grounds to switch an antipsychotic that is working on positive symptoms. That directly reduces premature medication changes and unnecessary polypharmacy.",
+        "caveats": "Descriptive post hoc analysis of trials not designed to compare symptom domain trajectories, in a sample that was 76% White and 64% men.",
+        "subspecialty_tags": [
+          "Psychotic Disorders",
+          "Psychopharmacology"
         ],
         "evidence_quality_tags": [
           "Large RCT / Meta-analysis"
@@ -436,9 +433,8 @@
       },
       "tags": {
         "subspecialty": [
-          "Geriatric Psychiatry",
-          "Neurocognitive",
-          "Medical Psychiatry"
+          "Psychotic Disorders",
+          "Psychopharmacology"
         ],
         "evidence_quality": [
           "Large RCT / Meta-analysis"
@@ -446,83 +442,21 @@
       }
     },
     {
-      "title": "Relapse Prevention After Successful ECT for Depression: The Role of Lithium and Continuation/Maintenance ECT",
-      "citation": "Kellner CH, Jelovac A, Braithwaite R. Relapse Prevention After Successful ECT for Depression: The Role of Lithium and Continuation/Maintenance ECT. Am J Psychiatry. 2026;183(6):370-372. doi: 10.1176/appi.ajp.20260210 PMID: 42219564.",
-      "authors": "",
-      "pmid": "42219564",
-      "doi": "10.1176/appi.ajp.20260210",
-      "abstract": "No abstract available. This is an editorial commentary on the Rovers et al. Delphi-based expert consensus study on relapse prevention strategies following successful ECT for major depressive disorder. The editorial discusses the evidence supporting pharmacotherapy with lithium and an antidepressant as an essential relapse prevention strategy for all patients after successful ECT, and the role of continuation/maintenance ECT (with tapering rather than abrupt cessation) for patients at high risk of relapse and those with severe or psychotic depression. The authors highlight that lithium, because of its proven track record of preventing relapses, should be prescribed for more patients than it currently is.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "This editorial reinforces that lithium plus an antidepressant should be considered near-universal relapse-prevention therapy after successful ECT for depression, with continuation/maintenance ECT (tapered, not abruptly stopped) reserved for higher-risk or psychotic-depression patients.",
-        "why_it_matters": "Relapse after successful ECT is common and under-addressed; this commentary argues lithium is underused despite its strong evidence base for post-ECT relapse prevention, a concrete and actionable practice point for clinicians managing ECT patients.",
-        "caveats": "This is an editorial commentary on a Delphi-based expert consensus study, not new primary trial data.",
-        "subspecialty_tags": [
-          "Mood Disorders",
-          "Neuromodulation",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Mood Disorders",
-          "Neuromodulation",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "The Lithium Landscape Has Dramatically Changed",
-      "citation": "Post RM. The Lithium Landscape Has Dramatically Changed. Am J Psychiatry. 2026;183(6):379-381. doi: 10.1176/appi.ajp.20250958 PMID: 41807314.",
-      "authors": "",
-      "pmid": "41807314",
-      "doi": "10.1176/appi.ajp.20250958",
-      "abstract": "In this article, I focus on three new views of lithium’s clinical and biological properties, indicating the much greater need for its use in bipolar disorder. Lithium’s extensive but underappreciated positive properties in the treatment of bipolar disorder beyond the treatment of mania are briefly summarized. First, I make the case that lithium differs from conventional treatment agents for bipolar disorder because of its extensive breadth of positive effects (1–3). Second, I argue that lithium should be considered a disease-modifying drug. Like other agents in this category in the treatment of medical diseases such as multiple sclerosis and rheumatoid arthritis, they should be considered for use early in the course of these illnesses to prevent illness progression and disability (4). Third, I discuss a revolutionary view of lithium that emerged recently in an article in Nature (5) that presented cogent clinical and preclinical data indicating that deficits in brain lithium are found in mild cognitive impairment (MCI) and Alzheimer’s disease. Moreover, when lithium is replaced in cognitively impaired animals given lithium-deficient diets, the abnormalities are reversed (5). Lithium orotate is a more effective remediator than regular lithium, as it is not sequestered in Alzheimer’s plaques the way natural lithium is.",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "This viewpoint argues lithium deserves broader, earlier use in bipolar disorder as a disease-modifying agent (not just an anti-manic drug), and highlights emerging data suggesting brain lithium deficiency may contribute to Alzheimer's disease and that lithium orotate may better evade sequestration in amyloid plaques.",
-        "why_it_matters": "This reframes lithium's role for psychiatrists — from a maintenance-phase option to a potentially disease-modifying, possibly neuroprotective agent — which could influence how early and how proactively it is offered in bipolar disorder and prompt interest in its role in cognitive aging.",
-        "caveats": "This is a single-author opinion piece; the cited lithium-deficiency/Alzheimer's and lithium-orotate claims are preliminary and directly contested elsewhere in this issue (see 'Lithium orotate: distinct compound or simply Li+ after administration?').",
-        "subspecialty_tags": [
-          "Mood Disorders",
-          "Neurocognitive",
-          "Psychopharmacology"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Mood Disorders",
-          "Neurocognitive",
-          "Psychopharmacology"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "LLMs as Clinical Instruments—Toward Verifiable Reasoning",
-      "citation": "LLMs as Clinical Instruments—Toward Verifiable Reasoning. JAMA Psychiatry. 2026;83. doi: 10.1001/jamapsychiatry.2025.2806 DOI link.",
+      "title": "The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia: A Narrative Review",
+      "citation": "Moore GJ, Bose N, Henter ID, Manji HK. The 25-Year Evolution of Lithium as a Disease-Modifying Agent in Dementia: A Narrative Review. JAMA Psychiatry. 2026;83(9):976-986. doi: 10.1001/jamapsychiatry.2026.1296 DOI link.",
       "authors": "",
       "pmid": "",
-      "doi": "10.1001/jamapsychiatry.2025.2806",
-      "abstract": "This Viewpoint discusses considerations in training mental health clinicians and implementing institutional workflows to use large language models (LLMs) as clinical instruments for improving care.",
-      "edition": "June/July 2026",
+      "doi": "10.1001/jamapsychiatry.2026.1296",
+      "abstract": "Importance: Lithium, a long-established cornerstone therapy for bipolar disorder, is a biologically plausible disease-modifying agent for neurodegenerative disorders, including mild cognitive impairment (MCI) and Alzheimer disease (AD).\nObservations: Rather than targeting a single pathology like amyloid or tau, lithium acts across multiple cellular resilience pathways. Chronic lithium exposure induces the anti-apoptotic protein B-cell lymphoma 2 (Bcl-2), enhances brain-derived neurotrophic factor (BDNF) signaling, inhibits glycogen synthase kinase-3β (GSK-3β), stabilizes mitochondrial function, and reduces oxidative stress. These convergent mechanisms promote neuronal survival and synaptic integrity. In humans, proton magnetic resonance spectroscopy studies found that lithium increased N-acetylaspartate levels, consistent with improved neuronal viability, and structural magnetic resonance imaging (MRI) studies found that lithium preserved gray matter and/or reversed its loss. The recent repletion hypothesis suggests that lithium may also function as a physiological trace element, but these findings await independent replication.\nConclusions: and Relevance: These convergent data support a prospective clinical trial of low-dose lithium orotate to slow disease progression in MCI.",
+      "edition": "August 2026",
       "clinical_card": {
-        "bottom_line": "This viewpoint calls for structured clinician training and institutional workflows for verifying LLM outputs before large language models are trusted as clinical decision-support instruments in mental health care.",
-        "why_it_matters": "As LLM-based tools proliferate in clinical workflows, psychiatrists need frameworks for verifying AI-generated reasoning rather than accepting it at face value — this piece frames the training and governance questions institutions should be addressing now.",
-        "caveats": "Brief opinion/viewpoint piece with no abstract or empirical data provided.",
+        "bottom_line": "Twenty-five years of preclinical and neuroimaging work supports lithium as a plausible disease-modifying agent in MCI and Alzheimer disease through GSK-3β inhibition, BDNF signaling and mitochondrial stabilization, but the clinical trial that would establish this has not been done.",
+        "why_it_matters": "Psychiatrists are increasingly asked about low-dose lithium for cognitive protection, including over-the-counter lithium orotate, and this lays out what the mechanistic case does and does not support. The honest answer remains that human efficacy data in dementia are absent, whatever the biological plausibility.",
+        "caveats": "Narrative review without a systematic search, resting largely on preclinical and imaging surrogates, and the newer repletion hypothesis has not been independently replicated.",
         "subspecialty_tags": [
-          "Public Health & Policy"
+          "Neurocognitive",
+          "Geriatric Psychiatry",
+          "Psychopharmacology"
         ],
         "evidence_quality_tags": [
           "Review / Viewpoint"
@@ -530,37 +464,9 @@
       },
       "tags": {
         "subspecialty": [
-          "Public Health & Policy"
-        ],
-        "evidence_quality": [
-          "Review / Viewpoint"
-        ]
-      }
-    },
-    {
-      "title": "Physician Advice on E-Cigarettes for Smoking Cessation: Differentiating Evidence From Values",
-      "citation": "Hartmann-Boyce J. Physician Advice on E-Cigarettes for Smoking Cessation: Differentiating Evidence From Values. JAMA. 2026 Jul 30. doi: 10.1001/jama.2026.14359. Epub ahead of print PMID: 42530911.",
-      "authors": "",
-      "pmid": "42530911",
-      "doi": "10.1001/jama.2026.14359",
-      "abstract": "",
-      "edition": "June/July 2026",
-      "clinical_card": {
-        "bottom_line": "This viewpoint urges physicians to separate the evidence base on e-cigarettes for smoking cessation from personal or institutional value judgments when counseling patients who smoke, given e-cigarettes' demonstrated efficacy relative to other cessation aids.",
-        "why_it_matters": "Psychiatric patients have disproportionately high smoking rates, and clinician ambivalence about recommending e-cigarettes — often driven by values rather than evidence — can be a real barrier to offering an effective cessation tool; this piece asks clinicians to make that distinction explicit.",
-        "caveats": "No abstract was available for this article; this summary is based on the title and citation only, and it is an opinion piece rather than primary research.",
-        "subspecialty_tags": [
-          "Addiction",
-          "Public Health & Policy"
-        ],
-        "evidence_quality_tags": [
-          "Review / Viewpoint"
-        ]
-      },
-      "tags": {
-        "subspecialty": [
-          "Addiction",
-          "Public Health & Policy"
+          "Neurocognitive",
+          "Geriatric Psychiatry",
+          "Psychopharmacology"
         ],
         "evidence_quality": [
           "Review / Viewpoint"

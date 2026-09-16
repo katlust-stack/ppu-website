@@ -632,6 +632,9 @@ def main():
         docs_dist = os.path.join(DIST, "docs")
         os.makedirs(docs_dist, exist_ok=True)
         for fname in os.listdir(DOCS):
+            # Skip Word lock files (~$...) left behind by an open document
+            if fname.startswith("~$"):
+                continue
             if fname.lower().endswith((".docx", ".doc", ".pdf")):
                 shutil.copy2(os.path.join(DOCS, fname), os.path.join(docs_dist, fname))
                 print(f"  Copied docs/{fname}")
